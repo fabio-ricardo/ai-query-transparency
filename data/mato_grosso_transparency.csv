@@ -1,0 +1,1501 @@
+id,state,municipality,cost_category,cost_description,amount,date,department,contract_type
+1,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,198182.06,2025-11-26,Secretaria de Educação,licitação
+2,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,115003.05,2025-03-27,Guarda Municipal,convênio
+3,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,249492.8,2024-09-11,Polícia Militar,parceria
+4,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,817810.01,2025-03-16,Secretaria de Obras,parceria
+5,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,209141.38,2025-09-20,Guarda Municipal,parceria
+6,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,716990.62,2024-11-19,Departamento de Viação,convênio
+7,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,206911.84,2024-05-25,Creche,contrato direto
+8,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1290353.26,2024-05-13,Departamento de Viação,licitação
+9,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,382006.11,2024-05-12,Guarda Municipal,parceria
+10,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,59625.24,2024-04-22,Prefeitura,convênio
+11,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,83623.27,2024-01-24,Secretaria de Administração,licitação
+12,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,636843.21,2025-08-08,Hospital Municipal,licitação
+13,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,26022.18,2025-10-06,Secretaria de Administração,parceria
+14,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,220765.03,2025-01-01,UBS Central,licitação
+15,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,356780.52,2024-10-10,Secretaria de Saúde,convênio
+16,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,150803.46,2025-10-23,Guarda Municipal,convênio
+17,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,540786.26,2024-12-15,Guarda Municipal,licitação
+18,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,365074.86,2024-08-05,Escola Municipal,contrato direto
+19,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,94256.93,2025-08-23,Prefeitura,licitação
+20,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,404833.66,2024-05-19,Polícia Militar,licitação
+21,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,105100.73,2024-09-21,Polícia Militar,parceria
+22,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,89849.88,2024-01-27,Secretaria de Educação,contrato direto
+23,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,119755.81,2025-08-19,Polícia Militar,convênio
+24,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,63221.73,2024-03-12,Prefeitura,licitação
+25,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,352018.78,2025-01-27,Secretaria de Educação,parceria
+26,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,476628.25,2024-10-12,Creche,contrato direto
+27,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,612938.43,2024-05-31,Hospital Municipal,licitação
+28,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,495368.06,2024-08-06,UBS Central,parceria
+29,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1214731.58,2024-06-22,Secretaria de Obras,convênio
+30,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,23130.25,2025-11-21,Guarda Municipal,parceria
+31,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,272871.1,2025-09-05,Escola Municipal,parceria
+32,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,309538.31,2025-11-02,Polícia Militar,parceria
+33,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,501945.63,2024-11-24,Secretaria de Saúde,parceria
+34,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,883140.56,2026-01-02,Departamento de Viação,parceria
+35,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,188634.68,2024-07-09,UBS Central,licitação
+36,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,102162.35,2024-06-12,Secretaria de Educação,convênio
+37,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,84216.06,2024-05-11,Creche,licitação
+38,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,574120.68,2024-03-12,Guarda Municipal,licitação
+39,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,25137.33,2025-02-27,Secretaria de Administração,contrato direto
+40,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,350018.01,2024-09-22,Secretaria de Saúde,licitação
+41,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,53391.36,2024-02-12,Departamento de Viação,contrato direto
+42,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,106048.49,2024-10-18,Prefeitura,parceria
+43,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,363408.87,2025-09-26,Secretaria de Obras,contrato direto
+44,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,747917.54,2025-03-15,Secretaria de Saúde,contrato direto
+45,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,467192.49,2025-08-07,Creche,convênio
+46,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,751297.95,2026-01-03,Secretaria de Obras,parceria
+47,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,417709.15,2025-09-13,UBS Central,contrato direto
+48,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,82309.42,2024-08-17,Escola Municipal,licitação
+49,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,182338.53,2024-09-04,Creche,parceria
+50,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,114945.86,2025-05-02,Secretaria de Educação,contrato direto
+51,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,165611.61,2025-07-07,Prefeitura,licitação
+52,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,63885.71,2025-03-11,Guarda Municipal,convênio
+53,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,469296.92,2025-04-22,Polícia Militar,convênio
+54,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,91998.34,2024-05-06,Secretaria de Administração,contrato direto
+55,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,295626.39,2025-09-19,Secretaria de Saúde,contrato direto
+56,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,119096.15,2025-09-18,Guarda Municipal,convênio
+57,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,116628.95,2025-11-09,Prefeitura,contrato direto
+58,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,181353.3,2025-03-26,Prefeitura,contrato direto
+59,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,304848.81,2024-02-15,Polícia Militar,parceria
+60,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,1125673.38,2024-08-01,Departamento de Viação,licitação
+61,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,28878.56,2024-09-15,Secretaria de Educação,convênio
+62,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,24786.9,2024-12-14,Secretaria de Educação,convênio
+63,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,202369.83,2024-04-02,Creche,contrato direto
+64,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,1772829.65,2025-05-22,Secretaria de Obras,convênio
+65,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,358943.48,2024-08-25,Guarda Municipal,licitação
+66,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,123182.94,2025-04-04,Prefeitura,licitação
+67,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,89547.58,2025-02-17,Secretaria de Administração,contrato direto
+68,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,394321.4,2025-04-21,Creche,parceria
+69,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,146375.69,2024-02-14,Secretaria de Administração,convênio
+70,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,429808.73,2024-04-30,Polícia Militar,parceria
+71,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,146182.79,2025-07-23,Secretaria de Administração,contrato direto
+72,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,75356.16,2025-01-03,Prefeitura,contrato direto
+73,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,272859.85,2024-11-17,Guarda Municipal,convênio
+74,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,18624.69,2024-06-28,Hospital Municipal,contrato direto
+75,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,36516.5,2024-06-29,Prefeitura,parceria
+76,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1166146.16,2025-09-03,Departamento de Viação,parceria
+77,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,1225805.99,2025-06-01,Departamento de Viação,contrato direto
+78,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,246945.69,2024-12-05,Creche,licitação
+79,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,211044.65,2024-03-24,Guarda Municipal,contrato direto
+80,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,41982.66,2025-01-03,Guarda Municipal,convênio
+81,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,58926.54,2025-06-10,Prefeitura,licitação
+82,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1063739.69,2024-05-20,Departamento de Viação,licitação
+83,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,275705.97,2024-10-27,Polícia Militar,convênio
+84,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,286081.06,2024-04-30,Creche,parceria
+85,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,730389.55,2025-11-11,UBS Central,convênio
+86,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,94704.95,2024-04-22,Polícia Militar,convênio
+87,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,60123.53,2024-10-11,Secretaria de Administração,parceria
+88,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,509985.1,2024-06-17,Departamento de Viação,licitação
+89,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,490516.8,2025-04-24,Secretaria de Educação,parceria
+90,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,265019.87,2025-11-08,UBS Central,convênio
+91,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,77621.59,2025-12-29,Secretaria de Administração,contrato direto
+92,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,245045.87,2025-05-18,Creche,licitação
+93,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,162190.82,2024-06-02,Polícia Militar,licitação
+94,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,525960.27,2024-07-01,Polícia Militar,licitação
+95,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,488671.06,2025-02-06,Guarda Municipal,parceria
+96,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,366398.77,2024-12-20,Escola Municipal,licitação
+97,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,39804.87,2024-07-30,Polícia Militar,convênio
+98,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,153475.58,2025-08-23,Secretaria de Administração,convênio
+99,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,95289.73,2025-01-24,Secretaria de Educação,parceria
+100,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,1312878.68,2024-01-27,Departamento de Viação,convênio
+101,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,572152.05,2024-07-11,Polícia Militar,convênio
+102,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,141067.39,2025-12-15,Secretaria de Saúde,contrato direto
+103,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,393855.25,2025-01-18,Secretaria de Saúde,licitação
+104,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,139771.08,2024-10-27,Secretaria de Administração,convênio
+105,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,197124.48,2024-12-14,Hospital Municipal,licitação
+106,Mato Grosso,Cuiabá,infraestrutura,Gasto com infraestrutura em Cuiabá,1506090.5,2024-08-11,Departamento de Viação,parceria
+107,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,265000.12,2024-01-13,Secretaria de Educação,licitação
+108,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,715337.7,2024-03-09,Secretaria de Saúde,licitação
+109,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,485756.79,2025-10-28,Hospital Municipal,contrato direto
+110,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,963047.96,2024-09-13,Departamento de Viação,contrato direto
+111,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,192114.8,2024-02-14,Secretaria de Saúde,licitação
+112,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,50589.2,2025-02-06,Secretaria de Administração,contrato direto
+113,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,238771.04,2025-03-01,UBS Central,parceria
+114,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,738870.23,2024-01-27,UBS Central,contrato direto
+115,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,243437.99,2024-03-16,Guarda Municipal,convênio
+116,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,445792.62,2025-08-13,Departamento de Viação,parceria
+117,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,308553.12,2024-01-08,Hospital Municipal,parceria
+118,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,139460.07,2024-09-12,Prefeitura,contrato direto
+119,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,343179.88,2025-06-05,Creche,licitação
+120,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,67168.93,2024-07-25,Secretaria de Administração,parceria
+121,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,151251.52,2025-11-17,Creche,parceria
+122,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,162056.81,2024-06-29,Secretaria de Obras,parceria
+123,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,1914387.96,2025-08-17,Departamento de Viação,convênio
+124,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,139940.64,2024-04-21,Prefeitura,licitação
+125,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,101596.39,2025-08-09,Secretaria de Administração,convênio
+126,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,3897.54,2025-12-25,Prefeitura,licitação
+127,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,36356.72,2025-10-23,Prefeitura,convênio
+128,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,914104.02,2025-02-03,Secretaria de Obras,parceria
+129,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,283844.79,2024-09-06,Polícia Militar,parceria
+130,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,480620.23,2025-04-07,Guarda Municipal,convênio
+131,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,152986.58,2024-09-12,Prefeitura,parceria
+132,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,63554.22,2024-08-14,Prefeitura,contrato direto
+133,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,330466.67,2025-07-07,Secretaria de Educação,parceria
+134,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,381537.08,2024-09-03,Secretaria de Saúde,contrato direto
+135,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,630580.54,2025-08-01,Secretaria de Saúde,parceria
+136,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,329000.89,2024-02-23,Secretaria de Educação,contrato direto
+137,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,397279.86,2024-04-29,Guarda Municipal,convênio
+138,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,284095.81,2025-06-11,Polícia Militar,contrato direto
+139,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,355010.44,2025-06-05,Departamento de Viação,convênio
+140,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,628322.54,2025-03-29,Secretaria de Saúde,parceria
+141,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,267286.85,2024-09-27,UBS Central,licitação
+142,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,428247.23,2025-09-18,Polícia Militar,parceria
+143,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,130954.06,2025-12-28,Secretaria de Administração,contrato direto
+144,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,177720.99,2024-12-12,Guarda Municipal,convênio
+145,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,404342.83,2025-03-24,Escola Municipal,parceria
+146,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,816806.0,2025-09-05,Departamento de Viação,parceria
+147,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,52195.3,2024-04-23,Secretaria de Educação,contrato direto
+148,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,81935.75,2025-07-11,Secretaria de Administração,parceria
+149,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,46790.59,2025-11-12,Secretaria de Administração,convênio
+150,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,617649.22,2024-03-21,Departamento de Viação,contrato direto
+151,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,152839.4,2025-12-13,Prefeitura,convênio
+152,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,596022.06,2024-11-12,Hospital Municipal,parceria
+153,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,586247.81,2025-02-19,Departamento de Viação,parceria
+154,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,1295390.57,2024-10-07,Departamento de Viação,licitação
+155,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,399319.48,2024-01-16,Creche,parceria
+156,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,320042.19,2025-07-31,UBS Central,parceria
+157,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,65127.07,2025-04-17,Secretaria de Administração,contrato direto
+158,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1772707.68,2025-08-31,Departamento de Viação,contrato direto
+159,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,580468.39,2025-01-22,Secretaria de Saúde,contrato direto
+160,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,575881.68,2025-08-11,Secretaria de Obras,parceria
+161,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,63350.61,2025-06-08,Prefeitura,contrato direto
+162,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,437240.75,2025-12-17,Creche,licitação
+163,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,559305.06,2024-08-11,Guarda Municipal,contrato direto
+164,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,143107.79,2025-11-08,Prefeitura,parceria
+165,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,256214.61,2025-04-30,Polícia Militar,licitação
+166,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,220866.95,2024-02-13,Guarda Municipal,convênio
+167,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,175366.98,2024-01-17,Guarda Municipal,contrato direto
+168,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,72793.46,2025-07-04,Secretaria de Administração,licitação
+169,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,84779.52,2024-06-04,Prefeitura,licitação
+170,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,178115.12,2025-08-26,Polícia Militar,contrato direto
+171,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,1595884.34,2025-03-20,Departamento de Viação,contrato direto
+172,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,771358.49,2024-06-09,Secretaria de Obras,parceria
+173,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,549629.44,2025-09-29,Hospital Municipal,parceria
+174,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,357622.09,2025-03-05,Guarda Municipal,convênio
+175,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,478027.41,2024-10-17,Departamento de Viação,convênio
+176,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,77527.48,2024-05-10,Secretaria de Administração,convênio
+177,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,325659.52,2024-04-17,Polícia Militar,convênio
+178,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,583008.16,2024-10-19,Polícia Militar,licitação
+179,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,992796.8,2024-12-22,Departamento de Viação,convênio
+180,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,529237.08,2024-06-05,Guarda Municipal,convênio
+181,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,83999.1,2024-02-02,Guarda Municipal,contrato direto
+182,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,186512.78,2025-10-30,UBS Central,licitação
+183,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,115041.67,2025-11-13,Secretaria de Administração,contrato direto
+184,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,168726.86,2025-12-16,Hospital Municipal,convênio
+185,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,524037.08,2024-04-30,Secretaria de Obras,licitação
+186,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,264879.53,2024-06-28,Polícia Militar,contrato direto
+187,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,180645.06,2025-08-03,Secretaria de Saúde,parceria
+188,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,132604.75,2025-04-28,Secretaria de Administração,licitação
+189,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,349640.09,2024-07-27,Hospital Municipal,contrato direto
+190,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,957026.67,2025-02-12,Secretaria de Obras,parceria
+191,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,204703.5,2024-08-19,Departamento de Viação,parceria
+192,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,527103.21,2025-03-04,Polícia Militar,contrato direto
+193,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1332732.91,2024-06-01,Secretaria de Obras,convênio
+194,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,451273.62,2025-10-24,Secretaria de Obras,contrato direto
+195,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,95276.81,2024-01-28,Prefeitura,contrato direto
+196,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,369853.97,2025-09-29,Hospital Municipal,licitação
+197,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,110736.63,2025-05-24,Creche,convênio
+198,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,462720.32,2024-08-28,Hospital Municipal,contrato direto
+199,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,54650.85,2024-11-24,Polícia Militar,convênio
+200,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,621677.59,2025-09-14,UBS Central,contrato direto
+201,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,550159.05,2025-08-11,UBS Central,convênio
+202,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,556308.05,2025-05-03,Guarda Municipal,convênio
+203,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,443341.37,2024-08-27,Polícia Militar,parceria
+204,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,110536.24,2025-01-11,Guarda Municipal,parceria
+205,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,84719.38,2024-08-19,Prefeitura,parceria
+206,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1406476.39,2025-01-28,Secretaria de Obras,licitação
+207,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,426373.76,2024-05-24,Guarda Municipal,parceria
+208,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,578592.09,2024-02-10,Polícia Militar,convênio
+209,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,658314.43,2025-12-10,Departamento de Viação,contrato direto
+210,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,279025.1,2024-10-28,Polícia Militar,parceria
+211,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,120892.53,2025-04-02,Secretaria de Administração,contrato direto
+212,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,408642.76,2025-11-22,Creche,contrato direto
+213,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,182608.33,2025-07-20,Prefeitura,convênio
+214,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,387867.28,2024-03-31,Escola Municipal,parceria
+215,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,387181.36,2025-10-08,Hospital Municipal,contrato direto
+216,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,34106.79,2024-02-12,Secretaria de Administração,convênio
+217,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,14487.13,2025-10-20,Secretaria de Administração,parceria
+218,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,140868.84,2025-08-16,Prefeitura,contrato direto
+219,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,232802.74,2025-09-14,Polícia Militar,parceria
+220,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,34401.12,2025-02-22,Prefeitura,convênio
+221,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,201248.74,2025-05-08,UBS Central,contrato direto
+222,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,518195.35,2025-11-09,Guarda Municipal,parceria
+223,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,313590.49,2024-12-19,Secretaria de Obras,parceria
+224,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,244502.56,2024-09-07,Creche,licitação
+225,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1977485.89,2024-01-28,Departamento de Viação,parceria
+226,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,32267.58,2024-12-29,Prefeitura,convênio
+227,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,36307.84,2025-03-16,UBS Central,parceria
+228,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1105489.25,2025-03-16,Secretaria de Obras,parceria
+229,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,476669.02,2025-10-06,Guarda Municipal,parceria
+230,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,663133.03,2025-12-04,UBS Central,licitação
+231,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,147583.91,2025-08-26,Secretaria de Educação,contrato direto
+232,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,1657007.49,2025-04-30,Departamento de Viação,licitação
+233,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,655947.29,2025-12-28,Hospital Municipal,licitação
+234,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,378998.5,2024-01-10,UBS Central,licitação
+235,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,785074.45,2024-09-17,Secretaria de Obras,licitação
+236,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,75619.55,2025-10-15,UBS Central,parceria
+237,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,164568.57,2024-06-06,Secretaria de Educação,licitação
+238,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,197337.29,2024-12-19,Secretaria de Saúde,licitação
+239,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,1833171.76,2024-10-30,Departamento de Viação,convênio
+240,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,548035.04,2025-09-18,Hospital Municipal,licitação
+241,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,225657.09,2024-10-24,Secretaria de Saúde,contrato direto
+242,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,66494.24,2024-11-19,Guarda Municipal,licitação
+243,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,130304.29,2025-08-21,Secretaria de Administração,contrato direto
+244,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,491818.41,2024-06-09,Guarda Municipal,parceria
+245,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,420805.32,2025-02-01,UBS Central,convênio
+246,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,434753.23,2024-01-17,Polícia Militar,licitação
+247,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,191014.41,2024-05-30,Polícia Militar,parceria
+248,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,7497.43,2025-11-18,Prefeitura,contrato direto
+249,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,49939.54,2025-10-04,Creche,parceria
+250,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,559790.4,2025-06-28,Polícia Militar,contrato direto
+251,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,538388.79,2024-11-26,Polícia Militar,parceria
+252,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1856940.49,2025-09-15,Secretaria de Obras,parceria
+253,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,668218.2,2024-01-14,UBS Central,convênio
+254,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,13416.77,2024-01-15,Prefeitura,licitação
+255,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,62391.49,2025-12-31,Secretaria de Administração,parceria
+256,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,237117.69,2024-06-09,Creche,parceria
+257,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,581487.47,2025-04-04,Departamento de Viação,contrato direto
+258,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,333122.07,2024-10-08,Guarda Municipal,licitação
+259,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,298290.02,2025-11-24,Guarda Municipal,licitação
+260,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,672457.97,2025-10-09,UBS Central,convênio
+261,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,110888.98,2024-12-03,Secretaria de Educação,convênio
+262,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,570192.87,2024-06-17,Guarda Municipal,parceria
+263,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,58661.21,2026-01-04,Secretaria de Educação,licitação
+264,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,119434.8,2025-07-06,Escola Municipal,contrato direto
+265,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,1986074.52,2024-11-25,Secretaria de Obras,parceria
+266,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,247184.46,2025-09-11,Hospital Municipal,convênio
+267,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,536106.28,2025-08-21,Polícia Militar,contrato direto
+268,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,80917.56,2025-03-02,Secretaria de Administração,convênio
+269,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,372912.23,2025-01-12,Polícia Militar,convênio
+270,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,541931.15,2025-07-29,Secretaria de Saúde,convênio
+271,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,1699231.18,2025-01-22,Departamento de Viação,parceria
+272,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,596777.54,2025-04-17,Guarda Municipal,convênio
+273,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,122837.3,2024-02-16,Creche,parceria
+274,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,442571.78,2024-11-23,Secretaria de Educação,parceria
+275,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,145278.63,2024-07-12,Escola Municipal,convênio
+276,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,314285.66,2025-08-23,Secretaria de Educação,contrato direto
+277,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,274743.81,2025-04-20,Secretaria de Obras,licitação
+278,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,413564.52,2025-03-25,Departamento de Viação,parceria
+279,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,110867.0,2024-10-01,Prefeitura,parceria
+280,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,94816.49,2025-10-07,Departamento de Viação,licitação
+281,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,40181.78,2024-11-22,Prefeitura,convênio
+282,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,1784469.87,2024-08-17,Secretaria de Obras,parceria
+283,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,405685.3,2024-05-28,Escola Municipal,parceria
+284,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,755718.52,2025-06-30,Secretaria de Saúde,licitação
+285,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,605106.5,2025-10-07,UBS Central,contrato direto
+286,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,1815106.95,2024-10-18,Secretaria de Obras,licitação
+287,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,564727.0,2024-12-16,UBS Central,convênio
+288,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,185796.82,2024-06-06,Secretaria de Educação,licitação
+289,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1715253.07,2024-07-24,Secretaria de Obras,parceria
+290,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,33807.3,2025-08-20,Prefeitura,licitação
+291,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,36541.06,2024-07-28,Prefeitura,convênio
+292,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,439512.3,2024-02-28,Creche,convênio
+293,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,498211.91,2024-09-12,Polícia Militar,convênio
+294,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,634276.54,2024-08-25,Secretaria de Obras,contrato direto
+295,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,43398.45,2025-04-15,Creche,parceria
+296,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,184609.19,2024-02-14,Escola Municipal,licitação
+297,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,1141781.99,2025-05-21,Departamento de Viação,licitação
+298,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,391892.31,2025-02-08,Guarda Municipal,parceria
+299,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,635768.84,2025-04-20,Hospital Municipal,contrato direto
+300,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,197836.97,2025-07-31,Secretaria de Obras,licitação
+301,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,77851.43,2024-11-07,Hospital Municipal,contrato direto
+302,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,146061.12,2024-07-05,Polícia Militar,licitação
+303,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,117508.97,2024-02-03,Secretaria de Administração,contrato direto
+304,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,174685.59,2025-03-07,Secretaria de Administração,parceria
+305,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1606622.62,2024-05-28,Secretaria de Obras,licitação
+306,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,1613538.65,2024-06-16,Departamento de Viação,contrato direto
+307,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,471056.14,2024-02-03,Polícia Militar,contrato direto
+308,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,53502.42,2024-06-23,Escola Municipal,licitação
+309,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,328579.46,2025-02-21,Guarda Municipal,convênio
+310,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,84641.46,2024-06-05,Prefeitura,parceria
+311,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,159470.63,2024-08-27,Prefeitura,parceria
+312,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,229670.9,2025-05-05,Creche,contrato direto
+313,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,319747.41,2025-05-12,Polícia Militar,convênio
+314,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,188403.12,2026-01-06,Prefeitura,convênio
+315,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,184259.39,2024-03-23,Secretaria de Administração,licitação
+316,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,52917.06,2025-06-27,Secretaria de Administração,licitação
+317,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,111112.88,2025-01-04,Prefeitura,contrato direto
+318,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,14680.03,2024-10-07,Hospital Municipal,convênio
+319,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,961381.35,2025-09-18,Secretaria de Obras,parceria
+320,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,450563.52,2025-10-03,Creche,contrato direto
+321,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,189674.0,2024-10-26,Creche,contrato direto
+322,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,257129.19,2025-10-14,Hospital Municipal,contrato direto
+323,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,218342.56,2024-07-02,Creche,contrato direto
+324,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,1730009.36,2025-09-27,Departamento de Viação,convênio
+325,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,101583.36,2025-05-28,Guarda Municipal,convênio
+326,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,179765.08,2025-12-26,Guarda Municipal,licitação
+327,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,677443.66,2025-04-08,Hospital Municipal,convênio
+328,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,68471.23,2025-05-14,Creche,contrato direto
+329,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,121676.44,2024-01-31,Prefeitura,parceria
+330,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,97904.39,2024-12-19,Secretaria de Administração,licitação
+331,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,21322.35,2024-05-29,Secretaria de Saúde,convênio
+332,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,139959.32,2025-03-17,Prefeitura,convênio
+333,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,407702.74,2024-11-08,Secretaria de Educação,convênio
+334,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,590227.04,2024-03-06,Guarda Municipal,licitação
+335,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,180208.15,2024-02-13,Prefeitura,contrato direto
+336,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,196487.98,2025-03-11,Prefeitura,contrato direto
+337,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,64884.51,2025-01-22,Prefeitura,convênio
+338,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,149299.82,2025-07-27,Hospital Municipal,convênio
+339,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,99354.14,2025-02-20,Prefeitura,convênio
+340,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,87615.58,2025-07-14,Polícia Militar,parceria
+341,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,498475.62,2025-05-27,Escola Municipal,parceria
+342,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,767707.4,2025-02-06,Secretaria de Saúde,parceria
+343,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,762424.04,2025-12-08,UBS Central,contrato direto
+344,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,76851.05,2025-04-29,UBS Central,parceria
+345,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,1566424.16,2024-09-09,Departamento de Viação,licitação
+346,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,373184.84,2025-08-02,Hospital Municipal,licitação
+347,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,94584.05,2024-11-02,Creche,contrato direto
+348,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,653585.5,2025-08-01,Secretaria de Saúde,convênio
+349,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,301110.86,2025-10-10,Escola Municipal,licitação
+350,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,339281.82,2024-02-07,Guarda Municipal,convênio
+351,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,603275.33,2025-03-18,Hospital Municipal,contrato direto
+352,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,175873.59,2024-10-02,Creche,licitação
+353,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,103871.19,2024-08-03,Prefeitura,convênio
+354,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,79159.94,2025-03-23,Prefeitura,parceria
+355,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,186636.7,2025-02-05,Creche,licitação
+356,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,1255400.84,2025-10-18,Departamento de Viação,contrato direto
+357,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,112919.91,2024-04-07,Prefeitura,convênio
+358,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,175603.91,2024-02-22,Prefeitura,parceria
+359,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,359726.8,2024-08-30,Secretaria de Saúde,licitação
+360,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,160440.14,2024-07-17,Prefeitura,licitação
+361,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,478473.25,2025-08-03,Guarda Municipal,parceria
+362,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,41370.87,2025-02-13,Prefeitura,parceria
+363,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1523516.37,2024-09-04,Secretaria de Obras,convênio
+364,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,145410.05,2025-10-07,Departamento de Viação,licitação
+365,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,465759.6,2025-03-23,Guarda Municipal,contrato direto
+366,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,139733.98,2024-09-28,Prefeitura,convênio
+367,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,233373.35,2025-12-02,Creche,parceria
+368,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,45126.51,2024-05-18,Hospital Municipal,contrato direto
+369,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,24453.74,2025-09-05,Secretaria de Educação,parceria
+370,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,19366.13,2025-02-13,Prefeitura,licitação
+371,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,203306.35,2025-05-12,Guarda Municipal,licitação
+372,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1054468.06,2025-09-04,Secretaria de Obras,convênio
+373,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,1001743.32,2025-05-22,Secretaria de Obras,parceria
+374,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,420851.98,2024-03-15,Guarda Municipal,parceria
+375,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,165349.74,2024-12-24,Secretaria de Administração,licitação
+376,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,661622.95,2025-06-18,Secretaria de Saúde,convênio
+377,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1788320.15,2025-02-11,Departamento de Viação,licitação
+378,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,105388.32,2025-04-13,Prefeitura,licitação
+379,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,422670.71,2024-11-04,Guarda Municipal,parceria
+380,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,152131.95,2024-11-24,Secretaria de Administração,contrato direto
+381,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,107806.86,2025-04-16,Secretaria de Obras,contrato direto
+382,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,702290.11,2025-10-18,Secretaria de Obras,licitação
+383,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,128540.26,2025-12-13,Secretaria de Administração,licitação
+384,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,313183.4,2024-04-23,Escola Municipal,parceria
+385,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,25208.68,2025-06-13,Polícia Militar,convênio
+386,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,426336.63,2025-09-23,Polícia Militar,parceria
+387,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,17884.82,2025-09-05,Secretaria de Administração,convênio
+388,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,48024.8,2024-05-25,Secretaria de Administração,parceria
+389,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,457592.08,2025-11-25,Polícia Militar,convênio
+390,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,195504.32,2024-07-04,Secretaria de Administração,contrato direto
+391,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,71033.17,2024-06-30,Prefeitura,contrato direto
+392,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,233293.42,2024-03-23,Departamento de Viação,convênio
+393,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,299050.07,2024-04-01,Secretaria de Saúde,convênio
+394,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,852548.56,2024-03-24,Secretaria de Obras,parceria
+395,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,116473.23,2025-10-14,Escola Municipal,parceria
+396,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,311750.69,2025-09-04,Escola Municipal,licitação
+397,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,397482.85,2024-07-12,Polícia Militar,licitação
+398,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,305364.48,2024-04-25,Escola Municipal,parceria
+399,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,522140.76,2024-03-29,Guarda Municipal,licitação
+400,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,179880.71,2025-04-30,Secretaria de Administração,convênio
+401,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,13662.26,2024-04-23,Hospital Municipal,convênio
+402,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,371262.29,2025-02-19,Creche,parceria
+403,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,303855.47,2024-05-14,Guarda Municipal,licitação
+404,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,559064.7,2024-04-25,Secretaria de Saúde,convênio
+405,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,291007.54,2024-03-10,Polícia Militar,licitação
+406,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,302818.73,2025-08-25,Departamento de Viação,licitação
+407,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,497021.94,2024-11-01,UBS Central,convênio
+408,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,79083.85,2024-04-19,Prefeitura,licitação
+409,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,319489.87,2025-03-25,Guarda Municipal,licitação
+410,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,68083.81,2025-11-28,Secretaria de Administração,convênio
+411,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,503601.83,2025-09-03,Guarda Municipal,contrato direto
+412,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,49992.64,2025-08-17,Prefeitura,licitação
+413,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,482297.67,2024-08-02,Guarda Municipal,licitação
+414,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,65875.96,2025-09-16,Prefeitura,contrato direto
+415,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,132477.88,2024-10-04,Prefeitura,contrato direto
+416,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,471449.66,2024-04-04,Guarda Municipal,contrato direto
+417,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,172527.25,2024-06-10,Creche,contrato direto
+418,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,895125.76,2024-10-10,Departamento de Viação,contrato direto
+419,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,1537105.37,2025-05-14,Departamento de Viação,parceria
+420,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,305365.18,2025-10-19,Hospital Municipal,contrato direto
+421,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,422899.35,2025-10-29,Hospital Municipal,contrato direto
+422,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,261068.08,2025-05-13,Escola Municipal,licitação
+423,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,137443.55,2024-07-06,Guarda Municipal,parceria
+424,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,291226.18,2025-03-26,Escola Municipal,parceria
+425,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,20005.07,2025-01-22,Prefeitura,convênio
+426,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,354121.96,2025-04-09,Secretaria de Educação,convênio
+427,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,446635.25,2024-12-09,Escola Municipal,contrato direto
+428,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,179265.26,2025-05-24,Polícia Militar,parceria
+429,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1990649.22,2024-02-22,Secretaria de Obras,contrato direto
+430,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,27357.65,2025-12-02,Secretaria de Educação,licitação
+431,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,49268.38,2025-05-25,Secretaria de Administração,convênio
+432,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,610121.23,2025-03-21,Secretaria de Obras,licitação
+433,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,730860.02,2024-12-23,Hospital Municipal,convênio
+434,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1202034.83,2024-09-22,Departamento de Viação,convênio
+435,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,459313.65,2025-05-09,Creche,contrato direto
+436,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,334204.99,2025-07-19,Secretaria de Educação,convênio
+437,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,753740.88,2025-04-22,Secretaria de Obras,parceria
+438,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,146929.77,2025-10-14,Prefeitura,parceria
+439,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,118150.45,2024-09-30,Creche,convênio
+440,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,279975.31,2024-09-13,UBS Central,convênio
+441,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,917146.29,2025-05-13,Secretaria de Obras,licitação
+442,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,117601.94,2024-04-30,Departamento de Viação,contrato direto
+443,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,233490.93,2024-09-20,Polícia Militar,parceria
+444,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,189328.12,2024-05-24,Prefeitura,licitação
+445,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,367925.23,2025-03-05,Secretaria de Educação,licitação
+446,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,104437.59,2024-02-13,Hospital Municipal,contrato direto
+447,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,185554.27,2024-12-23,Secretaria de Saúde,contrato direto
+448,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,222964.48,2025-08-27,Escola Municipal,parceria
+449,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,470166.93,2025-11-12,Polícia Militar,licitação
+450,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,477545.8,2025-03-20,Creche,contrato direto
+451,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,304274.43,2024-10-17,Creche,convênio
+452,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,16116.21,2025-05-12,Secretaria de Administração,contrato direto
+453,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,289389.51,2025-10-06,Guarda Municipal,convênio
+454,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,77165.11,2024-05-23,Hospital Municipal,contrato direto
+455,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1704931.88,2025-02-19,Secretaria de Obras,contrato direto
+456,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,199879.11,2026-01-03,Secretaria de Administração,convênio
+457,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,71193.11,2024-09-01,UBS Central,contrato direto
+458,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,389822.48,2025-01-14,Departamento de Viação,licitação
+459,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,417058.38,2024-05-13,Creche,licitação
+460,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,262639.68,2025-05-13,Secretaria de Saúde,contrato direto
+461,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,166488.55,2024-11-04,Prefeitura,licitação
+462,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,176258.05,2024-08-24,Guarda Municipal,contrato direto
+463,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,17735.38,2025-07-14,Prefeitura,contrato direto
+464,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,158852.39,2025-06-11,UBS Central,parceria
+465,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,450042.06,2024-10-23,Hospital Municipal,contrato direto
+466,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,945403.22,2025-08-20,Secretaria de Obras,contrato direto
+467,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,480685.9,2024-04-02,Hospital Municipal,convênio
+468,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,1251760.27,2025-11-18,Departamento de Viação,contrato direto
+469,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,163042.91,2024-06-21,Guarda Municipal,parceria
+470,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,32122.41,2025-02-23,Secretaria de Saúde,contrato direto
+471,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,29278.35,2024-10-18,UBS Central,convênio
+472,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,88541.28,2024-02-25,Prefeitura,convênio
+473,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,76275.17,2025-06-26,Escola Municipal,contrato direto
+474,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,713222.74,2024-11-24,Secretaria de Saúde,convênio
+475,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,169600.79,2025-10-07,Secretaria de Administração,convênio
+476,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,93514.18,2024-12-03,Creche,parceria
+477,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,109214.76,2024-07-23,Secretaria de Obras,licitação
+478,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,106846.24,2024-05-22,Creche,convênio
+479,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,475896.87,2024-08-10,Secretaria de Educação,convênio
+480,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,294429.2,2024-07-15,Guarda Municipal,contrato direto
+481,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,80916.56,2024-02-14,Secretaria de Administração,contrato direto
+482,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,788045.51,2024-04-06,Departamento de Viação,contrato direto
+483,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,291263.58,2024-05-29,Secretaria de Saúde,contrato direto
+484,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,38262.38,2024-10-27,Creche,licitação
+485,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,251406.87,2024-05-20,Hospital Municipal,convênio
+486,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,449144.83,2025-01-29,Departamento de Viação,convênio
+487,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,210822.16,2025-01-03,Creche,parceria
+488,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,795076.62,2025-05-29,Departamento de Viação,parceria
+489,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,212662.03,2025-11-09,Polícia Militar,licitação
+490,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,150181.39,2025-10-26,Secretaria de Administração,parceria
+491,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,329114.68,2024-06-06,Escola Municipal,contrato direto
+492,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,31942.62,2024-08-11,Secretaria de Administração,parceria
+493,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,495559.28,2025-10-13,Guarda Municipal,licitação
+494,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,142502.68,2024-08-15,Prefeitura,contrato direto
+495,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,385410.31,2024-02-13,Secretaria de Educação,convênio
+496,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,223911.41,2025-09-09,Creche,licitação
+497,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,351844.58,2024-10-09,Guarda Municipal,licitação
+498,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,121376.12,2024-02-13,Guarda Municipal,contrato direto
+499,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,456368.6,2024-03-28,UBS Central,parceria
+500,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,265081.76,2024-12-03,Secretaria de Saúde,convênio
+501,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,461690.45,2025-01-04,Guarda Municipal,convênio
+502,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,265916.63,2025-07-31,Escola Municipal,convênio
+503,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,58595.13,2025-11-14,Secretaria de Administração,licitação
+504,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,350365.74,2025-02-10,Secretaria de Saúde,contrato direto
+505,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,74543.8,2025-01-15,Guarda Municipal,licitação
+506,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,32800.19,2025-12-05,Polícia Militar,parceria
+507,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,103579.76,2025-06-09,Hospital Municipal,parceria
+508,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,432183.57,2025-01-13,Polícia Militar,contrato direto
+509,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,555384.36,2025-01-26,Polícia Militar,convênio
+510,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,567565.57,2024-10-10,Hospital Municipal,contrato direto
+511,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,273529.5,2025-03-20,Secretaria de Educação,parceria
+512,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,884819.59,2025-11-11,Secretaria de Obras,parceria
+513,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,329665.73,2024-05-25,Creche,licitação
+514,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,108291.45,2024-06-20,Secretaria de Administração,convênio
+515,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,65810.36,2024-09-08,Secretaria de Administração,licitação
+516,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,731033.0,2025-07-28,Secretaria de Obras,licitação
+517,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,1516162.39,2025-11-06,Departamento de Viação,parceria
+518,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,645174.23,2024-08-24,Departamento de Viação,licitação
+519,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,19304.63,2024-09-20,Polícia Militar,licitação
+520,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,172828.55,2025-03-22,Creche,contrato direto
+521,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,224916.04,2025-07-26,Hospital Municipal,parceria
+522,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,10012.16,2024-05-11,UBS Central,licitação
+523,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1585476.49,2024-02-25,Departamento de Viação,convênio
+524,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,526896.63,2025-09-04,Guarda Municipal,parceria
+525,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,333861.98,2024-07-01,Escola Municipal,convênio
+526,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,240588.47,2025-08-08,UBS Central,contrato direto
+527,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,1546749.26,2025-02-25,Secretaria de Obras,contrato direto
+528,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,77123.78,2025-09-23,Prefeitura,licitação
+529,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,419763.04,2025-11-28,Hospital Municipal,contrato direto
+530,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,556293.43,2025-05-24,Departamento de Viação,convênio
+531,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,31577.0,2024-07-12,Secretaria de Administração,contrato direto
+532,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,464512.52,2024-09-15,Departamento de Viação,contrato direto
+533,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1931080.82,2024-11-19,Secretaria de Obras,parceria
+534,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,349532.46,2024-02-05,Polícia Militar,convênio
+535,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,330950.85,2025-11-25,Secretaria de Saúde,parceria
+536,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,24266.25,2025-09-06,Prefeitura,parceria
+537,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,184162.73,2025-10-29,Polícia Militar,parceria
+538,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,459578.45,2025-08-09,Polícia Militar,contrato direto
+539,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,175353.43,2025-01-20,Secretaria de Saúde,parceria
+540,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,206771.83,2024-08-29,Secretaria de Educação,parceria
+541,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,33040.09,2025-01-16,UBS Central,convênio
+542,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,455488.66,2025-02-01,Guarda Municipal,convênio
+543,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,49746.1,2024-11-08,Escola Municipal,contrato direto
+544,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,77515.8,2025-02-02,Prefeitura,parceria
+545,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1701488.35,2024-03-03,Secretaria de Obras,parceria
+546,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,64076.59,2025-05-06,Prefeitura,licitação
+547,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1589549.02,2025-03-16,Departamento de Viação,parceria
+548,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,437599.06,2025-05-13,Escola Municipal,convênio
+549,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,251597.68,2025-10-16,UBS Central,contrato direto
+550,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,34412.03,2025-10-09,Prefeitura,contrato direto
+551,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,118541.08,2024-04-01,Prefeitura,parceria
+552,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,213466.23,2024-10-24,Guarda Municipal,parceria
+553,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1348809.65,2024-12-31,Departamento de Viação,parceria
+554,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,427528.61,2025-11-19,Escola Municipal,licitação
+555,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,361865.92,2024-06-11,Escola Municipal,convênio
+556,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,149446.84,2024-06-24,Secretaria de Saúde,parceria
+557,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,1855104.12,2025-11-12,Secretaria de Obras,contrato direto
+558,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,694133.59,2024-07-14,Secretaria de Obras,licitação
+559,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,104398.81,2025-07-27,Guarda Municipal,parceria
+560,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,549109.57,2025-10-22,Secretaria de Saúde,parceria
+561,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,570331.23,2025-07-13,Hospital Municipal,contrato direto
+562,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,90890.92,2024-01-21,Prefeitura,parceria
+563,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,325658.53,2024-08-17,Escola Municipal,convênio
+564,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,527488.27,2025-07-17,Secretaria de Saúde,contrato direto
+565,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,326968.57,2024-02-28,Escola Municipal,convênio
+566,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,872487.47,2024-04-27,Secretaria de Obras,licitação
+567,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1936458.88,2024-02-09,Departamento de Viação,parceria
+568,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,146172.9,2024-04-28,Prefeitura,licitação
+569,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,422423.22,2025-11-07,Guarda Municipal,contrato direto
+570,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1560132.45,2024-02-09,Departamento de Viação,parceria
+571,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,468720.26,2025-07-02,Secretaria de Saúde,licitação
+572,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,702857.13,2024-06-19,Hospital Municipal,licitação
+573,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1521948.37,2025-03-08,Secretaria de Obras,licitação
+574,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,200666.35,2025-06-02,Creche,licitação
+575,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1841054.41,2024-05-12,Secretaria de Obras,convênio
+576,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,360013.72,2024-11-28,Hospital Municipal,licitação
+577,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,48078.08,2024-10-10,Guarda Municipal,convênio
+578,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,464300.35,2025-11-09,Polícia Militar,convênio
+579,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,127592.43,2025-05-09,Prefeitura,contrato direto
+580,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,465214.41,2025-12-15,Escola Municipal,convênio
+581,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,81792.07,2024-07-17,Polícia Militar,licitação
+582,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,118185.35,2024-10-13,Polícia Militar,licitação
+583,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1069792.06,2025-02-19,Secretaria de Obras,contrato direto
+584,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1850455.76,2024-12-08,Departamento de Viação,contrato direto
+585,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,13143.76,2025-06-12,Creche,licitação
+586,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,245761.64,2025-10-11,Polícia Militar,licitação
+587,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,420993.7,2024-11-17,Polícia Militar,parceria
+588,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,911873.57,2024-07-17,Secretaria de Obras,convênio
+589,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,318265.2,2024-10-08,Secretaria de Educação,convênio
+590,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,270142.82,2025-04-04,Polícia Militar,contrato direto
+591,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,53523.42,2025-05-06,Secretaria de Educação,parceria
+592,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,95095.05,2024-12-08,Prefeitura,licitação
+593,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,722699.85,2025-05-01,Hospital Municipal,contrato direto
+594,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,416057.47,2025-10-02,UBS Central,licitação
+595,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,282467.99,2025-07-01,Secretaria de Educação,licitação
+596,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,350277.98,2024-03-06,Polícia Militar,parceria
+597,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,1381308.96,2025-04-30,Departamento de Viação,contrato direto
+598,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,215658.66,2025-06-04,Departamento de Viação,parceria
+599,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,380308.04,2024-04-30,Creche,contrato direto
+600,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1006301.77,2024-10-29,Departamento de Viação,parceria
+601,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,273479.63,2025-07-15,UBS Central,convênio
+602,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,364876.79,2025-05-22,Creche,contrato direto
+603,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,300569.92,2024-10-20,Escola Municipal,licitação
+604,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,386070.48,2025-11-13,Escola Municipal,licitação
+605,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,116044.29,2025-01-15,Secretaria de Administração,parceria
+606,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,401522.05,2025-06-28,Escola Municipal,licitação
+607,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,638759.45,2025-02-13,Departamento de Viação,convênio
+608,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,369759.54,2025-12-24,Secretaria de Educação,parceria
+609,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,404689.17,2024-07-03,Escola Municipal,contrato direto
+610,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,103585.55,2025-07-01,Secretaria de Administração,convênio
+611,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,488524.43,2024-06-24,UBS Central,parceria
+612,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1065237.5,2024-11-14,Departamento de Viação,convênio
+613,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,51864.53,2025-12-28,Prefeitura,contrato direto
+614,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,27080.36,2024-10-03,Secretaria de Administração,parceria
+615,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,486962.7,2024-10-04,Polícia Militar,contrato direto
+616,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,365888.56,2025-05-23,Secretaria de Educação,contrato direto
+617,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,768817.24,2024-01-23,Secretaria de Obras,parceria
+618,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,368370.24,2025-02-14,Guarda Municipal,convênio
+619,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,522135.46,2024-08-19,Departamento de Viação,convênio
+620,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,426617.23,2025-09-02,Guarda Municipal,licitação
+621,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,308965.08,2024-09-10,Guarda Municipal,contrato direto
+622,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,386891.37,2024-06-24,Escola Municipal,parceria
+623,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,178450.47,2025-09-02,Secretaria de Administração,contrato direto
+624,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,515356.46,2024-12-07,UBS Central,contrato direto
+625,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,508380.02,2024-05-30,Guarda Municipal,licitação
+626,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,471024.75,2025-12-01,Escola Municipal,licitação
+627,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,122028.45,2024-04-03,Secretaria de Administração,contrato direto
+628,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,101171.03,2024-05-22,Prefeitura,licitação
+629,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,587503.59,2024-08-25,Departamento de Viação,contrato direto
+630,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,476029.7,2025-03-21,UBS Central,licitação
+631,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1769576.64,2024-06-09,Departamento de Viação,contrato direto
+632,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,404420.91,2025-11-24,Hospital Municipal,convênio
+633,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,86835.28,2025-01-20,Guarda Municipal,parceria
+634,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,780353.57,2025-10-30,Departamento de Viação,contrato direto
+635,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,295853.49,2024-07-10,Secretaria de Saúde,contrato direto
+636,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,353163.57,2024-07-27,Secretaria de Educação,contrato direto
+637,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,451709.53,2025-04-28,Creche,parceria
+638,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,131905.02,2025-12-10,Escola Municipal,convênio
+639,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,93312.0,2024-05-10,Secretaria de Administração,licitação
+640,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,182318.38,2025-06-23,Departamento de Viação,convênio
+641,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,1529967.96,2024-07-29,Departamento de Viação,convênio
+642,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1267279.4,2025-11-26,Secretaria de Obras,convênio
+643,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,146836.73,2024-12-22,UBS Central,contrato direto
+644,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,254913.22,2025-10-24,Polícia Militar,parceria
+645,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,331970.07,2025-07-08,Polícia Militar,licitação
+646,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,153993.08,2025-11-05,Creche,convênio
+647,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,308717.68,2025-12-06,Escola Municipal,convênio
+648,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,390717.92,2025-06-22,Guarda Municipal,convênio
+649,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,178639.74,2024-09-13,Secretaria de Administração,convênio
+650,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,890337.06,2025-02-23,Departamento de Viação,licitação
+651,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,56500.66,2025-01-06,Prefeitura,licitação
+652,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,68010.89,2024-12-22,Guarda Municipal,licitação
+653,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,584801.09,2025-10-17,Guarda Municipal,convênio
+654,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1734227.07,2025-11-30,Departamento de Viação,licitação
+655,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,293158.84,2025-12-11,Escola Municipal,convênio
+656,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,436071.87,2025-06-10,Polícia Militar,convênio
+657,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,165544.08,2024-10-26,UBS Central,convênio
+658,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,374550.69,2025-08-29,Polícia Militar,licitação
+659,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,93979.42,2024-09-03,Secretaria de Educação,licitação
+660,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,471455.29,2025-09-12,Creche,licitação
+661,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,73359.16,2024-08-30,Creche,contrato direto
+662,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,471598.93,2025-01-12,Escola Municipal,licitação
+663,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,498364.64,2024-01-14,Guarda Municipal,convênio
+664,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,549610.04,2025-04-22,Polícia Militar,parceria
+665,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,234105.39,2025-10-22,Creche,parceria
+666,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,240235.03,2024-08-14,Secretaria de Obras,parceria
+667,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,1721059.75,2024-02-14,Departamento de Viação,licitação
+668,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,57049.86,2025-12-22,Secretaria de Educação,licitação
+669,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,24274.65,2025-06-19,Polícia Militar,licitação
+670,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,371952.32,2025-08-17,Creche,contrato direto
+671,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,181767.85,2024-05-31,Prefeitura,licitação
+672,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1071017.34,2024-08-02,Secretaria de Obras,convênio
+673,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,522945.45,2024-03-03,Secretaria de Obras,licitação
+674,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,271185.92,2024-02-15,Secretaria de Saúde,licitação
+675,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1082935.4,2024-01-19,Secretaria de Obras,convênio
+676,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,166953.36,2024-08-04,Secretaria de Saúde,convênio
+677,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,326560.57,2024-07-05,Guarda Municipal,convênio
+678,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,625770.19,2025-04-22,Secretaria de Saúde,parceria
+679,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,420499.76,2025-01-25,Guarda Municipal,licitação
+680,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,189650.21,2025-05-13,Secretaria de Saúde,licitação
+681,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,271839.25,2025-07-29,Secretaria de Saúde,contrato direto
+682,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,205384.18,2025-09-30,Secretaria de Educação,licitação
+683,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,893390.33,2025-04-23,Departamento de Viação,convênio
+684,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,373719.96,2024-03-31,Hospital Municipal,parceria
+685,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,108963.89,2024-01-22,UBS Central,contrato direto
+686,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1677917.24,2025-04-17,Secretaria de Obras,contrato direto
+687,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,206261.63,2025-11-14,Secretaria de Saúde,parceria
+688,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,683572.15,2024-08-17,Secretaria de Saúde,parceria
+689,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,576069.26,2025-03-10,Hospital Municipal,licitação
+690,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,351316.51,2024-08-03,Escola Municipal,licitação
+691,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,503106.09,2024-06-21,Polícia Militar,contrato direto
+692,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,52619.21,2025-02-10,Secretaria de Administração,convênio
+693,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,207041.21,2025-08-27,Guarda Municipal,convênio
+694,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,483973.92,2025-08-22,Escola Municipal,parceria
+695,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,560558.76,2024-10-22,Guarda Municipal,parceria
+696,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,517732.51,2025-05-16,UBS Central,licitação
+697,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,854179.58,2024-08-29,Secretaria de Obras,parceria
+698,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,4200.83,2025-04-30,Prefeitura,convênio
+699,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,47285.85,2024-01-09,Prefeitura,parceria
+700,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1148749.83,2025-07-14,Departamento de Viação,contrato direto
+701,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,1970079.3,2024-10-10,Secretaria de Obras,contrato direto
+702,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,129745.02,2024-04-20,Creche,contrato direto
+703,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,198914.7,2025-07-15,Secretaria de Educação,parceria
+704,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,275271.33,2024-09-26,Secretaria de Saúde,parceria
+705,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,295126.57,2025-12-30,Secretaria de Educação,convênio
+706,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,44913.08,2025-03-01,Polícia Militar,contrato direto
+707,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,245079.23,2024-05-23,Guarda Municipal,contrato direto
+708,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,475918.41,2024-09-14,Polícia Militar,licitação
+709,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,711495.95,2024-10-15,Secretaria de Saúde,parceria
+710,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,94980.75,2024-11-01,Escola Municipal,licitação
+711,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,241948.12,2024-07-09,Secretaria de Educação,licitação
+712,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,222202.15,2024-11-02,Secretaria de Obras,contrato direto
+713,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,70752.35,2025-08-13,Prefeitura,contrato direto
+714,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,206822.9,2024-07-03,Hospital Municipal,convênio
+715,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,438627.0,2024-06-12,Guarda Municipal,parceria
+716,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,33581.47,2024-12-22,Polícia Militar,convênio
+717,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,204211.91,2024-02-06,Secretaria de Saúde,convênio
+718,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,51727.41,2024-10-11,Prefeitura,contrato direto
+719,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,726907.62,2025-11-11,Secretaria de Saúde,contrato direto
+720,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,324197.36,2024-05-14,Polícia Militar,convênio
+721,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,433265.36,2025-03-04,Secretaria de Saúde,parceria
+722,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,110506.97,2024-09-25,Secretaria de Saúde,contrato direto
+723,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,309445.11,2024-08-28,Secretaria de Educação,parceria
+724,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,1246018.72,2024-04-28,Secretaria de Obras,licitação
+725,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,75896.38,2024-03-20,Guarda Municipal,parceria
+726,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,470423.42,2025-07-14,Secretaria de Saúde,parceria
+727,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,583059.88,2024-02-04,Polícia Militar,contrato direto
+728,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,92489.02,2024-05-23,Secretaria de Administração,convênio
+729,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,43497.94,2024-12-07,Prefeitura,licitação
+730,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,70770.91,2024-02-05,Creche,licitação
+731,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,10113.14,2024-09-28,Prefeitura,parceria
+732,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,307183.94,2024-10-24,UBS Central,parceria
+733,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,590901.61,2024-04-27,Secretaria de Saúde,licitação
+734,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,45371.59,2025-03-26,Secretaria de Administração,contrato direto
+735,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,124750.8,2024-09-21,Creche,convênio
+736,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,267941.96,2025-11-15,Creche,convênio
+737,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,71944.96,2025-06-27,Prefeitura,convênio
+738,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,790499.2,2024-11-26,Departamento de Viação,parceria
+739,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,189981.72,2025-09-19,Secretaria de Administração,contrato direto
+740,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,21438.6,2024-03-15,Creche,contrato direto
+741,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,33928.92,2024-12-09,Polícia Militar,parceria
+742,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,32955.65,2024-05-08,Secretaria de Administração,contrato direto
+743,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,130282.99,2024-03-02,Guarda Municipal,convênio
+744,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,274570.99,2024-06-10,UBS Central,parceria
+745,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,629210.01,2025-10-04,Departamento de Viação,convênio
+746,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,987546.79,2024-06-23,Secretaria de Obras,convênio
+747,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,435088.67,2024-05-24,Secretaria de Obras,parceria
+748,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,543264.31,2025-07-26,Hospital Municipal,contrato direto
+749,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,464899.31,2024-04-19,Secretaria de Educação,parceria
+750,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,390398.93,2024-01-10,Polícia Militar,contrato direto
+751,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,334262.87,2025-06-16,Departamento de Viação,contrato direto
+752,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,175565.7,2025-11-12,Secretaria de Administração,parceria
+753,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,647865.11,2024-08-12,UBS Central,licitação
+754,Mato Grosso,Cuiabá,infraestrutura,Gasto com infraestrutura em Cuiabá,1366314.54,2024-05-20,Secretaria de Obras,licitação
+755,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,211230.63,2025-12-01,Guarda Municipal,parceria
+756,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,272879.27,2025-04-23,Polícia Militar,contrato direto
+757,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,549699.55,2025-02-08,Polícia Militar,licitação
+758,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,9059.95,2024-11-29,Creche,licitação
+759,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,440518.2,2025-09-08,Guarda Municipal,licitação
+760,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,382804.02,2024-05-22,Departamento de Viação,convênio
+761,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,584306.48,2024-05-16,Guarda Municipal,contrato direto
+762,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,278485.12,2025-03-03,Guarda Municipal,convênio
+763,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,33017.38,2024-01-24,Guarda Municipal,contrato direto
+764,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1893068.32,2025-03-18,Secretaria de Obras,licitação
+765,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,179905.2,2024-06-26,Secretaria de Administração,licitação
+766,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,95923.82,2025-11-11,Secretaria de Administração,contrato direto
+767,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,544084.2,2024-11-04,Secretaria de Saúde,licitação
+768,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,519060.65,2024-10-31,Departamento de Viação,contrato direto
+769,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,187760.03,2024-09-29,Polícia Militar,contrato direto
+770,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,253483.31,2025-01-28,Creche,licitação
+771,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,472438.89,2025-04-08,Guarda Municipal,contrato direto
+772,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,37818.92,2025-06-06,Guarda Municipal,convênio
+773,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,21922.42,2025-03-07,Secretaria de Educação,contrato direto
+774,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,598836.6,2025-03-05,Polícia Militar,contrato direto
+775,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,265559.1,2025-11-08,Departamento de Viação,convênio
+776,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,317378.76,2024-04-16,Escola Municipal,licitação
+777,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,710886.61,2025-02-22,Secretaria de Saúde,contrato direto
+778,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,753311.36,2025-01-02,Hospital Municipal,contrato direto
+779,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,212265.5,2025-03-13,Guarda Municipal,contrato direto
+780,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,536745.66,2024-05-01,Guarda Municipal,convênio
+781,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,34874.9,2024-05-09,Prefeitura,parceria
+782,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,136363.66,2025-11-27,Prefeitura,licitação
+783,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,180325.04,2025-09-05,Prefeitura,contrato direto
+784,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,391389.17,2024-03-06,Hospital Municipal,parceria
+785,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,3376.57,2025-09-28,Secretaria de Administração,convênio
+786,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,26053.55,2024-06-14,Secretaria de Administração,contrato direto
+787,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,1382058.99,2025-08-20,Secretaria de Obras,parceria
+788,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,223499.59,2024-02-05,Secretaria de Educação,contrato direto
+789,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,168054.51,2025-08-19,Secretaria de Administração,licitação
+790,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1356205.48,2025-12-09,Secretaria de Obras,contrato direto
+791,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,50751.23,2024-02-11,Creche,convênio
+792,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,101593.75,2024-02-20,Hospital Municipal,contrato direto
+793,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,87132.1,2025-08-24,Secretaria de Administração,contrato direto
+794,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,777823.83,2025-09-12,UBS Central,licitação
+795,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,106050.52,2025-07-28,Polícia Militar,contrato direto
+796,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,69831.31,2025-11-11,Creche,convênio
+797,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,477429.35,2024-01-23,Guarda Municipal,contrato direto
+798,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,1792976.77,2025-04-04,Secretaria de Obras,licitação
+799,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,144061.26,2025-09-26,Prefeitura,licitação
+800,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,11980.9,2024-12-31,Secretaria de Administração,parceria
+801,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,334287.54,2025-06-27,Creche,parceria
+802,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,164245.38,2025-05-27,Prefeitura,convênio
+803,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,441131.91,2024-04-18,Secretaria de Saúde,licitação
+804,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,8315.09,2024-08-02,Prefeitura,licitação
+805,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,147691.14,2024-08-24,Secretaria de Administração,convênio
+806,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,180501.79,2025-07-28,Secretaria de Administração,parceria
+807,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,287062.18,2025-03-25,Guarda Municipal,licitação
+808,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,600995.55,2025-02-25,Hospital Municipal,convênio
+809,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,331890.46,2024-08-28,Polícia Militar,contrato direto
+810,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,459291.92,2024-05-24,Secretaria de Educação,parceria
+811,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,180845.82,2025-06-11,Prefeitura,contrato direto
+812,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,179743.34,2025-01-22,Guarda Municipal,licitação
+813,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1561148.73,2025-08-02,Departamento de Viação,convênio
+814,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1496595.42,2025-03-24,Secretaria de Obras,parceria
+815,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,139987.14,2024-08-18,Polícia Militar,convênio
+816,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,96367.59,2024-07-16,Prefeitura,convênio
+817,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,1167886.03,2024-11-20,Secretaria de Obras,convênio
+818,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,151250.44,2025-12-19,Prefeitura,convênio
+819,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,248320.69,2025-10-27,Escola Municipal,contrato direto
+820,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,1284717.71,2025-07-13,Departamento de Viação,contrato direto
+821,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,6041.73,2025-08-14,Escola Municipal,contrato direto
+822,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,8109.12,2024-10-30,Secretaria de Administração,parceria
+823,Mato Grosso,Cuiabá,infraestrutura,Gasto com infraestrutura em Cuiabá,745190.1,2025-01-04,Secretaria de Obras,contrato direto
+824,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,216641.74,2025-02-11,Secretaria de Saúde,convênio
+825,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,13749.0,2025-04-14,Prefeitura,convênio
+826,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,32645.97,2025-05-26,Secretaria de Administração,parceria
+827,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,161294.34,2024-03-30,Prefeitura,parceria
+828,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,86622.99,2024-06-26,Secretaria de Educação,licitação
+829,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,238211.64,2024-07-15,Escola Municipal,licitação
+830,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,256300.94,2025-04-10,Hospital Municipal,licitação
+831,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,582126.37,2025-03-21,Polícia Militar,contrato direto
+832,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,123375.09,2024-02-25,Creche,parceria
+833,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,39855.23,2024-01-13,Guarda Municipal,contrato direto
+834,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,502164.25,2024-06-06,Polícia Militar,parceria
+835,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,78541.83,2024-10-31,Prefeitura,parceria
+836,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,346645.37,2024-09-22,Secretaria de Obras,convênio
+837,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,431094.23,2025-05-30,Secretaria de Educação,contrato direto
+838,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,101880.14,2024-04-06,Hospital Municipal,licitação
+839,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,401230.31,2025-08-17,Secretaria de Educação,contrato direto
+840,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,135418.59,2025-02-19,Secretaria de Administração,parceria
+841,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,539815.19,2025-01-25,Departamento de Viação,parceria
+842,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,503264.56,2025-12-11,Guarda Municipal,convênio
+843,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,178576.63,2024-02-17,UBS Central,licitação
+844,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,187483.47,2025-11-20,Guarda Municipal,licitação
+845,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,437442.41,2024-12-22,Polícia Militar,parceria
+846,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,184390.28,2025-04-24,Creche,convênio
+847,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,550380.26,2024-08-22,Polícia Militar,contrato direto
+848,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,1668120.55,2025-05-21,Departamento de Viação,contrato direto
+849,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,197488.43,2024-02-09,Hospital Municipal,contrato direto
+850,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,105050.83,2024-03-28,Guarda Municipal,parceria
+851,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,108703.79,2025-10-16,Secretaria de Administração,licitação
+852,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,490858.94,2024-12-18,Guarda Municipal,parceria
+853,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,480990.09,2025-10-26,Escola Municipal,contrato direto
+854,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,326438.86,2024-06-28,Secretaria de Saúde,contrato direto
+855,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,102938.36,2024-10-14,Secretaria de Administração,convênio
+856,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,622170.46,2024-05-17,Hospital Municipal,contrato direto
+857,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,207158.59,2025-06-12,Polícia Militar,convênio
+858,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,139338.79,2025-01-07,Secretaria de Saúde,convênio
+859,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,547739.8,2025-06-13,Hospital Municipal,parceria
+860,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,176958.29,2024-02-21,Escola Municipal,convênio
+861,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,112880.72,2025-09-24,Prefeitura,parceria
+862,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,52674.92,2025-12-07,Secretaria de Administração,contrato direto
+863,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,414883.99,2024-10-20,Hospital Municipal,contrato direto
+864,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,449565.74,2025-04-06,Creche,contrato direto
+865,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1005496.29,2024-05-10,Departamento de Viação,licitação
+866,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,86844.71,2025-02-14,Polícia Militar,convênio
+867,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,382650.66,2025-05-14,Guarda Municipal,licitação
+868,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,33550.61,2024-10-23,Prefeitura,licitação
+869,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,1840064.88,2024-05-06,Secretaria de Obras,parceria
+870,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,358505.81,2024-04-18,Secretaria de Educação,licitação
+871,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,523674.87,2024-11-04,Guarda Municipal,convênio
+872,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1038691.28,2025-05-23,Secretaria de Obras,licitação
+873,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,315726.12,2025-12-06,UBS Central,parceria
+874,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,114563.48,2024-12-29,Prefeitura,convênio
+875,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,160744.87,2025-12-05,Secretaria de Administração,contrato direto
+876,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,149397.96,2025-04-06,Creche,convênio
+877,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,16323.88,2026-01-06,Hospital Municipal,convênio
+878,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,252894.8,2025-07-10,Polícia Militar,convênio
+879,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,410722.41,2025-12-29,Hospital Municipal,licitação
+880,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,374204.1,2024-04-10,UBS Central,parceria
+881,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,129740.78,2024-06-21,Departamento de Viação,convênio
+882,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,49786.57,2024-11-13,Prefeitura,parceria
+883,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,161697.76,2024-04-07,Departamento de Viação,parceria
+884,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,501195.23,2025-07-01,Hospital Municipal,parceria
+885,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,445570.6,2025-03-31,Polícia Militar,parceria
+886,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,238717.13,2025-06-17,Polícia Militar,licitação
+887,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,1001329.08,2025-09-01,Secretaria de Obras,parceria
+888,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1688367.34,2024-02-17,Secretaria de Obras,convênio
+889,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,112851.39,2025-07-15,UBS Central,parceria
+890,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1348075.86,2024-05-28,Secretaria de Obras,contrato direto
+891,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,134265.23,2024-02-16,Prefeitura,contrato direto
+892,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,525772.92,2024-03-08,Secretaria de Obras,parceria
+893,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,154333.65,2025-04-29,Secretaria de Educação,licitação
+894,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,8281.87,2024-03-22,Prefeitura,convênio
+895,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,255606.0,2025-06-23,Guarda Municipal,convênio
+896,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,450530.18,2025-05-26,Secretaria de Obras,licitação
+897,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,457230.12,2025-04-15,Polícia Militar,licitação
+898,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,583151.62,2024-03-17,Secretaria de Obras,convênio
+899,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,468997.28,2025-06-03,Escola Municipal,convênio
+900,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,558226.5,2024-04-29,Polícia Militar,convênio
+901,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,342283.99,2024-02-17,Polícia Militar,licitação
+902,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,118256.87,2025-03-06,Secretaria de Administração,contrato direto
+903,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,85455.84,2024-04-24,Secretaria de Administração,licitação
+904,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,148519.99,2025-04-25,Departamento de Viação,convênio
+905,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,399450.46,2025-04-04,Secretaria de Educação,licitação
+906,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,362427.31,2025-03-20,Polícia Militar,parceria
+907,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,736816.46,2025-11-11,Hospital Municipal,parceria
+908,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,1895230.35,2024-12-18,Departamento de Viação,licitação
+909,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,261172.91,2025-04-01,Guarda Municipal,convênio
+910,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,582622.39,2024-10-22,Secretaria de Obras,parceria
+911,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,13629.06,2024-09-08,Prefeitura,convênio
+912,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,314723.39,2024-06-19,Polícia Militar,convênio
+913,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,790118.85,2025-02-27,UBS Central,licitação
+914,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,421215.68,2024-02-27,Guarda Municipal,convênio
+915,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,484495.78,2024-11-09,Escola Municipal,contrato direto
+916,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,270973.5,2025-09-15,Secretaria de Saúde,licitação
+917,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1757037.01,2025-06-18,Departamento de Viação,parceria
+918,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,99635.16,2025-09-19,Secretaria de Saúde,parceria
+919,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,70552.63,2025-08-15,Guarda Municipal,contrato direto
+920,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,418561.94,2024-02-27,Guarda Municipal,convênio
+921,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,781684.86,2024-08-24,Departamento de Viação,licitação
+922,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,158349.15,2024-03-05,Secretaria de Educação,parceria
+923,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,634081.09,2024-02-29,Secretaria de Saúde,parceria
+924,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,1632294.36,2024-02-20,Departamento de Viação,convênio
+925,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,1713053.43,2024-06-11,Secretaria de Obras,parceria
+926,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,783363.88,2024-06-16,UBS Central,licitação
+927,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1551355.12,2025-08-24,Departamento de Viação,contrato direto
+928,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,135661.1,2025-08-02,Prefeitura,convênio
+929,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,105476.99,2025-10-19,Guarda Municipal,parceria
+930,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,14902.47,2024-02-11,Secretaria de Administração,licitação
+931,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,571940.8,2025-03-07,Guarda Municipal,contrato direto
+932,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,245273.94,2025-10-06,Guarda Municipal,contrato direto
+933,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,121012.54,2024-09-11,Secretaria de Saúde,parceria
+934,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,373777.91,2024-12-21,Creche,convênio
+935,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,6968.31,2025-09-17,Secretaria de Administração,licitação
+936,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,98219.94,2025-03-05,Prefeitura,contrato direto
+937,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,51039.88,2024-05-06,Polícia Militar,parceria
+938,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,114571.47,2025-03-01,Prefeitura,parceria
+939,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,271747.78,2024-10-02,Creche,parceria
+940,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,56114.57,2025-09-28,Prefeitura,convênio
+941,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,724342.34,2024-10-28,Secretaria de Saúde,parceria
+942,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,56701.98,2025-07-28,Prefeitura,licitação
+943,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,232648.44,2024-06-27,Polícia Militar,convênio
+944,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,177908.06,2025-01-04,Secretaria de Administração,convênio
+945,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,884469.68,2025-02-28,Departamento de Viação,parceria
+946,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,146161.93,2024-09-10,Secretaria de Educação,contrato direto
+947,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,149248.28,2024-04-04,Secretaria de Administração,convênio
+948,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,593531.17,2024-04-02,Polícia Militar,contrato direto
+949,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,185863.68,2025-09-18,Secretaria de Administração,convênio
+950,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,782805.91,2025-04-09,Hospital Municipal,licitação
+951,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1279441.16,2025-08-23,Departamento de Viação,contrato direto
+952,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,542253.88,2025-01-11,Guarda Municipal,licitação
+953,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,1691371.5,2025-12-15,Secretaria de Obras,contrato direto
+954,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,590770.54,2025-03-14,Polícia Militar,contrato direto
+955,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,370527.31,2025-08-23,Secretaria de Saúde,convênio
+956,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,155713.34,2025-03-17,Secretaria de Administração,contrato direto
+957,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,553506.36,2025-12-15,Guarda Municipal,contrato direto
+958,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,885624.96,2024-01-11,Departamento de Viação,convênio
+959,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,29387.27,2024-08-28,Secretaria de Administração,contrato direto
+960,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,175145.31,2024-09-30,Prefeitura,contrato direto
+961,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,617776.22,2024-07-02,Hospital Municipal,contrato direto
+962,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,127594.79,2024-08-28,Escola Municipal,contrato direto
+963,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,589122.85,2024-11-22,Polícia Militar,licitação
+964,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,39473.08,2025-04-04,Secretaria de Saúde,convênio
+965,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,568519.23,2025-09-26,UBS Central,contrato direto
+966,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,587236.04,2024-08-12,Departamento de Viação,convênio
+967,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,664575.61,2025-12-11,Departamento de Viação,convênio
+968,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,34479.4,2024-11-12,Escola Municipal,convênio
+969,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,353102.06,2025-02-16,Secretaria de Educação,contrato direto
+970,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,464455.1,2025-08-20,Creche,licitação
+971,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,332604.76,2025-11-07,Polícia Militar,licitação
+972,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,429885.72,2025-09-24,Creche,parceria
+973,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,165522.97,2024-03-28,Creche,licitação
+974,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,124357.55,2025-07-02,Prefeitura,licitação
+975,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,278148.13,2025-12-21,Secretaria de Obras,contrato direto
+976,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1412777.63,2025-06-12,Departamento de Viação,parceria
+977,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,126820.19,2025-06-06,Polícia Militar,parceria
+978,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,1812245.8,2024-02-12,Secretaria de Obras,convênio
+979,Mato Grosso,Cuiabá,infraestrutura,Gasto com infraestrutura em Cuiabá,1393895.09,2024-04-25,Secretaria de Obras,licitação
+980,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,4993.79,2025-12-12,Secretaria de Administração,convênio
+981,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,63187.09,2025-12-22,Secretaria de Administração,contrato direto
+982,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,784854.76,2025-09-07,UBS Central,licitação
+983,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,40441.99,2025-12-30,Prefeitura,contrato direto
+984,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,726079.97,2025-06-16,Hospital Municipal,convênio
+985,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,167135.75,2026-01-05,Secretaria de Administração,parceria
+986,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,159565.57,2025-06-08,Secretaria de Obras,contrato direto
+987,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,120223.53,2024-05-08,Secretaria de Administração,convênio
+988,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,161968.4,2025-10-04,Prefeitura,contrato direto
+989,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,333092.78,2025-12-24,Guarda Municipal,parceria
+990,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,179928.58,2024-03-27,Prefeitura,contrato direto
+991,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,207021.44,2026-01-03,Polícia Militar,licitação
+992,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,517452.86,2025-12-24,Guarda Municipal,parceria
+993,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,19087.64,2025-12-21,Prefeitura,convênio
+994,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,101592.37,2024-03-12,Prefeitura,convênio
+995,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,165038.06,2025-02-18,Secretaria de Educação,licitação
+996,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,309059.25,2025-05-09,Creche,convênio
+997,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,529716.66,2025-03-22,Guarda Municipal,convênio
+998,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,408565.13,2025-08-07,Polícia Militar,licitação
+999,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,264841.38,2025-09-26,Guarda Municipal,contrato direto
+1000,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,79385.75,2024-09-06,Escola Municipal,contrato direto
+1001,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,184221.09,2024-04-16,Prefeitura,parceria
+1002,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,384325.88,2024-01-08,UBS Central,contrato direto
+1003,Mato Grosso,Cuiabá,infraestrutura,Gasto com infraestrutura em Cuiabá,1907881.9,2025-08-06,Secretaria de Obras,parceria
+1004,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,430076.83,2024-03-30,Secretaria de Educação,licitação
+1005,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,126427.44,2024-07-07,Secretaria de Administração,convênio
+1006,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,223202.16,2024-08-29,Polícia Militar,licitação
+1007,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,288276.31,2024-09-15,Guarda Municipal,convênio
+1008,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,236631.31,2025-08-19,Secretaria de Obras,contrato direto
+1009,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,117253.61,2025-02-04,Secretaria de Administração,parceria
+1010,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,94775.59,2024-05-11,Secretaria de Saúde,convênio
+1011,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1572330.13,2024-05-02,Secretaria de Obras,parceria
+1012,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,391769.29,2024-11-09,UBS Central,convênio
+1013,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,491328.35,2024-07-30,Secretaria de Saúde,parceria
+1014,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,130459.35,2024-07-28,Escola Municipal,convênio
+1015,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,95414.78,2024-09-26,Secretaria de Administração,convênio
+1016,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,215873.54,2025-11-22,Hospital Municipal,parceria
+1017,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,27401.9,2024-03-18,Secretaria de Administração,parceria
+1018,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1328821.1,2024-01-19,Departamento de Viação,parceria
+1019,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,326082.88,2025-11-26,Creche,convênio
+1020,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,127483.0,2024-08-24,Prefeitura,convênio
+1021,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,191865.56,2024-03-04,Creche,licitação
+1022,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,654556.51,2025-01-08,Secretaria de Obras,licitação
+1023,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,147862.02,2024-01-08,Secretaria de Educação,contrato direto
+1024,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,112304.43,2024-07-26,Secretaria de Administração,contrato direto
+1025,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,57049.46,2024-04-26,Secretaria de Administração,convênio
+1026,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,2300.17,2024-04-07,Secretaria de Administração,contrato direto
+1027,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,117799.93,2025-10-12,Polícia Militar,contrato direto
+1028,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,424070.87,2024-05-24,Guarda Municipal,convênio
+1029,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1344031.94,2024-11-23,Departamento de Viação,convênio
+1030,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,221542.72,2024-07-31,Polícia Militar,licitação
+1031,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,924604.27,2025-04-14,Secretaria de Obras,licitação
+1032,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,436283.98,2025-11-23,Polícia Militar,contrato direto
+1033,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,190326.08,2025-06-12,Escola Municipal,contrato direto
+1034,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,44035.47,2024-08-22,Secretaria de Educação,parceria
+1035,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,214297.79,2024-01-22,Departamento de Viação,convênio
+1036,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,742484.88,2025-11-27,Secretaria de Saúde,licitação
+1037,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,355459.91,2025-05-06,Secretaria de Educação,parceria
+1038,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,60033.45,2024-02-25,Polícia Militar,contrato direto
+1039,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,27326.99,2025-10-10,UBS Central,parceria
+1040,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,135306.61,2025-07-16,Prefeitura,contrato direto
+1041,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,29531.89,2024-04-15,Prefeitura,convênio
+1042,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,39480.16,2025-11-16,Prefeitura,contrato direto
+1043,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,192029.79,2024-11-13,Prefeitura,parceria
+1044,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,245604.31,2025-05-08,Secretaria de Educação,contrato direto
+1045,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,927714.55,2025-06-29,Departamento de Viação,convênio
+1046,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,433740.52,2025-10-18,Secretaria de Educação,licitação
+1047,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,143288.15,2025-08-12,Prefeitura,convênio
+1048,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,67857.85,2025-11-03,Creche,licitação
+1049,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,48563.16,2025-02-10,Creche,parceria
+1050,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,708861.31,2024-02-14,Secretaria de Obras,parceria
+1051,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,597403.72,2024-05-25,Polícia Militar,contrato direto
+1052,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,545874.04,2024-08-28,Secretaria de Obras,convênio
+1053,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1811784.27,2024-04-10,Departamento de Viação,convênio
+1054,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,18206.89,2024-08-26,Guarda Municipal,parceria
+1055,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,85763.94,2024-02-01,Secretaria de Administração,contrato direto
+1056,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1447105.35,2025-02-22,Secretaria de Obras,convênio
+1057,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,808570.56,2025-12-06,Secretaria de Obras,licitação
+1058,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,678201.39,2024-05-14,Secretaria de Obras,licitação
+1059,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,808472.03,2024-02-10,Departamento de Viação,licitação
+1060,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,111366.44,2025-10-03,Secretaria de Obras,contrato direto
+1061,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,734280.58,2024-01-18,Secretaria de Saúde,parceria
+1062,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1156332.26,2024-10-19,Secretaria de Obras,licitação
+1063,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,223500.4,2024-01-24,Guarda Municipal,convênio
+1064,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,266214.28,2024-07-18,Secretaria de Educação,licitação
+1065,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,87496.25,2025-04-09,Prefeitura,parceria
+1066,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,165315.89,2024-02-10,Escola Municipal,licitação
+1067,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,949781.99,2024-10-05,Departamento de Viação,parceria
+1068,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,232568.6,2025-08-28,Escola Municipal,licitação
+1069,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,86763.52,2025-01-14,Secretaria de Administração,convênio
+1070,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,227659.63,2025-07-17,Secretaria de Obras,parceria
+1071,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,109091.95,2024-02-06,Guarda Municipal,licitação
+1072,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,255509.96,2025-10-30,Departamento de Viação,contrato direto
+1073,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1415112.79,2024-04-19,Departamento de Viação,licitação
+1074,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,222954.47,2024-10-06,Secretaria de Educação,convênio
+1075,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,15315.45,2025-06-24,Prefeitura,convênio
+1076,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,467648.24,2024-03-27,Escola Municipal,contrato direto
+1077,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,44492.92,2024-03-06,Secretaria de Administração,contrato direto
+1078,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,510771.89,2025-07-01,Hospital Municipal,contrato direto
+1079,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,107937.29,2025-04-12,Prefeitura,licitação
+1080,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,569899.14,2025-12-18,Secretaria de Obras,convênio
+1081,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,435541.96,2024-08-06,Secretaria de Saúde,convênio
+1082,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,126089.42,2024-05-18,Creche,convênio
+1083,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,179657.37,2024-09-16,Prefeitura,licitação
+1084,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,264633.2,2025-03-07,Polícia Militar,parceria
+1085,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,394292.6,2025-08-10,Creche,contrato direto
+1086,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,620910.61,2024-06-14,Hospital Municipal,parceria
+1087,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1400966.93,2024-10-17,Departamento de Viação,licitação
+1088,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,364458.31,2026-01-02,UBS Central,convênio
+1089,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,486037.26,2024-11-02,Guarda Municipal,contrato direto
+1090,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,1457520.3,2024-12-31,Secretaria de Obras,contrato direto
+1091,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,9327.57,2024-09-19,Secretaria de Administração,parceria
+1092,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,280191.92,2024-09-30,Creche,parceria
+1093,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,347375.57,2025-10-25,Secretaria de Educação,licitação
+1094,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1234501.66,2024-11-18,Departamento de Viação,convênio
+1095,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,37598.74,2025-08-17,Polícia Militar,convênio
+1096,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,288569.9,2024-07-25,Secretaria de Obras,parceria
+1097,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,403475.32,2024-02-10,Escola Municipal,contrato direto
+1098,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,57328.7,2024-09-03,Secretaria de Administração,contrato direto
+1099,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,38879.52,2024-06-14,Prefeitura,convênio
+1100,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,790043.77,2024-10-07,UBS Central,parceria
+1101,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,446488.92,2025-08-04,Polícia Militar,convênio
+1102,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,640374.49,2025-07-12,Hospital Municipal,licitação
+1103,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,125849.77,2025-04-06,Polícia Militar,convênio
+1104,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,328008.02,2024-04-28,UBS Central,contrato direto
+1105,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,164664.66,2025-12-12,Creche,convênio
+1106,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,366693.06,2025-07-22,Escola Municipal,convênio
+1107,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,470175.98,2024-11-17,Hospital Municipal,contrato direto
+1108,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,38313.76,2024-06-12,Secretaria de Administração,parceria
+1109,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,707585.21,2024-11-23,Hospital Municipal,parceria
+1110,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,129749.63,2025-02-05,Guarda Municipal,licitação
+1111,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,136322.54,2025-04-21,Guarda Municipal,contrato direto
+1112,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,294378.72,2025-03-27,Guarda Municipal,parceria
+1113,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,494698.05,2025-11-01,Escola Municipal,convênio
+1114,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,879891.31,2024-10-25,Departamento de Viação,contrato direto
+1115,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,114985.79,2025-01-02,Secretaria de Administração,contrato direto
+1116,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,425407.2,2025-09-23,Guarda Municipal,parceria
+1117,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,370329.18,2025-05-06,Secretaria de Saúde,contrato direto
+1118,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,386694.96,2025-03-21,Guarda Municipal,licitação
+1119,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,205364.93,2025-07-07,Polícia Militar,contrato direto
+1120,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,714639.27,2024-07-06,Hospital Municipal,licitação
+1121,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,166303.93,2025-03-11,Polícia Militar,convênio
+1122,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,370322.49,2025-01-08,Polícia Militar,parceria
+1123,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,241149.53,2025-08-13,Guarda Municipal,licitação
+1124,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,463138.24,2024-12-10,Guarda Municipal,parceria
+1125,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,611154.71,2024-12-25,Hospital Municipal,parceria
+1126,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,252519.9,2025-12-16,Secretaria de Educação,parceria
+1127,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1632622.66,2024-04-12,Departamento de Viação,parceria
+1128,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,121189.45,2025-06-14,Guarda Municipal,convênio
+1129,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,821760.89,2024-01-30,Departamento de Viação,convênio
+1130,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,1279722.09,2024-02-21,Departamento de Viação,convênio
+1131,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1417054.72,2025-10-19,Secretaria de Obras,contrato direto
+1132,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1633544.17,2024-11-06,Secretaria de Obras,licitação
+1133,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1102051.54,2025-01-12,Secretaria de Obras,parceria
+1134,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,230148.07,2024-11-04,Hospital Municipal,parceria
+1135,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,219771.05,2024-06-25,UBS Central,licitação
+1136,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,362173.44,2025-08-30,Guarda Municipal,parceria
+1137,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,284518.57,2025-05-01,Polícia Militar,convênio
+1138,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,321133.8,2025-05-06,Escola Municipal,parceria
+1139,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1165177.08,2025-07-05,Secretaria de Obras,convênio
+1140,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,422188.75,2024-10-19,Escola Municipal,parceria
+1141,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,647384.56,2025-05-08,UBS Central,convênio
+1142,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,190939.95,2024-11-18,Prefeitura,contrato direto
+1143,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,509595.1,2025-01-09,Guarda Municipal,convênio
+1144,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,114600.24,2024-01-15,Secretaria de Administração,parceria
+1145,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,682970.96,2025-02-28,Secretaria de Saúde,convênio
+1146,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,346260.11,2024-10-19,Polícia Militar,parceria
+1147,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,497874.34,2025-01-21,UBS Central,licitação
+1148,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,363339.86,2025-01-21,Escola Municipal,contrato direto
+1149,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,662312.64,2025-09-01,Secretaria de Saúde,convênio
+1150,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,531083.23,2024-07-02,Hospital Municipal,contrato direto
+1151,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,666825.03,2024-12-20,UBS Central,parceria
+1152,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,144458.96,2026-01-04,Secretaria de Saúde,licitação
+1153,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,114697.07,2025-03-17,Prefeitura,parceria
+1154,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,18611.4,2024-07-26,Guarda Municipal,parceria
+1155,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,70382.68,2024-11-06,Polícia Militar,parceria
+1156,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,183501.7,2024-07-02,Escola Municipal,licitação
+1157,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,75877.95,2025-05-18,Secretaria de Administração,licitação
+1158,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,277979.13,2024-03-04,Hospital Municipal,licitação
+1159,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,319580.83,2025-02-15,Hospital Municipal,licitação
+1160,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1702466.34,2024-09-21,Secretaria de Obras,convênio
+1161,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,604214.23,2024-12-17,UBS Central,convênio
+1162,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,126857.16,2024-04-21,Prefeitura,contrato direto
+1163,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,441988.07,2025-10-24,Secretaria de Educação,parceria
+1164,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,286352.47,2024-04-23,Polícia Militar,convênio
+1165,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,392305.55,2025-10-16,Secretaria de Educação,licitação
+1166,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,775501.13,2024-03-29,Secretaria de Obras,parceria
+1167,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,27431.39,2025-01-18,Secretaria de Saúde,convênio
+1168,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,551995.57,2025-12-22,Departamento de Viação,licitação
+1169,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,217001.7,2024-12-12,Secretaria de Educação,convênio
+1170,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,37479.3,2025-04-14,Polícia Militar,convênio
+1171,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,300812.47,2024-09-30,Secretaria de Obras,contrato direto
+1172,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,714853.8,2025-12-15,Departamento de Viação,contrato direto
+1173,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,183963.26,2025-12-21,Creche,licitação
+1174,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1055133.08,2024-11-01,Departamento de Viação,convênio
+1175,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,146661.21,2024-04-19,Prefeitura,parceria
+1176,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,76702.31,2024-09-12,Prefeitura,parceria
+1177,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,690600.32,2025-02-28,Secretaria de Saúde,parceria
+1178,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1123380.1,2024-05-15,Departamento de Viação,parceria
+1179,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,434898.09,2025-04-25,UBS Central,parceria
+1180,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,448687.32,2025-11-04,Escola Municipal,parceria
+1181,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,429944.66,2024-04-05,Creche,convênio
+1182,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,423573.96,2025-11-09,Departamento de Viação,convênio
+1183,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,296134.46,2025-11-22,Polícia Militar,contrato direto
+1184,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1614730.88,2024-07-25,Departamento de Viação,contrato direto
+1185,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,109721.71,2025-05-09,Escola Municipal,parceria
+1186,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1564288.98,2025-12-20,Departamento de Viação,convênio
+1187,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,735193.31,2024-06-24,Secretaria de Saúde,convênio
+1188,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,498834.53,2024-02-17,Secretaria de Saúde,parceria
+1189,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,19906.86,2026-01-05,Secretaria de Administração,contrato direto
+1190,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1443283.37,2025-05-01,Departamento de Viação,contrato direto
+1191,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1860777.36,2025-10-30,Secretaria de Obras,convênio
+1192,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,277341.74,2024-11-29,Secretaria de Educação,convênio
+1193,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,172651.21,2025-11-01,Secretaria de Administração,licitação
+1194,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,701277.26,2025-06-06,UBS Central,convênio
+1195,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,59629.5,2024-07-23,Prefeitura,contrato direto
+1196,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,591839.7,2024-08-23,Polícia Militar,contrato direto
+1197,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,124240.44,2025-12-29,Polícia Militar,contrato direto
+1198,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,677238.97,2025-07-20,UBS Central,licitação
+1199,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,50001.61,2024-09-10,Escola Municipal,licitação
+1200,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,391502.03,2024-01-28,Hospital Municipal,parceria
+1201,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,465469.64,2024-05-28,Escola Municipal,parceria
+1202,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,34109.78,2025-04-08,Prefeitura,convênio
+1203,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,370238.64,2025-06-23,Hospital Municipal,contrato direto
+1204,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,131500.67,2024-01-26,Secretaria de Educação,convênio
+1205,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,60910.69,2025-09-25,Prefeitura,licitação
+1206,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,517879.34,2024-07-14,Polícia Militar,licitação
+1207,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,52464.27,2024-05-10,Prefeitura,parceria
+1208,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,430893.18,2024-12-26,Secretaria de Obras,licitação
+1209,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,449515.28,2024-02-13,Hospital Municipal,parceria
+1210,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,638823.84,2025-01-26,Departamento de Viação,licitação
+1211,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,323460.62,2025-05-14,Escola Municipal,licitação
+1212,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,359391.16,2025-07-03,Guarda Municipal,contrato direto
+1213,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,701621.03,2025-12-05,Hospital Municipal,parceria
+1214,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,261322.42,2024-08-05,Guarda Municipal,licitação
+1215,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,642617.53,2024-11-27,Hospital Municipal,licitação
+1216,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,185964.43,2024-08-17,Secretaria de Educação,parceria
+1217,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,143172.99,2025-03-03,Secretaria de Administração,licitação
+1218,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,450328.18,2024-11-20,Secretaria de Saúde,convênio
+1219,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,467967.19,2024-06-04,UBS Central,parceria
+1220,Mato Grosso,Cuiabá,infraestrutura,Gasto com infraestrutura em Cuiabá,1260949.47,2025-04-04,Departamento de Viação,contrato direto
+1221,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,367914.93,2025-10-26,Escola Municipal,contrato direto
+1222,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,595354.39,2024-09-19,Departamento de Viação,parceria
+1223,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,96749.7,2025-11-15,Secretaria de Educação,licitação
+1224,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,72741.31,2024-09-18,Guarda Municipal,parceria
+1225,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,312065.31,2024-07-27,Guarda Municipal,parceria
+1226,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,145235.51,2024-07-08,Secretaria de Administração,parceria
+1227,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,346117.44,2024-01-11,Creche,licitação
+1228,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,717358.76,2024-03-22,Hospital Municipal,parceria
+1229,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,61999.47,2025-09-27,Guarda Municipal,parceria
+1230,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,76466.43,2024-03-15,Secretaria de Administração,convênio
+1231,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,442871.15,2025-01-20,Guarda Municipal,convênio
+1232,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,42336.27,2025-12-22,Secretaria de Saúde,convênio
+1233,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,510677.56,2025-12-12,Secretaria de Saúde,contrato direto
+1234,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,559273.3,2025-07-05,Departamento de Viação,contrato direto
+1235,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,191257.28,2024-07-07,Prefeitura,convênio
+1236,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,288596.34,2024-02-18,Guarda Municipal,licitação
+1237,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,213565.17,2024-04-11,Polícia Militar,convênio
+1238,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,1453454.65,2024-04-05,Secretaria de Obras,contrato direto
+1239,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,414799.92,2025-07-25,Escola Municipal,parceria
+1240,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,115666.36,2024-06-26,Secretaria de Saúde,parceria
+1241,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,1943208.89,2024-02-16,Secretaria de Obras,contrato direto
+1242,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,444624.63,2025-10-31,Secretaria de Educação,licitação
+1243,Mato Grosso,Rondonópolis,infraestrutura,Gasto com infraestrutura em Rondonópolis,1541826.19,2024-12-21,Secretaria de Obras,convênio
+1244,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,143313.21,2025-02-25,Secretaria de Educação,contrato direto
+1245,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,207535.51,2024-03-12,Hospital Municipal,convênio
+1246,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,423530.58,2024-07-27,Secretaria de Saúde,contrato direto
+1247,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,93549.5,2025-03-18,Secretaria de Administração,contrato direto
+1248,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,10109.31,2025-05-31,Hospital Municipal,contrato direto
+1249,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,87472.59,2024-07-18,Creche,parceria
+1250,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,86430.79,2025-01-24,Secretaria de Educação,convênio
+1251,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,368580.0,2024-02-05,Secretaria de Educação,parceria
+1252,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,473967.14,2025-05-28,Creche,parceria
+1253,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,115424.98,2024-05-10,UBS Central,convênio
+1254,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,301032.02,2024-12-31,Secretaria de Saúde,contrato direto
+1255,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,106173.36,2024-11-10,Prefeitura,parceria
+1256,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,218844.79,2025-06-29,Secretaria de Educação,parceria
+1257,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,96025.89,2024-11-30,Hospital Municipal,parceria
+1258,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,63370.24,2024-08-09,Prefeitura,convênio
+1259,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,318863.89,2024-09-01,Escola Municipal,licitação
+1260,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,1087218.27,2024-06-27,Departamento de Viação,convênio
+1261,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,90242.49,2024-06-15,Guarda Municipal,convênio
+1262,Mato Grosso,Várzea Grande,infraestrutura,Gasto com infraestrutura em Várzea Grande,1567331.14,2024-01-26,Departamento de Viação,parceria
+1263,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,41454.15,2025-10-30,Guarda Municipal,contrato direto
+1264,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,715660.09,2025-01-28,UBS Central,parceria
+1265,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,21855.04,2024-10-14,Secretaria de Administração,convênio
+1266,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,244295.15,2025-08-21,Departamento de Viação,convênio
+1267,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,484865.77,2024-10-26,Hospital Municipal,parceria
+1268,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,250109.04,2024-03-14,Secretaria de Educação,parceria
+1269,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,262362.3,2025-11-21,Polícia Militar,parceria
+1270,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,306886.42,2024-02-06,UBS Central,contrato direto
+1271,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,106676.13,2025-08-15,Creche,parceria
+1272,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,509644.36,2025-03-02,Polícia Militar,parceria
+1273,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,460714.17,2025-12-13,Polícia Militar,licitação
+1274,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,474862.53,2025-11-17,Secretaria de Saúde,contrato direto
+1275,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,190982.91,2024-08-07,Prefeitura,licitação
+1276,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,220985.28,2024-11-24,Escola Municipal,licitação
+1277,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,102202.69,2024-09-19,UBS Central,licitação
+1278,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,197815.04,2025-03-06,Departamento de Viação,parceria
+1279,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,54993.13,2025-07-11,Secretaria de Administração,parceria
+1280,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,227616.75,2024-10-28,Escola Municipal,contrato direto
+1281,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1760887.57,2025-10-14,Departamento de Viação,convênio
+1282,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,374828.06,2024-05-08,Secretaria de Saúde,convênio
+1283,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,439607.99,2025-04-17,Secretaria de Obras,licitação
+1284,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,269199.97,2024-05-28,Creche,convênio
+1285,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,115766.82,2025-07-02,Secretaria de Administração,contrato direto
+1286,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,12583.85,2025-04-17,Secretaria de Administração,contrato direto
+1287,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,136038.11,2024-08-04,Departamento de Viação,parceria
+1288,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,35235.61,2024-12-08,Hospital Municipal,convênio
+1289,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,180826.35,2025-08-26,Prefeitura,convênio
+1290,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,288036.56,2024-11-30,Polícia Militar,contrato direto
+1291,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,52044.57,2024-04-27,Secretaria de Administração,contrato direto
+1292,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,179492.12,2025-01-10,Secretaria de Administração,parceria
+1293,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,206929.3,2025-10-06,Secretaria de Saúde,licitação
+1294,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,686355.76,2024-03-09,Secretaria de Saúde,parceria
+1295,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,679426.58,2025-03-08,UBS Central,licitação
+1296,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,1985102.14,2024-03-05,Secretaria de Obras,convênio
+1297,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,279555.04,2025-03-19,Escola Municipal,contrato direto
+1298,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,350529.18,2025-09-24,Hospital Municipal,licitação
+1299,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,203168.89,2025-07-26,Polícia Militar,licitação
+1300,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,265697.68,2025-01-27,Secretaria de Saúde,contrato direto
+1301,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,441919.99,2024-03-09,Polícia Militar,contrato direto
+1302,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,392941.31,2024-10-16,Polícia Militar,contrato direto
+1303,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,385143.5,2024-09-23,Guarda Municipal,parceria
+1304,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,198369.21,2025-03-18,Polícia Militar,parceria
+1305,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,350499.11,2024-11-13,Polícia Militar,parceria
+1306,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,249406.13,2024-12-29,Secretaria de Saúde,licitação
+1307,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,117804.77,2025-08-09,Prefeitura,parceria
+1308,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,403289.73,2025-10-10,Creche,contrato direto
+1309,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,565274.15,2024-11-07,Guarda Municipal,licitação
+1310,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,133289.81,2025-10-14,Creche,parceria
+1311,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,395809.71,2024-02-19,Escola Municipal,contrato direto
+1312,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,411846.54,2025-11-16,Guarda Municipal,contrato direto
+1313,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1121582.13,2025-10-24,Departamento de Viação,contrato direto
+1314,Mato Grosso,Cuiabá,administração,Gasto com administração em Cuiabá,156417.8,2024-12-09,Secretaria de Administração,licitação
+1315,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,618829.09,2024-05-19,Secretaria de Saúde,contrato direto
+1316,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,780027.83,2025-01-08,Hospital Municipal,convênio
+1317,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,16308.73,2025-02-07,Prefeitura,licitação
+1318,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,189724.17,2025-05-09,Prefeitura,licitação
+1319,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,326788.16,2025-02-10,Creche,parceria
+1320,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,568583.1,2024-08-27,Secretaria de Obras,contrato direto
+1321,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,251680.06,2025-02-02,Polícia Militar,parceria
+1322,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,186896.45,2025-08-31,Secretaria de Obras,parceria
+1323,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,369619.91,2024-07-12,Guarda Municipal,parceria
+1324,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,186102.49,2024-03-09,Departamento de Viação,parceria
+1325,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,157344.14,2024-03-14,UBS Central,licitação
+1326,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,51515.51,2025-08-04,Secretaria de Administração,parceria
+1327,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,314556.24,2025-06-12,Creche,licitação
+1328,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,245057.76,2024-01-07,Secretaria de Saúde,contrato direto
+1329,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,473258.33,2025-01-12,Departamento de Viação,contrato direto
+1330,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,298815.41,2024-04-10,Hospital Municipal,licitação
+1331,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,266443.7,2024-08-04,Polícia Militar,convênio
+1332,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,375724.04,2024-02-26,Guarda Municipal,contrato direto
+1333,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,175653.0,2025-09-29,Prefeitura,parceria
+1334,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,48783.86,2025-03-11,Guarda Municipal,licitação
+1335,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,155537.4,2025-10-13,Prefeitura,parceria
+1336,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1128137.45,2024-02-18,Departamento de Viação,parceria
+1337,Mato Grosso,Cuiabá,infraestrutura,Gasto com infraestrutura em Cuiabá,381186.3,2025-06-18,Departamento de Viação,parceria
+1338,Mato Grosso,Sorriso,saúde,Gasto com saúde em Sorriso,86544.95,2025-09-03,UBS Central,licitação
+1339,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,27912.74,2024-06-12,UBS Central,contrato direto
+1340,Mato Grosso,Sinop,administração,Gasto com administração em Sinop,20321.91,2024-05-10,Prefeitura,contrato direto
+1341,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,47162.15,2024-11-16,Guarda Municipal,licitação
+1342,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,171117.34,2025-07-27,Secretaria de Administração,parceria
+1343,Mato Grosso,Lucas do Rio Verde,educação,Gasto com educação em Lucas do Rio Verde,468370.41,2025-02-12,Secretaria de Educação,parceria
+1344,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,158293.78,2025-02-13,UBS Central,licitação
+1345,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,328136.91,2025-03-25,Polícia Militar,licitação
+1346,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,44516.15,2024-09-19,Polícia Militar,licitação
+1347,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,994905.02,2025-07-08,Secretaria de Obras,parceria
+1348,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1758960.32,2024-09-30,Secretaria de Obras,convênio
+1349,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1007747.54,2025-01-09,Departamento de Viação,licitação
+1350,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1460550.93,2024-01-28,Departamento de Viação,parceria
+1351,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,91584.76,2024-12-05,Guarda Municipal,contrato direto
+1352,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,581678.24,2025-09-22,Secretaria de Saúde,licitação
+1353,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1329628.79,2025-01-30,Departamento de Viação,parceria
+1354,Mato Grosso,Alta Floresta,segurança,Gasto com segurança em Alta Floresta,75061.35,2024-12-27,Polícia Militar,contrato direto
+1355,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,525582.68,2025-06-08,Polícia Militar,contrato direto
+1356,Mato Grosso,Sorriso,segurança,Gasto com segurança em Sorriso,248061.48,2025-06-07,Guarda Municipal,convênio
+1357,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,119852.78,2025-09-04,Prefeitura,convênio
+1358,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,77512.54,2025-04-22,Secretaria de Educação,licitação
+1359,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,623953.73,2025-07-16,Secretaria de Obras,contrato direto
+1360,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,91353.04,2024-06-28,Polícia Militar,contrato direto
+1361,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,126210.12,2024-01-25,Polícia Militar,convênio
+1362,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,692929.09,2025-03-30,Secretaria de Saúde,parceria
+1363,Mato Grosso,Várzea Grande,saúde,Gasto com saúde em Várzea Grande,269572.67,2025-04-12,Hospital Municipal,contrato direto
+1364,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,576663.94,2025-05-03,Secretaria de Saúde,contrato direto
+1365,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,496919.41,2024-02-15,Creche,licitação
+1366,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,386028.16,2024-05-25,Creche,parceria
+1367,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,32322.61,2024-09-21,Escola Municipal,licitação
+1368,Mato Grosso,Diamantino,saúde,Gasto com saúde em Diamantino,696273.68,2025-04-21,UBS Central,convênio
+1369,Mato Grosso,Diamantino,segurança,Gasto com segurança em Diamantino,87671.33,2025-08-20,Polícia Militar,parceria
+1370,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,167472.08,2024-04-01,Secretaria de Administração,convênio
+1371,Mato Grosso,Pontes e Lacerda,saúde,Gasto com saúde em Pontes e Lacerda,98776.31,2025-10-27,Hospital Municipal,parceria
+1372,Mato Grosso,Lucas do Rio Verde,infraestrutura,Gasto com infraestrutura em Lucas do Rio Verde,813340.47,2024-12-17,Departamento de Viação,licitação
+1373,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,173632.12,2024-01-28,Prefeitura,convênio
+1374,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,1373571.21,2025-08-24,Secretaria de Obras,convênio
+1375,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,207890.53,2025-11-25,Guarda Municipal,licitação
+1376,Mato Grosso,Diamantino,educação,Gasto com educação em Diamantino,117743.28,2024-11-03,Secretaria de Educação,convênio
+1377,Mato Grosso,Sinop,saúde,Gasto com saúde em Sinop,571113.79,2025-04-04,UBS Central,convênio
+1378,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,171955.88,2025-09-02,Secretaria de Educação,parceria
+1379,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,304916.15,2024-06-17,Escola Municipal,convênio
+1380,Mato Grosso,Tangará da Serra,administração,Gasto com administração em Tangará da Serra,91431.59,2025-09-28,Prefeitura,convênio
+1381,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,792583.06,2024-02-24,Secretaria de Saúde,convênio
+1382,Mato Grosso,Cuiabá,infraestrutura,Gasto com infraestrutura em Cuiabá,682914.77,2024-07-08,Secretaria de Obras,parceria
+1383,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,440690.92,2025-12-29,Creche,licitação
+1384,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,107963.14,2025-07-05,Hospital Municipal,parceria
+1385,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,177544.27,2025-08-03,Escola Municipal,contrato direto
+1386,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,144504.96,2025-06-19,UBS Central,convênio
+1387,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,88050.99,2025-05-14,Prefeitura,licitação
+1388,Mato Grosso,Cuiabá,educação,Gasto com educação em Cuiabá,166478.07,2024-10-01,Escola Municipal,contrato direto
+1389,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,180977.0,2024-10-13,Polícia Militar,convênio
+1390,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,198022.58,2025-12-01,Escola Municipal,licitação
+1391,Mato Grosso,Lucas do Rio Verde,saúde,Gasto com saúde em Lucas do Rio Verde,662170.05,2024-11-06,UBS Central,contrato direto
+1392,Mato Grosso,Cuiabá,infraestrutura,Gasto com infraestrutura em Cuiabá,1573344.97,2024-06-06,Secretaria de Obras,licitação
+1393,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,379101.62,2025-04-10,Guarda Municipal,contrato direto
+1394,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,643647.52,2024-06-21,Secretaria de Saúde,contrato direto
+1395,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1026837.27,2025-04-06,Secretaria de Obras,convênio
+1396,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1447348.2,2024-09-14,Secretaria de Obras,parceria
+1397,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,684774.81,2025-06-02,UBS Central,parceria
+1398,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,423582.87,2025-05-11,Creche,convênio
+1399,Mato Grosso,Pontes e Lacerda,administração,Gasto com administração em Pontes e Lacerda,148198.54,2025-12-01,Secretaria de Administração,licitação
+1400,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,587163.73,2024-06-20,Guarda Municipal,licitação
+1401,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,1074286.33,2025-08-04,Departamento de Viação,contrato direto
+1402,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,378375.95,2025-03-18,Secretaria de Educação,contrato direto
+1403,Mato Grosso,Sinop,infraestrutura,Gasto com infraestrutura em Sinop,792792.94,2024-06-17,Departamento de Viação,licitação
+1404,Mato Grosso,Cáceres,infraestrutura,Gasto com infraestrutura em Cáceres,1163425.06,2024-08-06,Departamento de Viação,parceria
+1405,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,661306.74,2024-10-24,UBS Central,parceria
+1406,Mato Grosso,Várzea Grande,administração,Gasto com administração em Várzea Grande,94990.6,2024-07-29,Secretaria de Administração,parceria
+1407,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,78420.74,2024-12-11,Secretaria de Educação,contrato direto
+1408,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,375991.6,2024-09-10,UBS Central,convênio
+1409,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,135670.99,2024-01-25,Hospital Municipal,contrato direto
+1410,Mato Grosso,Primavera do Leste,segurança,Gasto com segurança em Primavera do Leste,386306.39,2024-01-08,Polícia Militar,convênio
+1411,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,663761.9,2024-07-08,Hospital Municipal,parceria
+1412,Mato Grosso,Campo Verde,infraestrutura,Gasto com infraestrutura em Campo Verde,1008334.73,2025-01-24,Secretaria de Obras,contrato direto
+1413,Mato Grosso,Nova Mutum,administração,Gasto com administração em Nova Mutum,86756.33,2025-05-09,Secretaria de Administração,contrato direto
+1414,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,323998.37,2024-07-03,Secretaria de Educação,parceria
+1415,Mato Grosso,Lucas do Rio Verde,segurança,Gasto com segurança em Lucas do Rio Verde,363791.1,2025-07-23,Guarda Municipal,convênio
+1416,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,59821.63,2024-10-10,Hospital Municipal,convênio
+1417,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,787866.44,2024-08-26,UBS Central,parceria
+1418,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,184095.06,2025-10-04,Creche,contrato direto
+1419,Mato Grosso,Várzea Grande,segurança,Gasto com segurança em Várzea Grande,28243.86,2024-06-16,Guarda Municipal,contrato direto
+1420,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,618450.18,2025-01-06,UBS Central,licitação
+1421,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,27901.35,2024-03-22,Secretaria de Administração,licitação
+1422,Mato Grosso,Sorriso,infraestrutura,Gasto com infraestrutura em Sorriso,1856687.47,2025-07-09,Secretaria de Obras,licitação
+1423,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,867909.56,2024-01-09,Departamento de Viação,convênio
+1424,Mato Grosso,Cáceres,educação,Gasto com educação em Cáceres,239201.14,2025-05-24,Escola Municipal,licitação
+1425,Mato Grosso,Lucas do Rio Verde,administração,Gasto com administração em Lucas do Rio Verde,31265.32,2024-07-29,Secretaria de Administração,parceria
+1426,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,376482.75,2025-11-14,Escola Municipal,licitação
+1427,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,363583.88,2025-01-12,Guarda Municipal,convênio
+1428,Mato Grosso,Barra do Garças,administração,Gasto com administração em Barra do Garças,100117.97,2024-06-14,Secretaria de Administração,convênio
+1429,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,13042.17,2024-03-06,Secretaria de Administração,parceria
+1430,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,261146.06,2025-10-18,Secretaria de Saúde,contrato direto
+1431,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,188770.3,2024-11-05,Polícia Militar,parceria
+1432,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,1456433.46,2025-03-08,Departamento de Viação,contrato direto
+1433,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,197984.4,2025-02-24,Secretaria de Educação,contrato direto
+1434,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,480700.34,2024-10-20,Polícia Militar,licitação
+1435,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,148687.25,2025-06-29,Secretaria de Administração,convênio
+1436,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,101755.39,2025-01-09,Guarda Municipal,licitação
+1437,Mato Grosso,Pontes e Lacerda,segurança,Gasto com segurança em Pontes e Lacerda,478556.03,2026-01-01,Polícia Militar,convênio
+1438,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1036503.18,2025-06-12,Departamento de Viação,parceria
+1439,Mato Grosso,Cuiabá,segurança,Gasto com segurança em Cuiabá,579240.39,2025-02-26,Guarda Municipal,contrato direto
+1440,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,326149.68,2024-05-26,Escola Municipal,contrato direto
+1441,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,1563502.78,2025-07-18,Secretaria de Obras,parceria
+1442,Mato Grosso,Rondonópolis,educação,Gasto com educação em Rondonópolis,151159.46,2024-06-26,Escola Municipal,contrato direto
+1443,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,12117.15,2025-08-21,Prefeitura,convênio
+1444,Mato Grosso,Rondonópolis,saúde,Gasto com saúde em Rondonópolis,662158.38,2025-08-07,Hospital Municipal,contrato direto
+1445,Mato Grosso,Diamantino,infraestrutura,Gasto com infraestrutura em Diamantino,1513491.56,2024-07-31,Secretaria de Obras,contrato direto
+1446,Mato Grosso,Tangará da Serra,saúde,Gasto com saúde em Tangará da Serra,309560.77,2025-06-17,Hospital Municipal,contrato direto
+1447,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,219277.31,2025-12-27,Guarda Municipal,contrato direto
+1448,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,115143.86,2025-03-19,Secretaria de Administração,licitação
+1449,Mato Grosso,Tangará da Serra,infraestrutura,Gasto com infraestrutura em Tangará da Serra,1507959.14,2025-02-25,Departamento de Viação,contrato direto
+1450,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,625701.97,2024-08-28,Departamento de Viação,contrato direto
+1451,Mato Grosso,Barra do Garças,saúde,Gasto com saúde em Barra do Garças,441528.03,2025-08-20,UBS Central,parceria
+1452,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,36486.16,2025-08-22,Escola Municipal,contrato direto
+1453,Mato Grosso,Alta Floresta,educação,Gasto com educação em Alta Floresta,483261.48,2024-03-07,Escola Municipal,contrato direto
+1454,Mato Grosso,Sinop,educação,Gasto com educação em Sinop,231887.43,2025-06-05,Escola Municipal,parceria
+1455,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,886948.6,2024-04-16,Secretaria de Obras,convênio
+1456,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,280234.04,2025-08-23,Creche,licitação
+1457,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,249135.34,2025-04-29,Escola Municipal,licitação
+1458,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,71318.01,2024-07-23,Secretaria de Administração,convênio
+1459,Mato Grosso,Nova Mutum,segurança,Gasto com segurança em Nova Mutum,546885.55,2025-02-12,Polícia Militar,parceria
+1460,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,269313.24,2024-06-29,Creche,contrato direto
+1461,Mato Grosso,Rondonópolis,segurança,Gasto com segurança em Rondonópolis,497303.85,2024-10-23,Polícia Militar,licitação
+1462,Mato Grosso,Barra do Garças,infraestrutura,Gasto com infraestrutura em Barra do Garças,425049.98,2024-05-06,Departamento de Viação,licitação
+1463,Mato Grosso,Diamantino,administração,Gasto com administração em Diamantino,114314.85,2025-04-20,Secretaria de Administração,licitação
+1464,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,25974.17,2025-08-18,Creche,licitação
+1465,Mato Grosso,Primavera do Leste,administração,Gasto com administração em Primavera do Leste,25056.99,2025-06-10,Secretaria de Administração,contrato direto
+1466,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1338272.31,2025-08-09,Departamento de Viação,contrato direto
+1467,Mato Grosso,Nova Mutum,saúde,Gasto com saúde em Nova Mutum,192561.67,2024-04-24,Secretaria de Saúde,contrato direto
+1468,Mato Grosso,Campo Verde,educação,Gasto com educação em Campo Verde,436220.32,2025-07-04,Escola Municipal,licitação
+1469,Mato Grosso,Alta Floresta,administração,Gasto com administração em Alta Floresta,138199.12,2024-03-15,Prefeitura,contrato direto
+1470,Mato Grosso,Campo Verde,segurança,Gasto com segurança em Campo Verde,458708.92,2024-09-27,Polícia Militar,convênio
+1471,Mato Grosso,Nova Mutum,infraestrutura,Gasto com infraestrutura em Nova Mutum,1486690.1,2024-01-25,Departamento de Viação,contrato direto
+1472,Mato Grosso,Cáceres,segurança,Gasto com segurança em Cáceres,22149.96,2025-04-25,Guarda Municipal,contrato direto
+1473,Mato Grosso,Pontes e Lacerda,infraestrutura,Gasto com infraestrutura em Pontes e Lacerda,284031.39,2024-04-01,Secretaria de Obras,convênio
+1474,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,103194.54,2025-12-28,Guarda Municipal,parceria
+1475,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,506010.9,2025-04-21,Hospital Municipal,convênio
+1476,Mato Grosso,Pontes e Lacerda,educação,Gasto com educação em Pontes e Lacerda,63657.55,2024-01-22,Escola Municipal,licitação
+1477,Mato Grosso,Nova Mutum,educação,Gasto com educação em Nova Mutum,368585.78,2024-07-31,Secretaria de Educação,parceria
+1478,Mato Grosso,Campo Verde,saúde,Gasto com saúde em Campo Verde,771041.49,2024-07-09,Hospital Municipal,convênio
+1479,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,78673.83,2024-03-26,Secretaria de Educação,parceria
+1480,Mato Grosso,Campo Verde,administração,Gasto com administração em Campo Verde,71919.14,2025-02-25,Prefeitura,contrato direto
+1481,Mato Grosso,Barra do Garças,segurança,Gasto com segurança em Barra do Garças,135513.76,2025-04-12,Guarda Municipal,convênio
+1482,Mato Grosso,Cuiabá,saúde,Gasto com saúde em Cuiabá,304557.15,2025-01-04,Secretaria de Saúde,contrato direto
+1483,Mato Grosso,Rondonópolis,administração,Gasto com administração em Rondonópolis,142040.09,2025-09-24,Secretaria de Administração,parceria
+1484,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,240890.44,2025-06-06,Secretaria de Saúde,licitação
+1485,Mato Grosso,Primavera do Leste,saúde,Gasto com saúde em Primavera do Leste,244555.33,2025-01-23,Secretaria de Saúde,convênio
+1486,Mato Grosso,Primavera do Leste,infraestrutura,Gasto com infraestrutura em Primavera do Leste,1802787.31,2024-03-18,Secretaria de Obras,contrato direto
+1487,Mato Grosso,Várzea Grande,educação,Gasto com educação em Várzea Grande,312718.06,2024-09-19,Creche,contrato direto
+1488,Mato Grosso,Cáceres,saúde,Gasto com saúde em Cáceres,176814.99,2025-10-12,Hospital Municipal,contrato direto
+1489,Mato Grosso,Sinop,segurança,Gasto com segurança em Sinop,499452.83,2024-12-10,Guarda Municipal,parceria
+1490,Mato Grosso,Sorriso,educação,Gasto com educação em Sorriso,438681.26,2024-01-23,Secretaria de Educação,convênio
+1491,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,129038.78,2024-07-13,Creche,licitação
+1492,Mato Grosso,Primavera do Leste,educação,Gasto com educação em Primavera do Leste,74349.98,2024-08-26,Secretaria de Educação,contrato direto
+1493,Mato Grosso,Tangará da Serra,educação,Gasto com educação em Tangará da Serra,23612.08,2024-05-18,Secretaria de Educação,contrato direto
+1494,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,4575.06,2024-09-07,Prefeitura,convênio
+1495,Mato Grosso,Alta Floresta,infraestrutura,Gasto com infraestrutura em Alta Floresta,1057383.34,2024-11-13,Departamento de Viação,convênio
+1496,Mato Grosso,Barra do Garças,educação,Gasto com educação em Barra do Garças,352108.06,2025-10-25,Creche,convênio
+1497,Mato Grosso,Alta Floresta,saúde,Gasto com saúde em Alta Floresta,97337.55,2025-05-24,Hospital Municipal,convênio
+1498,Mato Grosso,Tangará da Serra,segurança,Gasto com segurança em Tangará da Serra,333298.83,2025-09-28,Guarda Municipal,contrato direto
+1499,Mato Grosso,Sorriso,administração,Gasto com administração em Sorriso,117448.17,2025-04-27,Prefeitura,parceria
+1500,Mato Grosso,Cáceres,administração,Gasto com administração em Cáceres,119760.52,2025-06-24,Prefeitura,convênio

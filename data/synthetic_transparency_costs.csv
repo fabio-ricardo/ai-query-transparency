@@ -1,0 +1,1001 @@
+id,state,municipality,cost_category,cost_description,amount,date,department,contract_type
+1,Mato Grosso,Barra do Garças,saúde,Equipamentos hospitalares,102254.6,2024-11-10,Posto de Saúde,contrato direto
+2,Mato Grosso,Guarantã do Norte,administração,Material de escritório,37986.25,2024-08-07,Contadoria,convênio
+3,Mato Grosso,Alta Floresta,infraestrutura,Saneamento básico,395250.5,2024-05-03,Saneamento,licitação
+4,Mato Grosso,Primavera do Leste,infraestrutura,Asfalto de vias,981470.74,2024-01-30,Departamento de Viação,contrato direto
+5,Mato Grosso,Tangará da Serra,administração,Aluguel de imóveis,22858.52,2025-04-28,Prefeitura,convênio
+6,Mato Grosso,Nova Mutum,saúde,Compra de medicamentos,392385.9,2024-03-02,SAMU,convênio
+7,Mato Grosso,Pontes e Lacerda,administração,Serviços de limpeza,5021.97,2024-01-14,RH,parceria
+8,Mato Grosso,Peixoto de Azevedo,administração,Material de escritório,71614.94,2024-06-17,Prefeitura,convênio
+9,Mato Grosso,Juína,segurança,Sistemas de vigilância,43281.05,2024-07-29,Polícia Militar,contrato direto
+10,Mato Grosso,Tangará da Serra,administração,Serviços de limpeza,89046.2,2025-02-20,Prefeitura,licitação
+11,Mato Grosso,Alta Floresta,educação,Construção de escolas,73308.38,2025-08-06,Universidade Estadual,convênio
+12,Mato Grosso,Peixoto de Azevedo,infraestrutura,Iluminação pública,174958.75,2025-01-11,Energia,licitação
+13,Mato Grosso,Cáceres,educação,Construção de escolas,122738.16,2024-06-04,Escola Municipal,parceria
+14,Mato Grosso,Lucas do Rio Verde,saúde,Contratação de médicos,167403.33,2025-11-09,Posto de Saúde,parceria
+15,Mato Grosso,Lucas do Rio Verde,administração,Material de escritório,73237.97,2024-09-17,RH,contrato direto
+16,Mato Grosso,Água Boa,educação,Material escolar,4162.11,2025-04-05,Universidade Estadual,parceria
+17,Mato Grosso,Peixoto de Azevedo,administração,Aluguel de imóveis,27831.68,2024-05-25,Prefeitura,contrato direto
+18,Mato Grosso,Sorriso,educação,Transporte estudantil,194350.82,2026-01-05,Creche,contrato direto
+19,Mato Grosso,Rondonópolis,saúde,Equipamentos hospitalares,447763.75,2025-02-04,SAMU,parceria
+20,Mato Grosso,Juína,infraestrutura,Saneamento básico,301978.11,2025-10-09,Energia,parceria
+21,Mato Grosso,Alta Floresta,educação,Salários de professores,118531.75,2024-08-15,Escola Municipal,contrato direto
+22,Mato Grosso,Lucas do Rio Verde,segurança,Sistemas de vigilância,206503.7,2024-07-16,Polícia Civil,licitação
+23,Mato Grosso,Cuiabá,educação,Transporte estudantil,93109.9,2024-06-14,Secretaria de Educação,parceria
+24,Mato Grosso,Água Boa,infraestrutura,Iluminação pública,646489.89,2025-06-16,Departamento de Viação,convênio
+25,Mato Grosso,Água Boa,educação,Material escolar,157863.51,2025-05-19,Creche,parceria
+26,Mato Grosso,Peixoto de Azevedo,infraestrutura,Saneamento básico,683330.57,2024-12-28,Secretaria de Obras,licitação
+27,Mato Grosso,Juína,administração,Consultoria,97309.0,2025-09-17,Secretaria de Administração,parceria
+28,Mato Grosso,Várzea Grande,segurança,Sistemas de vigilância,553671.56,2025-06-22,Polícia Civil,convênio
+29,Mato Grosso,Barra do Garças,saúde,Contratação de médicos,395722.99,2024-09-17,Secretaria de Saúde,convênio
+30,Mato Grosso,Juína,saúde,Manutenção de hospitais,469537.14,2024-11-23,Posto de Saúde,licitação
+31,Mato Grosso,Cáceres,educação,Material escolar,74315.83,2025-07-20,Universidade Estadual,licitação
+32,Mato Grosso,Alta Floresta,infraestrutura,Iluminação pública,740004.77,2024-01-07,Energia,licitação
+33,Mato Grosso,Tangará da Serra,administração,Consultoria,72498.91,2024-06-21,Contadoria,convênio
+34,Mato Grosso,Guarantã do Norte,infraestrutura,Construção de pontes,351687.0,2025-09-18,Saneamento,convênio
+35,Mato Grosso,Cáceres,saúde,Contratação de médicos,11542.61,2024-12-16,SAMU,parceria
+36,Mato Grosso,Primavera do Leste,segurança,Viaturas policiais,257149.58,2024-04-05,Guarda Municipal,licitação
+37,Mato Grosso,Várzea Grande,segurança,Sistemas de vigilância,700745.89,2025-05-13,Polícia Militar,convênio
+38,Mato Grosso,Lucas do Rio Verde,administração,Consultoria,1594.12,2025-01-28,Prefeitura,parceria
+39,Mato Grosso,Sorriso,saúde,Contratação de médicos,321378.28,2025-05-03,Hospital Municipal,parceria
+40,Mato Grosso,Barra do Garças,educação,Salários de professores,36626.17,2024-02-06,Creche,licitação
+41,Mato Grosso,Diamantino,segurança,Treinamento de agentes,387315.73,2025-06-23,Polícia Civil,convênio
+42,Mato Grosso,Juína,administração,Aluguel de imóveis,64978.63,2024-02-26,Contadoria,contrato direto
+43,Mato Grosso,Cuiabá,administração,Aluguel de imóveis,84599.75,2024-09-22,Contadoria,licitação
+44,Mato Grosso,Guarantã do Norte,saúde,Compra de medicamentos,5124.1,2025-05-26,Hospital Municipal,contrato direto
+45,Mato Grosso,Peixoto de Azevedo,saúde,Manutenção de hospitais,395131.04,2024-10-16,Posto de Saúde,contrato direto
+46,Mato Grosso,Cuiabá,segurança,Treinamento de agentes,260468.88,2025-07-08,Guarda Municipal,convênio
+47,Mato Grosso,Diamantino,infraestrutura,Iluminação pública,47887.28,2025-06-30,Saneamento,contrato direto
+48,Mato Grosso,Nova Mutum,saúde,Manutenção de hospitais,369657.13,2025-04-26,Posto de Saúde,contrato direto
+49,Mato Grosso,Sinop,saúde,Manutenção de hospitais,477052.57,2024-04-21,Posto de Saúde,contrato direto
+50,Mato Grosso,Sorriso,saúde,Equipamentos hospitalares,399557.15,2025-04-02,Secretaria de Saúde,parceria
+51,Mato Grosso,Primavera do Leste,saúde,Equipamentos hospitalares,211364.76,2025-06-18,Posto de Saúde,parceria
+52,Mato Grosso,Cuiabá,infraestrutura,Iluminação pública,969502.5,2025-01-31,Departamento de Viação,parceria
+53,Mato Grosso,Várzea Grande,segurança,Treinamento de agentes,362738.59,2025-06-01,Trânsito,contrato direto
+54,Mato Grosso,Cuiabá,administração,Serviços de limpeza,91068.89,2024-02-24,Secretaria de Administração,contrato direto
+55,Mato Grosso,Rondonópolis,infraestrutura,Iluminação pública,86877.19,2025-04-02,Saneamento,licitação
+56,Mato Grosso,Colíder,administração,Consultoria,75334.5,2025-05-21,RH,convênio
+57,Mato Grosso,Sorriso,infraestrutura,Iluminação pública,387968.76,2024-07-06,Saneamento,convênio
+58,Mato Grosso,Pontes e Lacerda,segurança,Equipamentos de segurança,92280.22,2025-02-01,Polícia Civil,contrato direto
+59,Mato Grosso,Cuiabá,administração,Material de escritório,8647.52,2024-09-14,Contadoria,contrato direto
+60,Mato Grosso,Guarantã do Norte,educação,Salários de professores,52861.21,2025-08-22,Escola Municipal,convênio
+61,Mato Grosso,Água Boa,saúde,Manutenção de hospitais,190951.57,2025-01-27,Hospital Municipal,parceria
+62,Mato Grosso,Alta Floresta,saúde,Compra de medicamentos,27908.25,2024-08-16,Hospital Municipal,convênio
+63,Mato Grosso,Peixoto de Azevedo,infraestrutura,Saneamento básico,553703.16,2025-06-10,Departamento de Viação,licitação
+64,Mato Grosso,Rondonópolis,segurança,Viaturas policiais,22342.28,2025-03-27,Polícia Civil,convênio
+65,Mato Grosso,Juína,infraestrutura,Saneamento básico,214326.08,2024-12-31,Saneamento,convênio
+66,Mato Grosso,Sinop,administração,Material de escritório,75998.9,2024-01-30,Contadoria,convênio
+67,Mato Grosso,Tangará da Serra,administração,Aluguel de imóveis,97794.79,2025-01-26,Prefeitura,parceria
+68,Mato Grosso,Cáceres,saúde,Manutenção de hospitais,463268.34,2025-04-12,Posto de Saúde,licitação
+69,Mato Grosso,Diamantino,segurança,Equipamentos de segurança,703411.68,2024-10-11,Polícia Militar,parceria
+70,Mato Grosso,Nova Mutum,educação,Salários de professores,176654.27,2024-11-26,Creche,convênio
+71,Mato Grosso,Pontes e Lacerda,administração,Material de escritório,55875.45,2024-11-18,Prefeitura,convênio
+72,Mato Grosso,Campo Verde,saúde,Manutenção de hospitais,389466.62,2025-12-10,Posto de Saúde,convênio
+73,Mato Grosso,Peixoto de Azevedo,saúde,Compra de medicamentos,393894.24,2025-05-28,Posto de Saúde,parceria
+74,Mato Grosso,Tangará da Serra,saúde,Equipamentos hospitalares,424379.31,2024-09-22,Hospital Municipal,parceria
+75,Mato Grosso,Lucas do Rio Verde,saúde,Manutenção de hospitais,98376.02,2024-12-27,Secretaria de Saúde,convênio
+76,Mato Grosso,Barra do Garças,segurança,Equipamentos de segurança,155632.17,2025-07-01,Polícia Civil,contrato direto
+77,Mato Grosso,Água Boa,segurança,Treinamento de agentes,95618.33,2024-06-06,Polícia Militar,contrato direto
+78,Mato Grosso,Sinop,saúde,Equipamentos hospitalares,155826.26,2025-03-23,Posto de Saúde,parceria
+79,Mato Grosso,Sinop,saúde,Compra de medicamentos,248673.41,2025-02-27,Posto de Saúde,parceria
+80,Mato Grosso,Guarantã do Norte,saúde,Contratação de médicos,306937.93,2024-08-22,Secretaria de Saúde,parceria
+81,Mato Grosso,Campo Verde,saúde,Contratação de médicos,213079.23,2025-08-09,Posto de Saúde,parceria
+82,Mato Grosso,Alta Floresta,segurança,Equipamentos de segurança,424448.92,2025-08-18,Guarda Municipal,parceria
+83,Mato Grosso,Nova Mutum,segurança,Treinamento de agentes,507126.19,2024-03-29,Trânsito,contrato direto
+84,Mato Grosso,Peixoto de Azevedo,segurança,Viaturas policiais,430933.0,2024-07-09,Trânsito,parceria
+85,Mato Grosso,Cuiabá,infraestrutura,Asfalto de vias,697109.75,2025-10-12,Secretaria de Obras,contrato direto
+86,Mato Grosso,Cáceres,segurança,Treinamento de agentes,126401.78,2025-10-25,Guarda Municipal,contrato direto
+87,Mato Grosso,Lucas do Rio Verde,infraestrutura,Construção de pontes,33389.58,2025-06-26,Secretaria de Obras,convênio
+88,Mato Grosso,Lucas do Rio Verde,administração,Aluguel de imóveis,62175.13,2024-06-16,Secretaria de Administração,parceria
+89,Mato Grosso,Lucas do Rio Verde,infraestrutura,Iluminação pública,286078.92,2024-06-11,Secretaria de Obras,licitação
+90,Mato Grosso,Primavera do Leste,infraestrutura,Asfalto de vias,781224.11,2024-03-15,Secretaria de Obras,licitação
+91,Mato Grosso,Barra do Garças,segurança,Equipamentos de segurança,658200.44,2025-02-14,Trânsito,licitação
+92,Mato Grosso,Tangará da Serra,educação,Transporte estudantil,122025.23,2024-04-15,Escola Municipal,convênio
+93,Mato Grosso,Barra do Garças,segurança,Treinamento de agentes,154970.08,2025-08-24,Polícia Militar,convênio
+94,Mato Grosso,Rondonópolis,infraestrutura,Asfalto de vias,228425.32,2025-07-03,Departamento de Viação,licitação
+95,Mato Grosso,Sorriso,infraestrutura,Saneamento básico,831814.48,2024-03-17,Secretaria de Obras,parceria
+96,Mato Grosso,Campo Verde,infraestrutura,Iluminação pública,838518.48,2024-04-01,Saneamento,contrato direto
+97,Mato Grosso,Peixoto de Azevedo,infraestrutura,Asfalto de vias,610114.56,2025-05-06,Saneamento,parceria
+98,Mato Grosso,Várzea Grande,saúde,Equipamentos hospitalares,43012.31,2025-02-27,Posto de Saúde,licitação
+99,Mato Grosso,Cáceres,saúde,Equipamentos hospitalares,73734.0,2024-08-26,Hospital Municipal,licitação
+100,Mato Grosso,Diamantino,segurança,Treinamento de agentes,707848.06,2025-01-13,Polícia Civil,contrato direto
+101,Mato Grosso,Rondonópolis,segurança,Treinamento de agentes,528381.78,2025-01-08,Trânsito,contrato direto
+102,Mato Grosso,Barra do Garças,educação,Material escolar,57348.92,2025-12-21,Creche,convênio
+103,Mato Grosso,Tangará da Serra,infraestrutura,Asfalto de vias,747071.35,2025-04-14,Secretaria de Obras,parceria
+104,Mato Grosso,Peixoto de Azevedo,infraestrutura,Asfalto de vias,936946.63,2025-09-27,Saneamento,contrato direto
+105,Mato Grosso,Sinop,infraestrutura,Iluminação pública,948006.11,2024-03-25,Departamento de Viação,licitação
+106,Mato Grosso,Cáceres,saúde,Compra de medicamentos,21118.07,2024-10-22,Secretaria de Saúde,contrato direto
+107,Mato Grosso,Colíder,infraestrutura,Construção de pontes,355490.38,2025-05-28,Saneamento,licitação
+108,Mato Grosso,Juína,infraestrutura,Iluminação pública,470021.97,2024-01-15,Departamento de Viação,licitação
+109,Mato Grosso,Diamantino,segurança,Sistemas de vigilância,22189.02,2024-11-26,Polícia Civil,parceria
+110,Mato Grosso,Diamantino,saúde,Manutenção de hospitais,32836.31,2024-06-19,Hospital Municipal,contrato direto
+111,Mato Grosso,Colíder,saúde,Manutenção de hospitais,192233.09,2024-02-19,Hospital Municipal,convênio
+112,Mato Grosso,Barra do Garças,infraestrutura,Iluminação pública,605069.87,2025-02-13,Departamento de Viação,parceria
+113,Mato Grosso,Guarantã do Norte,educação,Salários de professores,130081.7,2025-05-16,Creche,contrato direto
+114,Mato Grosso,Guarantã do Norte,administração,Aluguel de imóveis,52923.72,2024-09-26,Prefeitura,parceria
+115,Mato Grosso,Sinop,administração,Consultoria,70223.31,2025-03-20,RH,contrato direto
+116,Mato Grosso,Guarantã do Norte,segurança,Viaturas policiais,43382.75,2025-06-26,Guarda Municipal,parceria
+117,Mato Grosso,Tangará da Serra,infraestrutura,Construção de pontes,499104.16,2024-05-05,Secretaria de Obras,convênio
+118,Mato Grosso,Guarantã do Norte,segurança,Sistemas de vigilância,288766.77,2025-03-26,Trânsito,convênio
+119,Mato Grosso,Primavera do Leste,administração,Consultoria,92956.08,2024-04-09,Contadoria,licitação
+120,Mato Grosso,Tangará da Serra,segurança,Viaturas policiais,101231.73,2025-06-05,Polícia Civil,contrato direto
+121,Mato Grosso,Cáceres,infraestrutura,Iluminação pública,591025.44,2024-02-04,Secretaria de Obras,parceria
+122,Mato Grosso,Cáceres,administração,Material de escritório,2434.63,2024-04-16,Prefeitura,convênio
+123,Mato Grosso,Rondonópolis,infraestrutura,Saneamento básico,217864.38,2025-03-21,Saneamento,convênio
+124,Mato Grosso,Alta Floresta,segurança,Viaturas policiais,52982.4,2024-08-17,Polícia Militar,licitação
+125,Mato Grosso,Cáceres,segurança,Treinamento de agentes,220188.41,2025-10-08,Guarda Municipal,convênio
+126,Mato Grosso,Água Boa,administração,Material de escritório,63864.27,2025-03-30,RH,contrato direto
+127,Mato Grosso,Diamantino,educação,Construção de escolas,83980.53,2025-05-25,Secretaria de Educação,parceria
+128,Mato Grosso,Rondonópolis,segurança,Treinamento de agentes,476103.1,2024-11-13,Guarda Municipal,parceria
+129,Mato Grosso,Rondonópolis,saúde,Compra de medicamentos,473854.05,2024-12-24,Hospital Municipal,parceria
+130,Mato Grosso,Colíder,infraestrutura,Iluminação pública,128497.66,2024-06-05,Saneamento,contrato direto
+131,Mato Grosso,Alta Floresta,educação,Construção de escolas,12515.56,2025-09-14,Creche,licitação
+132,Mato Grosso,Tangará da Serra,infraestrutura,Saneamento básico,73479.71,2024-07-21,Departamento de Viação,licitação
+133,Mato Grosso,Barra do Garças,administração,Serviços de limpeza,60291.95,2025-07-29,RH,parceria
+134,Mato Grosso,Sinop,infraestrutura,Iluminação pública,916288.16,2024-02-17,Energia,parceria
+135,Mato Grosso,Rondonópolis,administração,Aluguel de imóveis,83403.93,2025-04-23,Secretaria de Administração,licitação
+136,Mato Grosso,Água Boa,educação,Transporte estudantil,127388.7,2024-10-09,Universidade Estadual,licitação
+137,Mato Grosso,Sorriso,educação,Transporte estudantil,53639.02,2025-02-19,Universidade Estadual,convênio
+138,Mato Grosso,Diamantino,educação,Transporte estudantil,188159.99,2025-11-17,Universidade Estadual,licitação
+139,Mato Grosso,Juína,segurança,Treinamento de agentes,545452.58,2024-05-22,Polícia Civil,contrato direto
+140,Mato Grosso,Pontes e Lacerda,educação,Material escolar,121571.21,2025-10-03,Secretaria de Educação,convênio
+141,Mato Grosso,Nova Mutum,saúde,Compra de medicamentos,450109.13,2025-02-24,Secretaria de Saúde,parceria
+142,Mato Grosso,Cáceres,administração,Consultoria,18883.23,2025-05-10,RH,licitação
+143,Mato Grosso,Cuiabá,segurança,Treinamento de agentes,129353.32,2024-02-13,Polícia Civil,contrato direto
+144,Mato Grosso,Sorriso,saúde,Manutenção de hospitais,276443.43,2025-01-15,SAMU,parceria
+145,Mato Grosso,Várzea Grande,saúde,Compra de medicamentos,64436.82,2025-02-15,Hospital Municipal,convênio
+146,Mato Grosso,Nova Mutum,segurança,Equipamentos de segurança,281428.51,2025-04-19,Polícia Civil,contrato direto
+147,Mato Grosso,Colíder,infraestrutura,Saneamento básico,400124.66,2024-11-05,Saneamento,parceria
+148,Mato Grosso,Cuiabá,saúde,Compra de medicamentos,487593.38,2025-06-26,Secretaria de Saúde,licitação
+149,Mato Grosso,Pontes e Lacerda,infraestrutura,Iluminação pública,533079.95,2024-07-10,Secretaria de Obras,contrato direto
+150,Mato Grosso,Juína,segurança,Equipamentos de segurança,771001.62,2025-11-15,Trânsito,parceria
+151,Mato Grosso,Rondonópolis,educação,Transporte estudantil,163236.96,2024-09-13,Universidade Estadual,parceria
+152,Mato Grosso,Guarantã do Norte,segurança,Sistemas de vigilância,755888.77,2025-09-20,Guarda Municipal,parceria
+153,Mato Grosso,Várzea Grande,segurança,Viaturas policiais,349069.21,2025-12-07,Polícia Militar,convênio
+154,Mato Grosso,Cuiabá,saúde,Equipamentos hospitalares,466366.01,2024-10-11,Secretaria de Saúde,parceria
+155,Mato Grosso,Barra do Garças,infraestrutura,Asfalto de vias,674850.82,2024-11-29,Saneamento,licitação
+156,Mato Grosso,Várzea Grande,administração,Serviços de limpeza,43023.4,2025-10-08,RH,parceria
+157,Mato Grosso,Tangará da Serra,administração,Aluguel de imóveis,21596.52,2025-07-19,Contadoria,licitação
+158,Mato Grosso,Lucas do Rio Verde,segurança,Treinamento de agentes,178869.62,2025-01-22,Trânsito,contrato direto
+159,Mato Grosso,Cáceres,administração,Consultoria,34679.34,2024-10-20,Prefeitura,contrato direto
+160,Mato Grosso,Guarantã do Norte,saúde,Compra de medicamentos,428301.75,2025-04-17,Posto de Saúde,licitação
+161,Mato Grosso,Cuiabá,administração,Aluguel de imóveis,13489.11,2024-09-09,Secretaria de Administração,parceria
+162,Mato Grosso,Diamantino,administração,Serviços de limpeza,35015.54,2025-02-06,RH,licitação
+163,Mato Grosso,Diamantino,segurança,Equipamentos de segurança,85407.62,2024-05-28,Polícia Civil,parceria
+164,Mato Grosso,Sorriso,infraestrutura,Saneamento básico,322842.38,2024-03-28,Saneamento,parceria
+165,Mato Grosso,Peixoto de Azevedo,infraestrutura,Asfalto de vias,159992.84,2024-03-24,Departamento de Viação,parceria
+166,Mato Grosso,Alta Floresta,saúde,Equipamentos hospitalares,119306.67,2025-03-04,Secretaria de Saúde,parceria
+167,Mato Grosso,Cáceres,segurança,Viaturas policiais,393744.87,2024-12-06,Polícia Militar,licitação
+168,Mato Grosso,Pontes e Lacerda,infraestrutura,Construção de pontes,808887.14,2025-04-08,Saneamento,convênio
+169,Mato Grosso,Cáceres,educação,Salários de professores,4572.65,2025-05-04,Universidade Estadual,licitação
+170,Mato Grosso,Diamantino,saúde,Contratação de médicos,39912.91,2024-05-22,SAMU,convênio
+171,Mato Grosso,Campo Verde,administração,Consultoria,66828.38,2025-12-15,Contadoria,convênio
+172,Mato Grosso,Cuiabá,infraestrutura,Saneamento básico,661894.37,2025-11-16,Energia,parceria
+173,Mato Grosso,Cuiabá,infraestrutura,Construção de pontes,381900.1,2025-06-07,Secretaria de Obras,licitação
+174,Mato Grosso,Pontes e Lacerda,infraestrutura,Iluminação pública,554056.52,2025-10-07,Energia,licitação
+175,Mato Grosso,Pontes e Lacerda,infraestrutura,Construção de pontes,562129.56,2024-06-04,Saneamento,parceria
+176,Mato Grosso,Tangará da Serra,educação,Construção de escolas,22958.89,2025-12-16,Creche,licitação
+177,Mato Grosso,Campo Verde,administração,Aluguel de imóveis,64068.94,2025-10-02,Prefeitura,parceria
+178,Mato Grosso,Cáceres,infraestrutura,Saneamento básico,224944.35,2025-04-26,Departamento de Viação,licitação
+179,Mato Grosso,Lucas do Rio Verde,administração,Material de escritório,11796.39,2024-05-13,Contadoria,parceria
+180,Mato Grosso,Peixoto de Azevedo,infraestrutura,Construção de pontes,262980.28,2024-06-10,Energia,convênio
+181,Mato Grosso,Barra do Garças,infraestrutura,Saneamento básico,662369.3,2024-05-22,Departamento de Viação,licitação
+182,Mato Grosso,Barra do Garças,infraestrutura,Construção de pontes,135616.4,2025-08-27,Secretaria de Obras,licitação
+183,Mato Grosso,Primavera do Leste,saúde,Compra de medicamentos,496819.11,2024-01-28,Secretaria de Saúde,contrato direto
+184,Mato Grosso,Sorriso,administração,Serviços de limpeza,51326.3,2024-12-14,Contadoria,convênio
+185,Mato Grosso,Cáceres,administração,Aluguel de imóveis,66293.23,2025-09-04,RH,convênio
+186,Mato Grosso,Tangará da Serra,segurança,Viaturas policiais,50596.76,2024-11-19,Trânsito,parceria
+187,Mato Grosso,Alta Floresta,saúde,Manutenção de hospitais,25727.99,2024-05-13,SAMU,parceria
+188,Mato Grosso,Pontes e Lacerda,segurança,Viaturas policiais,26142.88,2025-11-03,Polícia Civil,parceria
+189,Mato Grosso,Campo Verde,educação,Material escolar,46158.56,2025-02-24,Secretaria de Educação,convênio
+190,Mato Grosso,Barra do Garças,infraestrutura,Asfalto de vias,932095.44,2024-02-20,Saneamento,parceria
+191,Mato Grosso,Cáceres,saúde,Manutenção de hospitais,216751.35,2025-11-20,Secretaria de Saúde,licitação
+192,Mato Grosso,Primavera do Leste,administração,Aluguel de imóveis,94631.62,2025-12-19,Prefeitura,contrato direto
+193,Mato Grosso,Primavera do Leste,segurança,Equipamentos de segurança,560597.54,2024-12-10,Polícia Militar,contrato direto
+194,Mato Grosso,Várzea Grande,administração,Aluguel de imóveis,82551.79,2024-05-05,RH,contrato direto
+195,Mato Grosso,Colíder,saúde,Equipamentos hospitalares,255419.81,2025-04-18,SAMU,licitação
+196,Mato Grosso,Campo Verde,segurança,Equipamentos de segurança,733951.88,2024-07-02,Guarda Municipal,convênio
+197,Mato Grosso,Rondonópolis,educação,Transporte estudantil,148078.07,2024-12-10,Creche,contrato direto
+198,Mato Grosso,Cuiabá,educação,Salários de professores,157382.99,2025-09-19,Universidade Estadual,parceria
+199,Mato Grosso,Alta Floresta,segurança,Treinamento de agentes,529521.34,2025-12-07,Trânsito,contrato direto
+200,Mato Grosso,Peixoto de Azevedo,educação,Construção de escolas,41324.33,2025-08-17,Escola Municipal,convênio
+201,Mato Grosso,Cáceres,educação,Salários de professores,17029.15,2024-07-01,Universidade Estadual,licitação
+202,Mato Grosso,Lucas do Rio Verde,educação,Material escolar,127795.19,2025-12-21,Universidade Estadual,convênio
+203,Mato Grosso,Guarantã do Norte,infraestrutura,Iluminação pública,557155.03,2024-03-05,Saneamento,convênio
+204,Mato Grosso,Juína,administração,Serviços de limpeza,88137.14,2025-12-02,Prefeitura,licitação
+205,Mato Grosso,Nova Mutum,educação,Salários de professores,76093.04,2024-12-13,Escola Municipal,convênio
+206,Mato Grosso,Pontes e Lacerda,saúde,Manutenção de hospitais,344748.69,2024-09-25,Posto de Saúde,contrato direto
+207,Mato Grosso,Colíder,educação,Material escolar,191289.94,2025-08-14,Creche,contrato direto
+208,Mato Grosso,Sorriso,segurança,Sistemas de vigilância,236280.67,2024-02-19,Polícia Civil,contrato direto
+209,Mato Grosso,Lucas do Rio Verde,educação,Material escolar,184550.29,2025-09-08,Universidade Estadual,convênio
+210,Mato Grosso,Água Boa,segurança,Viaturas policiais,389399.6,2025-07-31,Polícia Militar,contrato direto
+211,Mato Grosso,Guarantã do Norte,saúde,Contratação de médicos,99654.23,2024-08-31,Hospital Municipal,licitação
+212,Mato Grosso,Campo Verde,saúde,Compra de medicamentos,359214.22,2024-01-25,Posto de Saúde,contrato direto
+213,Mato Grosso,Pontes e Lacerda,infraestrutura,Asfalto de vias,626404.86,2024-03-27,Departamento de Viação,parceria
+214,Mato Grosso,Barra do Garças,infraestrutura,Construção de pontes,562220.97,2025-11-22,Energia,convênio
+215,Mato Grosso,Nova Mutum,administração,Aluguel de imóveis,76592.64,2024-12-12,Contadoria,contrato direto
+216,Mato Grosso,Cáceres,infraestrutura,Saneamento básico,543626.01,2025-01-05,Departamento de Viação,parceria
+217,Mato Grosso,Nova Mutum,educação,Material escolar,28521.33,2025-06-13,Secretaria de Educação,convênio
+218,Mato Grosso,Cáceres,segurança,Equipamentos de segurança,794856.72,2025-06-11,Polícia Civil,convênio
+219,Mato Grosso,Rondonópolis,segurança,Equipamentos de segurança,69089.1,2024-06-18,Polícia Militar,parceria
+220,Mato Grosso,Peixoto de Azevedo,administração,Material de escritório,3934.71,2024-07-20,RH,convênio
+221,Mato Grosso,Cáceres,saúde,Compra de medicamentos,73809.78,2025-02-15,SAMU,contrato direto
+222,Mato Grosso,Campo Verde,infraestrutura,Construção de pontes,17134.4,2025-11-06,Energia,licitação
+223,Mato Grosso,Água Boa,infraestrutura,Asfalto de vias,88362.79,2025-01-03,Secretaria de Obras,parceria
+224,Mato Grosso,Diamantino,saúde,Manutenção de hospitais,309117.32,2024-09-26,Hospital Municipal,parceria
+225,Mato Grosso,Sinop,segurança,Equipamentos de segurança,325537.57,2024-08-24,Trânsito,contrato direto
+226,Mato Grosso,Barra do Garças,educação,Salários de professores,106583.13,2024-10-12,Universidade Estadual,parceria
+227,Mato Grosso,Lucas do Rio Verde,administração,Aluguel de imóveis,97470.25,2025-10-28,RH,licitação
+228,Mato Grosso,Colíder,segurança,Equipamentos de segurança,60432.13,2024-10-11,Polícia Militar,convênio
+229,Mato Grosso,Rondonópolis,saúde,Compra de medicamentos,34704.61,2024-09-20,Hospital Municipal,contrato direto
+230,Mato Grosso,Cáceres,educação,Construção de escolas,89269.06,2024-11-27,Universidade Estadual,licitação
+231,Mato Grosso,Juína,infraestrutura,Saneamento básico,132315.69,2025-02-12,Energia,convênio
+232,Mato Grosso,Peixoto de Azevedo,segurança,Treinamento de agentes,415079.08,2024-05-03,Polícia Militar,parceria
+233,Mato Grosso,Colíder,saúde,Contratação de médicos,210299.39,2024-03-04,Hospital Municipal,contrato direto
+234,Mato Grosso,Diamantino,saúde,Manutenção de hospitais,255839.14,2025-01-03,Hospital Municipal,convênio
+235,Mato Grosso,Sorriso,infraestrutura,Asfalto de vias,610307.59,2024-10-05,Departamento de Viação,contrato direto
+236,Mato Grosso,Colíder,administração,Aluguel de imóveis,16923.89,2025-04-12,Secretaria de Administração,contrato direto
+237,Mato Grosso,Pontes e Lacerda,saúde,Contratação de médicos,179102.02,2025-12-08,SAMU,contrato direto
+238,Mato Grosso,Alta Floresta,infraestrutura,Construção de pontes,729187.93,2025-01-19,Energia,contrato direto
+239,Mato Grosso,Campo Verde,saúde,Manutenção de hospitais,280177.41,2025-08-02,Posto de Saúde,parceria
+240,Mato Grosso,Sorriso,administração,Aluguel de imóveis,63537.54,2024-06-09,RH,parceria
+241,Mato Grosso,Diamantino,infraestrutura,Asfalto de vias,157333.02,2025-02-21,Departamento de Viação,convênio
+242,Mato Grosso,Juína,saúde,Equipamentos hospitalares,459976.36,2024-09-05,Secretaria de Saúde,convênio
+243,Mato Grosso,Rondonópolis,saúde,Compra de medicamentos,221866.56,2024-03-02,SAMU,parceria
+244,Mato Grosso,Barra do Garças,educação,Construção de escolas,189556.5,2025-06-24,Creche,contrato direto
+245,Mato Grosso,Sinop,administração,Aluguel de imóveis,46984.26,2025-09-28,RH,convênio
+246,Mato Grosso,Juína,educação,Salários de professores,185659.93,2024-05-29,Creche,convênio
+247,Mato Grosso,Tangará da Serra,infraestrutura,Construção de pontes,60909.16,2025-07-10,Departamento de Viação,contrato direto
+248,Mato Grosso,Nova Mutum,educação,Salários de professores,118438.28,2025-11-03,Universidade Estadual,licitação
+249,Mato Grosso,Pontes e Lacerda,infraestrutura,Construção de pontes,130828.27,2024-10-18,Saneamento,licitação
+250,Mato Grosso,Diamantino,administração,Serviços de limpeza,81697.64,2026-01-04,Contadoria,parceria
+251,Mato Grosso,Juína,educação,Material escolar,109552.3,2025-04-28,Universidade Estadual,contrato direto
+252,Mato Grosso,Guarantã do Norte,saúde,Manutenção de hospitais,307373.04,2024-06-27,Posto de Saúde,parceria
+253,Mato Grosso,Cuiabá,educação,Construção de escolas,180904.59,2025-04-02,Universidade Estadual,parceria
+254,Mato Grosso,Cuiabá,educação,Transporte estudantil,67851.32,2024-08-27,Universidade Estadual,licitação
+255,Mato Grosso,Juína,saúde,Contratação de médicos,344337.18,2024-11-28,SAMU,licitação
+256,Mato Grosso,Cáceres,administração,Aluguel de imóveis,7029.41,2024-07-10,Secretaria de Administração,licitação
+257,Mato Grosso,Lucas do Rio Verde,administração,Serviços de limpeza,1393.41,2025-10-17,Secretaria de Administração,licitação
+258,Mato Grosso,Juína,infraestrutura,Saneamento básico,934728.56,2024-10-01,Energia,contrato direto
+259,Mato Grosso,Diamantino,segurança,Sistemas de vigilância,71706.87,2025-09-16,Trânsito,convênio
+260,Mato Grosso,Colíder,saúde,Compra de medicamentos,96716.27,2024-11-04,Posto de Saúde,contrato direto
+261,Mato Grosso,Juína,saúde,Contratação de médicos,26290.67,2025-03-11,Posto de Saúde,licitação
+262,Mato Grosso,Cáceres,saúde,Compra de medicamentos,427305.93,2025-07-02,Posto de Saúde,convênio
+263,Mato Grosso,Cuiabá,segurança,Equipamentos de segurança,537858.73,2024-07-04,Guarda Municipal,parceria
+264,Mato Grosso,Guarantã do Norte,segurança,Viaturas policiais,491561.56,2024-12-26,Trânsito,convênio
+265,Mato Grosso,Várzea Grande,administração,Serviços de limpeza,6637.85,2024-04-04,Secretaria de Administração,parceria
+266,Mato Grosso,Colíder,saúde,Manutenção de hospitais,323493.61,2025-06-12,Posto de Saúde,convênio
+267,Mato Grosso,Várzea Grande,infraestrutura,Construção de pontes,865293.12,2025-08-25,Saneamento,convênio
+268,Mato Grosso,Sinop,infraestrutura,Iluminação pública,524567.48,2025-10-07,Secretaria de Obras,convênio
+269,Mato Grosso,Campo Verde,infraestrutura,Iluminação pública,282636.8,2025-03-29,Secretaria de Obras,contrato direto
+270,Mato Grosso,Diamantino,infraestrutura,Asfalto de vias,192753.05,2024-06-08,Secretaria de Obras,licitação
+271,Mato Grosso,Juína,saúde,Compra de medicamentos,316717.43,2024-05-24,SAMU,parceria
+272,Mato Grosso,Tangará da Serra,educação,Transporte estudantil,133180.72,2024-08-11,Escola Municipal,contrato direto
+273,Mato Grosso,Sorriso,segurança,Sistemas de vigilância,353825.56,2025-04-15,Guarda Municipal,convênio
+274,Mato Grosso,Sinop,infraestrutura,Iluminação pública,527364.27,2025-12-05,Secretaria de Obras,contrato direto
+275,Mato Grosso,Alta Floresta,educação,Transporte estudantil,195509.65,2025-02-18,Secretaria de Educação,convênio
+276,Mato Grosso,Alta Floresta,infraestrutura,Asfalto de vias,380599.81,2025-04-10,Departamento de Viação,convênio
+277,Mato Grosso,Rondonópolis,segurança,Equipamentos de segurança,143648.52,2024-01-13,Guarda Municipal,convênio
+278,Mato Grosso,Várzea Grande,saúde,Contratação de médicos,499222.48,2025-03-04,Secretaria de Saúde,convênio
+279,Mato Grosso,Barra do Garças,administração,Consultoria,15719.06,2025-06-19,RH,parceria
+280,Mato Grosso,Colíder,educação,Transporte estudantil,16847.8,2024-07-17,Escola Municipal,parceria
+281,Mato Grosso,Peixoto de Azevedo,saúde,Manutenção de hospitais,465700.49,2025-01-28,Secretaria de Saúde,parceria
+282,Mato Grosso,Lucas do Rio Verde,administração,Aluguel de imóveis,3619.36,2025-03-19,Prefeitura,contrato direto
+283,Mato Grosso,Campo Verde,segurança,Viaturas policiais,518748.08,2024-08-18,Polícia Militar,convênio
+284,Mato Grosso,Tangará da Serra,saúde,Compra de medicamentos,68862.11,2025-03-03,Posto de Saúde,convênio
+285,Mato Grosso,Campo Verde,segurança,Equipamentos de segurança,647436.93,2025-10-28,Polícia Militar,licitação
+286,Mato Grosso,Peixoto de Azevedo,segurança,Equipamentos de segurança,189490.6,2025-11-20,Polícia Civil,convênio
+287,Mato Grosso,Colíder,educação,Salários de professores,23714.89,2024-09-23,Universidade Estadual,parceria
+288,Mato Grosso,Pontes e Lacerda,saúde,Contratação de médicos,362151.61,2025-05-01,SAMU,contrato direto
+289,Mato Grosso,Rondonópolis,segurança,Viaturas policiais,22590.34,2025-06-12,Trânsito,convênio
+290,Mato Grosso,Várzea Grande,saúde,Contratação de médicos,89310.25,2025-10-25,Secretaria de Saúde,parceria
+291,Mato Grosso,Peixoto de Azevedo,administração,Serviços de limpeza,5718.36,2024-09-23,Prefeitura,licitação
+292,Mato Grosso,Rondonópolis,educação,Construção de escolas,73164.97,2024-02-19,Creche,parceria
+293,Mato Grosso,Peixoto de Azevedo,infraestrutura,Asfalto de vias,781481.63,2025-08-28,Departamento de Viação,convênio
+294,Mato Grosso,Primavera do Leste,saúde,Contratação de médicos,381276.82,2025-10-27,SAMU,parceria
+295,Mato Grosso,Cáceres,educação,Transporte estudantil,88074.51,2025-07-05,Universidade Estadual,licitação
+296,Mato Grosso,Diamantino,educação,Construção de escolas,186694.42,2024-03-25,Secretaria de Educação,convênio
+297,Mato Grosso,Nova Mutum,administração,Serviços de limpeza,81139.25,2024-03-18,RH,licitação
+298,Mato Grosso,Água Boa,educação,Salários de professores,84790.12,2025-03-23,Creche,licitação
+299,Mato Grosso,Primavera do Leste,administração,Material de escritório,69661.66,2024-10-15,Prefeitura,contrato direto
+300,Mato Grosso,Água Boa,saúde,Compra de medicamentos,180127.68,2025-09-23,SAMU,parceria
+301,Mato Grosso,Água Boa,educação,Construção de escolas,136307.99,2024-06-04,Universidade Estadual,parceria
+302,Mato Grosso,Nova Mutum,infraestrutura,Construção de pontes,390538.5,2025-09-15,Energia,convênio
+303,Mato Grosso,Colíder,educação,Salários de professores,54393.92,2024-01-28,Escola Municipal,convênio
+304,Mato Grosso,Colíder,segurança,Treinamento de agentes,19683.76,2025-05-06,Guarda Municipal,licitação
+305,Mato Grosso,Lucas do Rio Verde,administração,Serviços de limpeza,68029.82,2025-08-24,RH,contrato direto
+306,Mato Grosso,Nova Mutum,administração,Consultoria,66639.67,2025-11-16,Prefeitura,contrato direto
+307,Mato Grosso,Rondonópolis,administração,Material de escritório,86920.64,2025-07-27,Contadoria,parceria
+308,Mato Grosso,Peixoto de Azevedo,infraestrutura,Saneamento básico,880432.26,2024-07-14,Departamento de Viação,parceria
+309,Mato Grosso,Lucas do Rio Verde,infraestrutura,Iluminação pública,95433.67,2024-03-16,Energia,parceria
+310,Mato Grosso,Pontes e Lacerda,administração,Serviços de limpeza,32871.79,2024-04-14,RH,contrato direto
+311,Mato Grosso,Lucas do Rio Verde,segurança,Sistemas de vigilância,127826.29,2026-01-04,Polícia Civil,contrato direto
+312,Mato Grosso,Sorriso,administração,Material de escritório,91678.84,2025-03-03,Secretaria de Administração,licitação
+313,Mato Grosso,Guarantã do Norte,infraestrutura,Iluminação pública,61213.81,2024-01-27,Energia,contrato direto
+314,Mato Grosso,Peixoto de Azevedo,saúde,Contratação de médicos,111598.21,2025-09-13,Secretaria de Saúde,convênio
+315,Mato Grosso,Cuiabá,administração,Aluguel de imóveis,60674.86,2024-04-09,Contadoria,licitação
+316,Mato Grosso,Lucas do Rio Verde,saúde,Manutenção de hospitais,100220.26,2024-10-04,SAMU,parceria
+317,Mato Grosso,Barra do Garças,segurança,Treinamento de agentes,423074.67,2025-11-04,Polícia Militar,convênio
+318,Mato Grosso,Pontes e Lacerda,administração,Consultoria,10956.53,2024-07-03,RH,parceria
+319,Mato Grosso,Água Boa,administração,Material de escritório,83510.68,2024-12-20,RH,licitação
+320,Mato Grosso,Cáceres,segurança,Treinamento de agentes,330980.3,2024-03-11,Guarda Municipal,licitação
+321,Mato Grosso,Sorriso,administração,Material de escritório,55343.21,2024-03-30,RH,licitação
+322,Mato Grosso,Cuiabá,educação,Material escolar,191007.96,2024-09-02,Creche,licitação
+323,Mato Grosso,Juína,administração,Consultoria,88383.68,2024-02-28,Secretaria de Administração,parceria
+324,Mato Grosso,Rondonópolis,administração,Material de escritório,91733.27,2025-10-05,Contadoria,parceria
+325,Mato Grosso,Lucas do Rio Verde,infraestrutura,Saneamento básico,693739.53,2025-10-16,Secretaria de Obras,licitação
+326,Mato Grosso,Diamantino,segurança,Sistemas de vigilância,519778.2,2024-09-10,Polícia Civil,convênio
+327,Mato Grosso,Várzea Grande,saúde,Contratação de médicos,379361.99,2025-05-31,SAMU,licitação
+328,Mato Grosso,Campo Verde,educação,Material escolar,129329.72,2024-06-18,Secretaria de Educação,parceria
+329,Mato Grosso,Água Boa,saúde,Compra de medicamentos,302233.59,2024-05-12,Hospital Municipal,contrato direto
+330,Mato Grosso,Água Boa,saúde,Equipamentos hospitalares,202019.67,2024-10-17,Posto de Saúde,parceria
+331,Mato Grosso,Tangará da Serra,saúde,Equipamentos hospitalares,462272.52,2025-01-22,SAMU,licitação
+332,Mato Grosso,Diamantino,infraestrutura,Construção de pontes,927266.9,2024-09-10,Saneamento,parceria
+333,Mato Grosso,Cuiabá,educação,Salários de professores,112720.2,2024-02-14,Universidade Estadual,parceria
+334,Mato Grosso,Guarantã do Norte,infraestrutura,Iluminação pública,20786.46,2024-09-12,Saneamento,contrato direto
+335,Mato Grosso,Rondonópolis,administração,Consultoria,13081.64,2024-01-11,Prefeitura,parceria
+336,Mato Grosso,Diamantino,educação,Salários de professores,186845.3,2024-10-10,Universidade Estadual,contrato direto
+337,Mato Grosso,Alta Floresta,saúde,Compra de medicamentos,82209.33,2025-08-28,Secretaria de Saúde,convênio
+338,Mato Grosso,Guarantã do Norte,administração,Consultoria,86295.31,2025-11-30,RH,parceria
+339,Mato Grosso,Guarantã do Norte,saúde,Equipamentos hospitalares,14427.65,2024-08-22,Posto de Saúde,licitação
+340,Mato Grosso,Sinop,saúde,Compra de medicamentos,449319.73,2025-05-23,Hospital Municipal,parceria
+341,Mato Grosso,Várzea Grande,educação,Salários de professores,180462.53,2024-03-28,Universidade Estadual,convênio
+342,Mato Grosso,Várzea Grande,infraestrutura,Saneamento básico,884806.51,2024-05-21,Energia,parceria
+343,Mato Grosso,Várzea Grande,saúde,Manutenção de hospitais,63208.25,2024-04-11,Secretaria de Saúde,contrato direto
+344,Mato Grosso,Sinop,infraestrutura,Saneamento básico,808634.55,2024-02-13,Departamento de Viação,parceria
+345,Mato Grosso,Alta Floresta,infraestrutura,Construção de pontes,626921.2,2024-06-12,Energia,contrato direto
+346,Mato Grosso,Diamantino,administração,Material de escritório,20652.69,2025-08-05,RH,contrato direto
+347,Mato Grosso,Peixoto de Azevedo,infraestrutura,Iluminação pública,469680.27,2025-01-29,Secretaria de Obras,licitação
+348,Mato Grosso,Lucas do Rio Verde,segurança,Sistemas de vigilância,279994.87,2025-11-14,Guarda Municipal,licitação
+349,Mato Grosso,Cuiabá,educação,Transporte estudantil,45080.6,2025-07-28,Universidade Estadual,parceria
+350,Mato Grosso,Juína,educação,Transporte estudantil,109819.35,2025-11-17,Creche,licitação
+351,Mato Grosso,Diamantino,infraestrutura,Construção de pontes,935353.55,2024-12-13,Secretaria de Obras,contrato direto
+352,Mato Grosso,Peixoto de Azevedo,saúde,Manutenção de hospitais,109255.34,2024-06-19,Secretaria de Saúde,licitação
+353,Mato Grosso,Alta Floresta,administração,Material de escritório,49773.48,2025-11-20,Contadoria,contrato direto
+354,Mato Grosso,Nova Mutum,segurança,Treinamento de agentes,613389.84,2025-10-23,Polícia Militar,contrato direto
+355,Mato Grosso,Alta Floresta,educação,Transporte estudantil,2541.57,2025-11-08,Secretaria de Educação,convênio
+356,Mato Grosso,Campo Verde,saúde,Contratação de médicos,140055.66,2025-06-01,Secretaria de Saúde,parceria
+357,Mato Grosso,Água Boa,saúde,Contratação de médicos,347544.21,2025-02-08,SAMU,convênio
+358,Mato Grosso,Sorriso,administração,Serviços de limpeza,65092.22,2024-06-28,RH,convênio
+359,Mato Grosso,Rondonópolis,administração,Consultoria,87411.26,2024-01-23,Contadoria,convênio
+360,Mato Grosso,Peixoto de Azevedo,segurança,Viaturas policiais,241122.06,2024-12-20,Guarda Municipal,contrato direto
+361,Mato Grosso,Rondonópolis,educação,Transporte estudantil,160918.46,2025-12-14,Universidade Estadual,convênio
+362,Mato Grosso,Guarantã do Norte,infraestrutura,Saneamento básico,198191.94,2025-12-21,Departamento de Viação,parceria
+363,Mato Grosso,Rondonópolis,saúde,Compra de medicamentos,436713.88,2024-11-25,Hospital Municipal,licitação
+364,Mato Grosso,Várzea Grande,administração,Aluguel de imóveis,99366.16,2025-07-16,Prefeitura,convênio
+365,Mato Grosso,Cuiabá,administração,Aluguel de imóveis,82164.77,2024-09-01,Secretaria de Administração,licitação
+366,Mato Grosso,Campo Verde,segurança,Equipamentos de segurança,716306.72,2025-05-15,Polícia Militar,licitação
+367,Mato Grosso,Juína,administração,Aluguel de imóveis,70655.36,2024-02-18,Secretaria de Administração,convênio
+368,Mato Grosso,Lucas do Rio Verde,saúde,Manutenção de hospitais,283444.24,2026-01-04,Posto de Saúde,convênio
+369,Mato Grosso,Juína,infraestrutura,Saneamento básico,169873.13,2025-04-16,Departamento de Viação,licitação
+370,Mato Grosso,Lucas do Rio Verde,infraestrutura,Construção de pontes,525350.76,2024-06-26,Saneamento,licitação
+371,Mato Grosso,Sinop,saúde,Equipamentos hospitalares,481099.97,2024-07-20,Hospital Municipal,convênio
+372,Mato Grosso,Sorriso,saúde,Compra de medicamentos,434428.66,2024-11-08,Secretaria de Saúde,contrato direto
+373,Mato Grosso,Juína,segurança,Treinamento de agentes,320066.99,2025-06-04,Guarda Municipal,licitação
+374,Mato Grosso,Alta Floresta,segurança,Equipamentos de segurança,158482.22,2025-02-04,Trânsito,parceria
+375,Mato Grosso,Alta Floresta,infraestrutura,Saneamento básico,191252.65,2025-12-16,Energia,contrato direto
+376,Mato Grosso,Barra do Garças,saúde,Manutenção de hospitais,84250.24,2025-07-12,Posto de Saúde,convênio
+377,Mato Grosso,Sorriso,educação,Salários de professores,158259.63,2025-11-21,Universidade Estadual,convênio
+378,Mato Grosso,Barra do Garças,infraestrutura,Iluminação pública,601662.66,2024-02-15,Energia,contrato direto
+379,Mato Grosso,Lucas do Rio Verde,saúde,Compra de medicamentos,196514.35,2024-05-24,Hospital Municipal,parceria
+380,Mato Grosso,Alta Floresta,administração,Aluguel de imóveis,23075.7,2024-09-11,Contadoria,convênio
+381,Mato Grosso,Sorriso,educação,Salários de professores,8366.27,2024-03-12,Universidade Estadual,parceria
+382,Mato Grosso,Água Boa,saúde,Contratação de médicos,347892.87,2024-08-30,Posto de Saúde,licitação
+383,Mato Grosso,Pontes e Lacerda,educação,Material escolar,154061.25,2025-06-29,Universidade Estadual,contrato direto
+384,Mato Grosso,Diamantino,saúde,Contratação de médicos,75388.22,2025-09-15,Hospital Municipal,convênio
+385,Mato Grosso,Barra do Garças,saúde,Contratação de médicos,272470.26,2024-08-08,Hospital Municipal,parceria
+386,Mato Grosso,Diamantino,saúde,Compra de medicamentos,20472.61,2025-08-10,SAMU,licitação
+387,Mato Grosso,Sorriso,infraestrutura,Iluminação pública,620554.73,2025-10-15,Energia,licitação
+388,Mato Grosso,Nova Mutum,infraestrutura,Saneamento básico,490620.11,2025-12-05,Saneamento,contrato direto
+389,Mato Grosso,Campo Verde,administração,Aluguel de imóveis,4276.97,2025-05-06,RH,parceria
+390,Mato Grosso,Tangará da Serra,saúde,Equipamentos hospitalares,432818.73,2025-02-07,SAMU,parceria
+391,Mato Grosso,Cáceres,administração,Serviços de limpeza,47919.65,2026-01-01,Prefeitura,contrato direto
+392,Mato Grosso,Cuiabá,administração,Material de escritório,73286.41,2025-10-29,Prefeitura,parceria
+393,Mato Grosso,Colíder,administração,Consultoria,37003.02,2025-07-10,Secretaria de Administração,parceria
+394,Mato Grosso,Rondonópolis,educação,Transporte estudantil,21259.79,2025-06-04,Escola Municipal,convênio
+395,Mato Grosso,Rondonópolis,segurança,Equipamentos de segurança,67852.87,2025-04-13,Guarda Municipal,contrato direto
+396,Mato Grosso,Tangará da Serra,educação,Construção de escolas,136684.73,2024-04-14,Escola Municipal,parceria
+397,Mato Grosso,Cuiabá,educação,Construção de escolas,98991.51,2024-03-30,Creche,parceria
+398,Mato Grosso,Tangará da Serra,administração,Consultoria,10094.44,2024-10-18,RH,licitação
+399,Mato Grosso,Nova Mutum,administração,Material de escritório,70407.43,2024-06-26,Contadoria,parceria
+400,Mato Grosso,Juína,segurança,Viaturas policiais,204142.16,2025-05-30,Polícia Civil,convênio
+401,Mato Grosso,Cuiabá,saúde,Compra de medicamentos,315493.53,2024-03-12,Secretaria de Saúde,convênio
+402,Mato Grosso,Cuiabá,administração,Consultoria,28206.64,2024-12-24,RH,parceria
+403,Mato Grosso,Sinop,administração,Consultoria,98494.42,2025-01-06,RH,contrato direto
+404,Mato Grosso,Primavera do Leste,segurança,Sistemas de vigilância,608703.44,2024-08-06,Polícia Militar,parceria
+405,Mato Grosso,Sorriso,educação,Construção de escolas,55694.01,2024-10-05,Escola Municipal,contrato direto
+406,Mato Grosso,Barra do Garças,infraestrutura,Construção de pontes,768586.52,2024-08-09,Saneamento,convênio
+407,Mato Grosso,Cáceres,saúde,Equipamentos hospitalares,344763.27,2025-04-26,Posto de Saúde,parceria
+408,Mato Grosso,Várzea Grande,administração,Material de escritório,89237.94,2025-12-06,Secretaria de Administração,licitação
+409,Mato Grosso,Primavera do Leste,infraestrutura,Construção de pontes,850925.97,2024-02-29,Departamento de Viação,contrato direto
+410,Mato Grosso,Guarantã do Norte,infraestrutura,Iluminação pública,985293.62,2025-08-03,Saneamento,parceria
+411,Mato Grosso,Cáceres,segurança,Sistemas de vigilância,127838.81,2025-11-18,Trânsito,contrato direto
+412,Mato Grosso,Juína,segurança,Sistemas de vigilância,37288.62,2025-10-19,Guarda Municipal,parceria
+413,Mato Grosso,Tangará da Serra,saúde,Equipamentos hospitalares,404154.2,2025-05-21,Secretaria de Saúde,licitação
+414,Mato Grosso,Sorriso,saúde,Equipamentos hospitalares,438784.64,2025-08-19,Secretaria de Saúde,convênio
+415,Mato Grosso,Rondonópolis,saúde,Equipamentos hospitalares,280851.3,2024-09-11,SAMU,contrato direto
+416,Mato Grosso,Cuiabá,administração,Material de escritório,82732.55,2024-12-10,Secretaria de Administração,contrato direto
+417,Mato Grosso,Barra do Garças,educação,Material escolar,98597.37,2024-10-09,Creche,convênio
+418,Mato Grosso,Sinop,educação,Salários de professores,141586.53,2025-01-16,Universidade Estadual,licitação
+419,Mato Grosso,Campo Verde,saúde,Compra de medicamentos,462555.35,2025-07-09,Secretaria de Saúde,parceria
+420,Mato Grosso,Sorriso,infraestrutura,Construção de pontes,383157.78,2024-02-04,Energia,parceria
+421,Mato Grosso,Peixoto de Azevedo,administração,Consultoria,41504.35,2024-02-01,Contadoria,contrato direto
+422,Mato Grosso,Campo Verde,saúde,Contratação de médicos,56381.06,2024-05-29,Hospital Municipal,parceria
+423,Mato Grosso,Pontes e Lacerda,saúde,Equipamentos hospitalares,314759.82,2024-04-10,SAMU,contrato direto
+424,Mato Grosso,Juína,educação,Material escolar,1700.47,2025-03-14,Creche,contrato direto
+425,Mato Grosso,Cuiabá,administração,Serviços de limpeza,56127.14,2025-09-28,Secretaria de Administração,licitação
+426,Mato Grosso,Nova Mutum,segurança,Sistemas de vigilância,507791.36,2025-07-30,Polícia Civil,convênio
+427,Mato Grosso,Lucas do Rio Verde,saúde,Manutenção de hospitais,271393.47,2024-11-29,Secretaria de Saúde,convênio
+428,Mato Grosso,Pontes e Lacerda,segurança,Sistemas de vigilância,129407.45,2025-11-28,Guarda Municipal,contrato direto
+429,Mato Grosso,Lucas do Rio Verde,administração,Consultoria,94065.44,2024-10-10,Secretaria de Administração,convênio
+430,Mato Grosso,Peixoto de Azevedo,segurança,Treinamento de agentes,114729.06,2025-12-07,Polícia Militar,licitação
+431,Mato Grosso,Pontes e Lacerda,educação,Transporte estudantil,182194.1,2025-06-05,Escola Municipal,licitação
+432,Mato Grosso,Guarantã do Norte,administração,Consultoria,14847.6,2024-04-08,RH,parceria
+433,Mato Grosso,Peixoto de Azevedo,saúde,Compra de medicamentos,415671.36,2024-03-19,Hospital Municipal,contrato direto
+434,Mato Grosso,Nova Mutum,infraestrutura,Asfalto de vias,714089.45,2025-08-05,Saneamento,convênio
+435,Mato Grosso,Cuiabá,segurança,Equipamentos de segurança,275887.09,2025-01-03,Guarda Municipal,convênio
+436,Mato Grosso,Cáceres,educação,Transporte estudantil,68645.33,2024-11-09,Escola Municipal,contrato direto
+437,Mato Grosso,Colíder,segurança,Sistemas de vigilância,460533.14,2025-03-28,Polícia Civil,convênio
+438,Mato Grosso,Alta Floresta,saúde,Contratação de médicos,473194.88,2024-11-14,SAMU,convênio
+439,Mato Grosso,Barra do Garças,administração,Material de escritório,36599.48,2025-01-20,RH,contrato direto
+440,Mato Grosso,Peixoto de Azevedo,administração,Aluguel de imóveis,92619.13,2025-03-31,Contadoria,contrato direto
+441,Mato Grosso,Sinop,saúde,Contratação de médicos,366865.28,2025-08-25,Hospital Municipal,convênio
+442,Mato Grosso,Diamantino,saúde,Compra de medicamentos,271498.15,2025-04-24,Hospital Municipal,contrato direto
+443,Mato Grosso,Sinop,infraestrutura,Saneamento básico,874612.28,2025-06-03,Energia,licitação
+444,Mato Grosso,Barra do Garças,saúde,Compra de medicamentos,79473.02,2025-12-22,Secretaria de Saúde,contrato direto
+445,Mato Grosso,Tangará da Serra,administração,Consultoria,98000.25,2024-12-25,Contadoria,convênio
+446,Mato Grosso,Primavera do Leste,segurança,Sistemas de vigilância,105578.3,2025-01-15,Guarda Municipal,parceria
+447,Mato Grosso,Rondonópolis,infraestrutura,Construção de pontes,158801.48,2024-06-12,Saneamento,licitação
+448,Mato Grosso,Nova Mutum,educação,Transporte estudantil,27711.83,2024-03-26,Secretaria de Educação,convênio
+449,Mato Grosso,Colíder,educação,Construção de escolas,142161.33,2025-12-31,Secretaria de Educação,convênio
+450,Mato Grosso,Água Boa,infraestrutura,Saneamento básico,874279.77,2025-03-01,Departamento de Viação,parceria
+451,Mato Grosso,Tangará da Serra,educação,Construção de escolas,171670.7,2025-06-13,Secretaria de Educação,parceria
+452,Mato Grosso,Colíder,segurança,Treinamento de agentes,219044.49,2024-09-01,Polícia Militar,convênio
+453,Mato Grosso,Cáceres,educação,Material escolar,169259.24,2025-01-03,Escola Municipal,parceria
+454,Mato Grosso,Tangará da Serra,administração,Material de escritório,40196.02,2025-08-25,Secretaria de Administração,licitação
+455,Mato Grosso,Primavera do Leste,saúde,Equipamentos hospitalares,49520.74,2025-12-30,Posto de Saúde,licitação
+456,Mato Grosso,Campo Verde,saúde,Equipamentos hospitalares,177198.59,2024-02-22,Posto de Saúde,licitação
+457,Mato Grosso,Cáceres,administração,Material de escritório,82596.44,2025-12-18,RH,convênio
+458,Mato Grosso,Tangará da Serra,administração,Consultoria,88037.81,2025-02-24,RH,licitação
+459,Mato Grosso,Sinop,educação,Salários de professores,58561.04,2024-03-05,Universidade Estadual,parceria
+460,Mato Grosso,Alta Floresta,administração,Material de escritório,37952.9,2024-09-27,RH,licitação
+461,Mato Grosso,Sinop,segurança,Viaturas policiais,296186.74,2025-07-25,Trânsito,contrato direto
+462,Mato Grosso,Colíder,infraestrutura,Construção de pontes,649970.7,2025-08-13,Saneamento,parceria
+463,Mato Grosso,Primavera do Leste,infraestrutura,Saneamento básico,282807.64,2024-05-28,Departamento de Viação,parceria
+464,Mato Grosso,Primavera do Leste,segurança,Equipamentos de segurança,533100.92,2025-09-09,Polícia Militar,contrato direto
+465,Mato Grosso,Várzea Grande,infraestrutura,Construção de pontes,843786.47,2025-06-05,Departamento de Viação,contrato direto
+466,Mato Grosso,Primavera do Leste,segurança,Treinamento de agentes,653826.99,2024-03-17,Polícia Militar,parceria
+467,Mato Grosso,Cuiabá,infraestrutura,Construção de pontes,719670.73,2025-03-06,Saneamento,contrato direto
+468,Mato Grosso,Barra do Garças,educação,Construção de escolas,171179.89,2024-03-16,Secretaria de Educação,parceria
+469,Mato Grosso,Cáceres,educação,Salários de professores,30313.77,2025-02-17,Universidade Estadual,parceria
+470,Mato Grosso,Pontes e Lacerda,segurança,Equipamentos de segurança,467883.94,2025-01-21,Guarda Municipal,parceria
+471,Mato Grosso,Alta Floresta,infraestrutura,Saneamento básico,925349.95,2024-07-19,Energia,licitação
+472,Mato Grosso,Tangará da Serra,segurança,Viaturas policiais,362845.51,2024-12-26,Trânsito,convênio
+473,Mato Grosso,Lucas do Rio Verde,saúde,Manutenção de hospitais,135154.26,2024-02-29,SAMU,convênio
+474,Mato Grosso,Pontes e Lacerda,administração,Aluguel de imóveis,74269.96,2025-06-22,Contadoria,parceria
+475,Mato Grosso,Lucas do Rio Verde,saúde,Manutenção de hospitais,43865.26,2025-01-10,Posto de Saúde,contrato direto
+476,Mato Grosso,Nova Mutum,educação,Material escolar,178915.3,2025-04-23,Escola Municipal,licitação
+477,Mato Grosso,Sinop,saúde,Equipamentos hospitalares,87909.32,2024-04-13,Posto de Saúde,convênio
+478,Mato Grosso,Campo Verde,infraestrutura,Saneamento básico,253487.26,2025-12-29,Secretaria de Obras,contrato direto
+479,Mato Grosso,Várzea Grande,segurança,Viaturas policiais,497452.63,2025-01-01,Guarda Municipal,convênio
+480,Mato Grosso,Tangará da Serra,saúde,Manutenção de hospitais,186293.85,2024-11-13,SAMU,contrato direto
+481,Mato Grosso,Barra do Garças,segurança,Equipamentos de segurança,497684.23,2025-02-09,Polícia Militar,licitação
+482,Mato Grosso,Tangará da Serra,saúde,Equipamentos hospitalares,136097.64,2025-03-06,Posto de Saúde,convênio
+483,Mato Grosso,Água Boa,segurança,Treinamento de agentes,225536.56,2024-07-03,Polícia Militar,parceria
+484,Mato Grosso,Nova Mutum,saúde,Manutenção de hospitais,212290.81,2025-01-19,Hospital Municipal,contrato direto
+485,Mato Grosso,Sinop,segurança,Equipamentos de segurança,143673.8,2024-01-29,Guarda Municipal,convênio
+486,Mato Grosso,Pontes e Lacerda,educação,Transporte estudantil,166140.09,2025-09-17,Escola Municipal,parceria
+487,Mato Grosso,Peixoto de Azevedo,segurança,Viaturas policiais,257857.97,2025-05-21,Guarda Municipal,convênio
+488,Mato Grosso,Lucas do Rio Verde,segurança,Sistemas de vigilância,240973.95,2025-03-08,Trânsito,parceria
+489,Mato Grosso,Nova Mutum,saúde,Manutenção de hospitais,260475.2,2024-08-25,SAMU,licitação
+490,Mato Grosso,Sorriso,saúde,Compra de medicamentos,49014.59,2024-08-27,Posto de Saúde,convênio
+491,Mato Grosso,Sinop,segurança,Viaturas policiais,199735.79,2024-08-19,Polícia Civil,parceria
+492,Mato Grosso,Peixoto de Azevedo,saúde,Compra de medicamentos,250315.42,2025-02-15,SAMU,contrato direto
+493,Mato Grosso,Nova Mutum,educação,Transporte estudantil,158851.8,2025-02-17,Secretaria de Educação,convênio
+494,Mato Grosso,Cáceres,infraestrutura,Iluminação pública,232665.97,2024-06-20,Departamento de Viação,licitação
+495,Mato Grosso,Lucas do Rio Verde,administração,Serviços de limpeza,53104.41,2024-11-15,Secretaria de Administração,parceria
+496,Mato Grosso,Sorriso,administração,Aluguel de imóveis,77550.03,2024-12-26,RH,contrato direto
+497,Mato Grosso,Sorriso,administração,Consultoria,99087.65,2025-08-09,Secretaria de Administração,parceria
+498,Mato Grosso,Sinop,saúde,Manutenção de hospitais,222420.22,2024-01-11,Secretaria de Saúde,convênio
+499,Mato Grosso,Pontes e Lacerda,segurança,Viaturas policiais,487146.6,2025-09-11,Trânsito,licitação
+500,Mato Grosso,Alta Floresta,saúde,Contratação de médicos,305551.93,2025-02-11,Posto de Saúde,parceria
+501,Mato Grosso,Guarantã do Norte,segurança,Sistemas de vigilância,296514.18,2025-07-28,Polícia Civil,licitação
+502,Mato Grosso,Rondonópolis,segurança,Treinamento de agentes,234890.65,2024-04-25,Guarda Municipal,contrato direto
+503,Mato Grosso,Água Boa,saúde,Compra de medicamentos,2684.52,2024-08-18,Hospital Municipal,convênio
+504,Mato Grosso,Diamantino,segurança,Equipamentos de segurança,700144.21,2025-03-22,Polícia Civil,convênio
+505,Mato Grosso,Guarantã do Norte,educação,Transporte estudantil,8984.18,2025-01-16,Universidade Estadual,contrato direto
+506,Mato Grosso,Nova Mutum,segurança,Treinamento de agentes,266342.23,2025-05-16,Trânsito,licitação
+507,Mato Grosso,Água Boa,educação,Material escolar,75965.9,2025-03-02,Secretaria de Educação,licitação
+508,Mato Grosso,Cuiabá,segurança,Viaturas policiais,575601.91,2024-10-26,Polícia Civil,parceria
+509,Mato Grosso,Nova Mutum,segurança,Viaturas policiais,152036.47,2025-01-05,Trânsito,parceria
+510,Mato Grosso,Barra do Garças,infraestrutura,Iluminação pública,70364.65,2025-09-03,Secretaria de Obras,convênio
+511,Mato Grosso,Sinop,saúde,Contratação de médicos,13530.74,2024-07-10,Hospital Municipal,parceria
+512,Mato Grosso,Água Boa,segurança,Equipamentos de segurança,9875.21,2025-03-27,Polícia Civil,convênio
+513,Mato Grosso,Cáceres,infraestrutura,Saneamento básico,328479.78,2024-01-18,Secretaria de Obras,licitação
+514,Mato Grosso,Colíder,saúde,Equipamentos hospitalares,334717.35,2025-06-24,Hospital Municipal,contrato direto
+515,Mato Grosso,Lucas do Rio Verde,saúde,Compra de medicamentos,351705.81,2025-07-15,SAMU,convênio
+516,Mato Grosso,Barra do Garças,infraestrutura,Asfalto de vias,878130.6,2025-05-22,Saneamento,licitação
+517,Mato Grosso,Lucas do Rio Verde,infraestrutura,Iluminação pública,219768.84,2025-06-01,Secretaria de Obras,licitação
+518,Mato Grosso,Rondonópolis,saúde,Equipamentos hospitalares,386899.3,2025-12-12,SAMU,contrato direto
+519,Mato Grosso,Colíder,educação,Salários de professores,152723.62,2025-11-12,Escola Municipal,contrato direto
+520,Mato Grosso,Alta Floresta,saúde,Compra de medicamentos,105981.15,2025-07-01,SAMU,licitação
+521,Mato Grosso,Água Boa,educação,Salários de professores,146741.4,2024-05-08,Universidade Estadual,licitação
+522,Mato Grosso,Guarantã do Norte,segurança,Sistemas de vigilância,78500.51,2024-07-16,Trânsito,convênio
+523,Mato Grosso,Diamantino,educação,Construção de escolas,111729.66,2025-09-20,Creche,convênio
+524,Mato Grosso,Nova Mutum,saúde,Contratação de médicos,223747.9,2025-11-23,Posto de Saúde,parceria
+525,Mato Grosso,Diamantino,saúde,Equipamentos hospitalares,463405.96,2024-08-28,Posto de Saúde,contrato direto
+526,Mato Grosso,Juína,segurança,Treinamento de agentes,219380.68,2024-02-28,Trânsito,licitação
+527,Mato Grosso,Cuiabá,educação,Transporte estudantil,11347.8,2024-05-25,Creche,contrato direto
+528,Mato Grosso,Alta Floresta,saúde,Manutenção de hospitais,95238.42,2024-08-14,SAMU,contrato direto
+529,Mato Grosso,Diamantino,saúde,Equipamentos hospitalares,248876.14,2025-11-19,Posto de Saúde,parceria
+530,Mato Grosso,Lucas do Rio Verde,educação,Transporte estudantil,69043.61,2024-04-26,Universidade Estadual,convênio
+531,Mato Grosso,Campo Verde,saúde,Manutenção de hospitais,482871.46,2024-06-09,Hospital Municipal,parceria
+532,Mato Grosso,Primavera do Leste,segurança,Equipamentos de segurança,171620.94,2024-03-03,Polícia Militar,parceria
+533,Mato Grosso,Cáceres,saúde,Manutenção de hospitais,489900.52,2024-01-22,Posto de Saúde,convênio
+534,Mato Grosso,Cáceres,infraestrutura,Asfalto de vias,608579.49,2025-06-19,Saneamento,contrato direto
+535,Mato Grosso,Juína,segurança,Viaturas policiais,264307.07,2024-04-13,Polícia Civil,parceria
+536,Mato Grosso,Juína,saúde,Compra de medicamentos,469209.32,2024-09-16,SAMU,licitação
+537,Mato Grosso,Alta Floresta,segurança,Treinamento de agentes,38426.45,2024-12-13,Polícia Civil,parceria
+538,Mato Grosso,Colíder,administração,Consultoria,89614.63,2025-09-02,Secretaria de Administração,contrato direto
+539,Mato Grosso,Primavera do Leste,saúde,Compra de medicamentos,108244.8,2024-10-28,Hospital Municipal,convênio
+540,Mato Grosso,Campo Verde,administração,Consultoria,12575.73,2024-07-19,Contadoria,parceria
+541,Mato Grosso,Várzea Grande,infraestrutura,Construção de pontes,127223.96,2025-09-17,Departamento de Viação,contrato direto
+542,Mato Grosso,Colíder,saúde,Compra de medicamentos,94139.96,2025-05-19,Posto de Saúde,contrato direto
+543,Mato Grosso,Várzea Grande,segurança,Viaturas policiais,139716.57,2024-12-18,Polícia Civil,licitação
+544,Mato Grosso,Várzea Grande,saúde,Equipamentos hospitalares,171971.54,2025-02-03,Posto de Saúde,parceria
+545,Mato Grosso,Campo Verde,saúde,Contratação de médicos,43527.58,2025-06-16,Posto de Saúde,contrato direto
+546,Mato Grosso,Rondonópolis,saúde,Compra de medicamentos,19629.89,2024-05-24,Secretaria de Saúde,contrato direto
+547,Mato Grosso,Pontes e Lacerda,saúde,Compra de medicamentos,421652.5,2025-09-18,Posto de Saúde,parceria
+548,Mato Grosso,Barra do Garças,segurança,Sistemas de vigilância,772638.88,2025-01-10,Polícia Civil,convênio
+549,Mato Grosso,Cáceres,infraestrutura,Saneamento básico,483030.65,2024-07-15,Energia,parceria
+550,Mato Grosso,Campo Verde,saúde,Equipamentos hospitalares,479254.72,2025-04-01,Hospital Municipal,contrato direto
+551,Mato Grosso,Diamantino,administração,Serviços de limpeza,47637.86,2025-05-12,RH,convênio
+552,Mato Grosso,Primavera do Leste,administração,Consultoria,97641.51,2025-10-26,RH,contrato direto
+553,Mato Grosso,Peixoto de Azevedo,infraestrutura,Construção de pontes,966134.7,2025-04-04,Energia,parceria
+554,Mato Grosso,Água Boa,administração,Serviços de limpeza,24280.45,2025-08-07,Contadoria,contrato direto
+555,Mato Grosso,Várzea Grande,segurança,Viaturas policiais,316397.56,2024-06-08,Polícia Civil,licitação
+556,Mato Grosso,Barra do Garças,administração,Material de escritório,95503.22,2025-05-30,Prefeitura,contrato direto
+557,Mato Grosso,Juína,educação,Material escolar,50360.73,2025-03-23,Escola Municipal,convênio
+558,Mato Grosso,Tangará da Serra,educação,Salários de professores,68769.79,2024-10-07,Escola Municipal,parceria
+559,Mato Grosso,Barra do Garças,infraestrutura,Construção de pontes,720572.51,2024-06-10,Secretaria de Obras,contrato direto
+560,Mato Grosso,Campo Verde,infraestrutura,Iluminação pública,991661.77,2024-01-21,Saneamento,convênio
+561,Mato Grosso,Sorriso,infraestrutura,Iluminação pública,366544.19,2025-05-12,Saneamento,parceria
+562,Mato Grosso,Alta Floresta,saúde,Contratação de médicos,398080.38,2024-10-29,SAMU,convênio
+563,Mato Grosso,Água Boa,infraestrutura,Saneamento básico,918034.78,2024-01-13,Energia,contrato direto
+564,Mato Grosso,Primavera do Leste,infraestrutura,Iluminação pública,375993.02,2024-01-26,Energia,licitação
+565,Mato Grosso,Campo Verde,administração,Serviços de limpeza,16316.75,2025-12-20,Contadoria,licitação
+566,Mato Grosso,Nova Mutum,administração,Consultoria,90612.55,2025-08-22,Secretaria de Administração,licitação
+567,Mato Grosso,Rondonópolis,administração,Consultoria,84902.57,2024-12-09,RH,parceria
+568,Mato Grosso,Várzea Grande,administração,Consultoria,34859.74,2025-10-22,Prefeitura,convênio
+569,Mato Grosso,Colíder,segurança,Equipamentos de segurança,672161.53,2025-11-21,Guarda Municipal,licitação
+570,Mato Grosso,Diamantino,administração,Serviços de limpeza,10059.72,2025-10-02,RH,convênio
+571,Mato Grosso,Rondonópolis,segurança,Sistemas de vigilância,609748.75,2024-01-07,Polícia Militar,licitação
+572,Mato Grosso,Pontes e Lacerda,segurança,Equipamentos de segurança,336683.85,2024-07-09,Trânsito,convênio
+573,Mato Grosso,Rondonópolis,administração,Consultoria,77248.41,2025-05-16,Secretaria de Administração,parceria
+574,Mato Grosso,Diamantino,educação,Transporte estudantil,13533.16,2024-05-10,Escola Municipal,contrato direto
+575,Mato Grosso,Sorriso,administração,Aluguel de imóveis,57058.36,2024-03-01,RH,convênio
+576,Mato Grosso,Sorriso,saúde,Contratação de médicos,122960.5,2024-07-24,SAMU,parceria
+577,Mato Grosso,Guarantã do Norte,educação,Salários de professores,161309.49,2024-11-06,Secretaria de Educação,parceria
+578,Mato Grosso,Sorriso,saúde,Contratação de médicos,140176.57,2024-04-16,SAMU,licitação
+579,Mato Grosso,Peixoto de Azevedo,administração,Consultoria,5183.94,2024-09-11,Contadoria,contrato direto
+580,Mato Grosso,Cuiabá,administração,Aluguel de imóveis,8490.7,2025-01-01,Secretaria de Administração,contrato direto
+581,Mato Grosso,Juína,saúde,Equipamentos hospitalares,243302.16,2025-01-06,Hospital Municipal,convênio
+582,Mato Grosso,Lucas do Rio Verde,segurança,Sistemas de vigilância,136828.32,2024-06-03,Trânsito,contrato direto
+583,Mato Grosso,Juína,segurança,Viaturas policiais,399404.98,2025-02-08,Polícia Militar,convênio
+584,Mato Grosso,Água Boa,educação,Material escolar,107318.19,2025-10-24,Creche,contrato direto
+585,Mato Grosso,Primavera do Leste,educação,Construção de escolas,140122.0,2025-03-12,Universidade Estadual,licitação
+586,Mato Grosso,Cáceres,educação,Transporte estudantil,28252.48,2025-08-07,Secretaria de Educação,licitação
+587,Mato Grosso,Campo Verde,segurança,Treinamento de agentes,98519.26,2024-10-21,Trânsito,licitação
+588,Mato Grosso,Várzea Grande,saúde,Contratação de médicos,352029.66,2024-07-18,Secretaria de Saúde,convênio
+589,Mato Grosso,Diamantino,saúde,Equipamentos hospitalares,3735.24,2025-03-12,SAMU,parceria
+590,Mato Grosso,Pontes e Lacerda,saúde,Compra de medicamentos,142558.29,2024-03-15,SAMU,contrato direto
+591,Mato Grosso,Barra do Garças,saúde,Compra de medicamentos,384113.55,2025-03-08,Hospital Municipal,licitação
+592,Mato Grosso,Sinop,segurança,Sistemas de vigilância,580201.6,2025-10-22,Trânsito,contrato direto
+593,Mato Grosso,Primavera do Leste,infraestrutura,Iluminação pública,932646.19,2025-02-19,Energia,parceria
+594,Mato Grosso,Diamantino,saúde,Equipamentos hospitalares,390189.49,2024-02-11,Secretaria de Saúde,licitação
+595,Mato Grosso,Rondonópolis,administração,Serviços de limpeza,66269.84,2024-09-19,RH,convênio
+596,Mato Grosso,Tangará da Serra,saúde,Compra de medicamentos,13563.69,2024-12-30,Secretaria de Saúde,licitação
+597,Mato Grosso,Lucas do Rio Verde,educação,Construção de escolas,49186.2,2025-10-24,Escola Municipal,licitação
+598,Mato Grosso,Colíder,infraestrutura,Asfalto de vias,628376.77,2024-05-08,Saneamento,licitação
+599,Mato Grosso,Sorriso,infraestrutura,Asfalto de vias,56146.74,2025-06-29,Energia,licitação
+600,Mato Grosso,Rondonópolis,administração,Consultoria,9159.65,2025-10-15,RH,parceria
+601,Mato Grosso,Lucas do Rio Verde,segurança,Treinamento de agentes,386236.5,2024-08-04,Trânsito,convênio
+602,Mato Grosso,Tangará da Serra,infraestrutura,Iluminação pública,576928.99,2024-03-29,Energia,licitação
+603,Mato Grosso,Cuiabá,educação,Transporte estudantil,121678.92,2025-04-03,Secretaria de Educação,convênio
+604,Mato Grosso,Nova Mutum,saúde,Compra de medicamentos,164118.02,2024-12-19,SAMU,parceria
+605,Mato Grosso,Barra do Garças,saúde,Compra de medicamentos,425171.32,2025-07-26,Hospital Municipal,contrato direto
+606,Mato Grosso,Várzea Grande,administração,Consultoria,49165.39,2024-04-25,Secretaria de Administração,convênio
+607,Mato Grosso,Várzea Grande,administração,Aluguel de imóveis,47461.86,2024-07-25,RH,licitação
+608,Mato Grosso,Sinop,administração,Aluguel de imóveis,62595.78,2024-05-04,Prefeitura,convênio
+609,Mato Grosso,Tangará da Serra,administração,Consultoria,94143.78,2025-09-11,Secretaria de Administração,parceria
+610,Mato Grosso,Guarantã do Norte,infraestrutura,Construção de pontes,520938.56,2024-11-18,Energia,contrato direto
+611,Mato Grosso,Barra do Garças,infraestrutura,Construção de pontes,138725.56,2025-07-22,Energia,contrato direto
+612,Mato Grosso,Sorriso,infraestrutura,Saneamento básico,730593.78,2024-04-23,Saneamento,parceria
+613,Mato Grosso,Cáceres,administração,Consultoria,5828.0,2025-10-02,RH,parceria
+614,Mato Grosso,Peixoto de Azevedo,saúde,Contratação de médicos,36852.08,2024-08-08,Hospital Municipal,parceria
+615,Mato Grosso,Primavera do Leste,educação,Transporte estudantil,13574.82,2025-03-04,Secretaria de Educação,parceria
+616,Mato Grosso,Primavera do Leste,educação,Transporte estudantil,32442.08,2025-09-16,Creche,parceria
+617,Mato Grosso,Sorriso,educação,Salários de professores,185224.99,2024-01-19,Creche,parceria
+618,Mato Grosso,Cuiabá,segurança,Sistemas de vigilância,694139.37,2024-03-01,Trânsito,parceria
+619,Mato Grosso,Sinop,segurança,Equipamentos de segurança,123652.17,2024-05-18,Trânsito,parceria
+620,Mato Grosso,Juína,administração,Material de escritório,53863.24,2025-10-12,Prefeitura,contrato direto
+621,Mato Grosso,Primavera do Leste,educação,Transporte estudantil,129868.29,2025-08-15,Universidade Estadual,contrato direto
+622,Mato Grosso,Barra do Garças,segurança,Sistemas de vigilância,203693.84,2025-05-18,Trânsito,parceria
+623,Mato Grosso,Barra do Garças,saúde,Equipamentos hospitalares,266268.54,2024-09-18,Posto de Saúde,convênio
+624,Mato Grosso,Rondonópolis,educação,Salários de professores,70348.3,2025-11-15,Creche,parceria
+625,Mato Grosso,Primavera do Leste,segurança,Equipamentos de segurança,697201.54,2024-11-06,Trânsito,parceria
+626,Mato Grosso,Rondonópolis,segurança,Sistemas de vigilância,260236.46,2024-08-23,Trânsito,convênio
+627,Mato Grosso,Pontes e Lacerda,infraestrutura,Saneamento básico,584790.71,2025-06-15,Secretaria de Obras,convênio
+628,Mato Grosso,Água Boa,saúde,Manutenção de hospitais,301717.88,2024-11-12,Hospital Municipal,contrato direto
+629,Mato Grosso,Colíder,infraestrutura,Saneamento básico,537783.01,2025-07-06,Secretaria de Obras,licitação
+630,Mato Grosso,Campo Verde,administração,Material de escritório,47205.79,2025-07-18,RH,parceria
+631,Mato Grosso,Água Boa,infraestrutura,Iluminação pública,222270.81,2024-10-22,Departamento de Viação,parceria
+632,Mato Grosso,Guarantã do Norte,administração,Consultoria,25010.82,2025-12-11,Contadoria,convênio
+633,Mato Grosso,Peixoto de Azevedo,segurança,Treinamento de agentes,547974.12,2025-01-15,Polícia Civil,parceria
+634,Mato Grosso,Rondonópolis,segurança,Equipamentos de segurança,483439.15,2025-09-24,Trânsito,convênio
+635,Mato Grosso,Alta Floresta,saúde,Contratação de médicos,283228.62,2025-02-13,Hospital Municipal,contrato direto
+636,Mato Grosso,Nova Mutum,educação,Construção de escolas,89728.13,2025-04-15,Escola Municipal,parceria
+637,Mato Grosso,Cáceres,infraestrutura,Iluminação pública,101157.58,2025-12-28,Departamento de Viação,contrato direto
+638,Mato Grosso,Lucas do Rio Verde,educação,Salários de professores,89048.69,2024-07-12,Secretaria de Educação,contrato direto
+639,Mato Grosso,Guarantã do Norte,administração,Serviços de limpeza,47019.56,2025-07-19,Prefeitura,contrato direto
+640,Mato Grosso,Nova Mutum,infraestrutura,Iluminação pública,525377.7,2025-04-26,Saneamento,contrato direto
+641,Mato Grosso,Alta Floresta,segurança,Sistemas de vigilância,533967.96,2025-09-01,Trânsito,licitação
+642,Mato Grosso,Juína,infraestrutura,Asfalto de vias,982449.55,2025-05-30,Secretaria de Obras,convênio
+643,Mato Grosso,Água Boa,administração,Serviços de limpeza,36676.91,2025-08-26,Secretaria de Administração,convênio
+644,Mato Grosso,Cáceres,segurança,Viaturas policiais,262641.73,2024-12-03,Guarda Municipal,licitação
+645,Mato Grosso,Sinop,saúde,Contratação de médicos,446740.27,2024-11-19,Posto de Saúde,contrato direto
+646,Mato Grosso,Barra do Garças,educação,Material escolar,90114.6,2025-05-17,Universidade Estadual,convênio
+647,Mato Grosso,Primavera do Leste,educação,Transporte estudantil,55937.15,2024-08-17,Escola Municipal,licitação
+648,Mato Grosso,Pontes e Lacerda,administração,Serviços de limpeza,13803.57,2025-09-05,Contadoria,convênio
+649,Mato Grosso,Primavera do Leste,infraestrutura,Construção de pontes,402417.9,2024-09-11,Secretaria de Obras,parceria
+650,Mato Grosso,Nova Mutum,segurança,Viaturas policiais,568443.8,2024-10-06,Guarda Municipal,convênio
+651,Mato Grosso,Cáceres,infraestrutura,Construção de pontes,123882.91,2024-06-07,Energia,contrato direto
+652,Mato Grosso,Primavera do Leste,saúde,Manutenção de hospitais,315791.77,2024-09-11,Secretaria de Saúde,contrato direto
+653,Mato Grosso,Várzea Grande,educação,Material escolar,4845.51,2024-11-02,Secretaria de Educação,contrato direto
+654,Mato Grosso,Cáceres,educação,Material escolar,166390.53,2025-01-20,Creche,contrato direto
+655,Mato Grosso,Lucas do Rio Verde,saúde,Equipamentos hospitalares,193773.42,2024-06-06,Hospital Municipal,convênio
+656,Mato Grosso,Barra do Garças,infraestrutura,Construção de pontes,318118.44,2025-12-28,Secretaria de Obras,contrato direto
+657,Mato Grosso,Sorriso,segurança,Treinamento de agentes,336800.56,2025-01-03,Polícia Civil,contrato direto
+658,Mato Grosso,Nova Mutum,educação,Transporte estudantil,134063.35,2024-05-31,Escola Municipal,contrato direto
+659,Mato Grosso,Peixoto de Azevedo,segurança,Treinamento de agentes,550426.59,2025-11-04,Trânsito,licitação
+660,Mato Grosso,Rondonópolis,infraestrutura,Construção de pontes,86333.52,2024-11-02,Departamento de Viação,licitação
+661,Mato Grosso,Várzea Grande,segurança,Equipamentos de segurança,563146.78,2025-06-20,Polícia Civil,parceria
+662,Mato Grosso,Cuiabá,saúde,Manutenção de hospitais,255423.64,2024-11-26,SAMU,convênio
+663,Mato Grosso,Cuiabá,infraestrutura,Saneamento básico,430248.79,2024-09-18,Energia,parceria
+664,Mato Grosso,Peixoto de Azevedo,segurança,Treinamento de agentes,522001.7,2024-07-31,Trânsito,parceria
+665,Mato Grosso,Primavera do Leste,saúde,Contratação de médicos,206906.67,2025-04-21,Posto de Saúde,licitação
+666,Mato Grosso,Peixoto de Azevedo,educação,Transporte estudantil,123202.11,2024-10-16,Creche,contrato direto
+667,Mato Grosso,Cuiabá,saúde,Equipamentos hospitalares,354721.7,2024-12-29,Posto de Saúde,contrato direto
+668,Mato Grosso,Guarantã do Norte,educação,Construção de escolas,142960.35,2025-03-24,Creche,parceria
+669,Mato Grosso,Guarantã do Norte,saúde,Equipamentos hospitalares,20978.1,2025-06-16,Posto de Saúde,parceria
+670,Mato Grosso,Campo Verde,administração,Material de escritório,14770.98,2025-02-28,Contadoria,licitação
+671,Mato Grosso,Alta Floresta,infraestrutura,Construção de pontes,766914.29,2024-11-07,Departamento de Viação,convênio
+672,Mato Grosso,Diamantino,saúde,Contratação de médicos,157372.44,2024-11-25,Secretaria de Saúde,parceria
+673,Mato Grosso,Juína,saúde,Contratação de médicos,458056.17,2024-02-18,Secretaria de Saúde,convênio
+674,Mato Grosso,Rondonópolis,administração,Serviços de limpeza,61822.83,2025-10-02,RH,parceria
+675,Mato Grosso,Peixoto de Azevedo,educação,Transporte estudantil,34571.41,2024-11-06,Universidade Estadual,convênio
+676,Mato Grosso,Alta Floresta,saúde,Compra de medicamentos,396307.44,2024-04-02,Posto de Saúde,licitação
+677,Mato Grosso,Cuiabá,educação,Transporte estudantil,34207.58,2024-12-16,Creche,convênio
+678,Mato Grosso,Sorriso,educação,Salários de professores,79405.36,2024-01-18,Escola Municipal,licitação
+679,Mato Grosso,Colíder,administração,Material de escritório,18481.44,2025-08-19,Prefeitura,contrato direto
+680,Mato Grosso,Lucas do Rio Verde,infraestrutura,Asfalto de vias,803737.54,2024-08-25,Departamento de Viação,contrato direto
+681,Mato Grosso,Primavera do Leste,administração,Material de escritório,61468.48,2024-10-27,RH,convênio
+682,Mato Grosso,Juína,educação,Salários de professores,133367.92,2024-08-19,Secretaria de Educação,parceria
+683,Mato Grosso,Água Boa,infraestrutura,Asfalto de vias,449838.31,2024-06-22,Saneamento,convênio
+684,Mato Grosso,Nova Mutum,administração,Consultoria,24631.69,2024-07-25,Contadoria,licitação
+685,Mato Grosso,Sorriso,infraestrutura,Asfalto de vias,811403.2,2024-02-23,Saneamento,parceria
+686,Mato Grosso,Peixoto de Azevedo,educação,Transporte estudantil,73442.4,2025-04-23,Secretaria de Educação,licitação
+687,Mato Grosso,Cáceres,administração,Aluguel de imóveis,85836.09,2025-09-22,RH,contrato direto
+688,Mato Grosso,Juína,infraestrutura,Iluminação pública,666184.69,2025-08-13,Departamento de Viação,licitação
+689,Mato Grosso,Lucas do Rio Verde,saúde,Equipamentos hospitalares,384464.74,2024-04-13,SAMU,licitação
+690,Mato Grosso,Colíder,administração,Consultoria,17422.35,2025-12-06,RH,contrato direto
+691,Mato Grosso,Lucas do Rio Verde,administração,Material de escritório,18198.87,2025-12-05,RH,licitação
+692,Mato Grosso,Juína,educação,Material escolar,71728.98,2024-05-24,Escola Municipal,convênio
+693,Mato Grosso,Barra do Garças,saúde,Equipamentos hospitalares,142266.52,2024-05-07,Hospital Municipal,contrato direto
+694,Mato Grosso,Rondonópolis,saúde,Manutenção de hospitais,224175.9,2024-09-16,Hospital Municipal,contrato direto
+695,Mato Grosso,Campo Verde,educação,Construção de escolas,164394.29,2025-04-15,Escola Municipal,convênio
+696,Mato Grosso,Lucas do Rio Verde,administração,Material de escritório,62054.95,2025-10-28,Contadoria,convênio
+697,Mato Grosso,Tangará da Serra,educação,Material escolar,106807.42,2025-04-21,Creche,convênio
+698,Mato Grosso,Barra do Garças,educação,Transporte estudantil,56262.12,2025-07-07,Universidade Estadual,convênio
+699,Mato Grosso,Cuiabá,administração,Aluguel de imóveis,33275.11,2024-06-17,Prefeitura,parceria
+700,Mato Grosso,Peixoto de Azevedo,administração,Consultoria,66525.38,2025-11-02,Secretaria de Administração,convênio
+701,Mato Grosso,Primavera do Leste,saúde,Equipamentos hospitalares,346996.27,2025-03-01,Hospital Municipal,parceria
+702,Mato Grosso,Colíder,saúde,Contratação de médicos,486038.43,2024-12-06,Secretaria de Saúde,parceria
+703,Mato Grosso,Guarantã do Norte,saúde,Equipamentos hospitalares,117538.87,2025-12-03,Secretaria de Saúde,parceria
+704,Mato Grosso,Sinop,saúde,Manutenção de hospitais,41419.26,2024-06-08,Secretaria de Saúde,convênio
+705,Mato Grosso,Alta Floresta,infraestrutura,Construção de pontes,494395.63,2025-07-28,Saneamento,licitação
+706,Mato Grosso,Sorriso,saúde,Manutenção de hospitais,359623.37,2025-10-27,Hospital Municipal,convênio
+707,Mato Grosso,Água Boa,administração,Aluguel de imóveis,28186.5,2024-12-19,Contadoria,parceria
+708,Mato Grosso,Juína,educação,Salários de professores,199753.44,2025-01-23,Universidade Estadual,contrato direto
+709,Mato Grosso,Colíder,infraestrutura,Saneamento básico,224373.16,2024-10-05,Secretaria de Obras,licitação
+710,Mato Grosso,Campo Verde,infraestrutura,Iluminação pública,874869.98,2024-07-06,Saneamento,contrato direto
+711,Mato Grosso,Sorriso,educação,Transporte estudantil,99220.52,2024-09-10,Secretaria de Educação,licitação
+712,Mato Grosso,Pontes e Lacerda,educação,Transporte estudantil,163421.07,2024-10-24,Secretaria de Educação,parceria
+713,Mato Grosso,Tangará da Serra,infraestrutura,Iluminação pública,965260.5,2024-07-06,Saneamento,licitação
+714,Mato Grosso,Colíder,administração,Serviços de limpeza,42761.26,2024-06-14,Prefeitura,parceria
+715,Mato Grosso,Juína,administração,Material de escritório,94938.09,2024-04-25,Contadoria,licitação
+716,Mato Grosso,Sorriso,saúde,Contratação de médicos,32884.71,2025-01-05,Posto de Saúde,parceria
+717,Mato Grosso,Barra do Garças,administração,Aluguel de imóveis,14318.06,2025-12-20,Secretaria de Administração,licitação
+718,Mato Grosso,Sorriso,educação,Transporte estudantil,64948.48,2025-05-05,Universidade Estadual,parceria
+719,Mato Grosso,Nova Mutum,saúde,Manutenção de hospitais,383425.69,2025-03-19,Posto de Saúde,licitação
+720,Mato Grosso,Sinop,saúde,Compra de medicamentos,82989.87,2025-01-21,Secretaria de Saúde,contrato direto
+721,Mato Grosso,Sinop,educação,Material escolar,79174.26,2025-06-25,Universidade Estadual,licitação
+722,Mato Grosso,Tangará da Serra,administração,Consultoria,96942.89,2025-05-03,Prefeitura,contrato direto
+723,Mato Grosso,Sorriso,saúde,Equipamentos hospitalares,255652.13,2025-05-08,Hospital Municipal,contrato direto
+724,Mato Grosso,Rondonópolis,administração,Material de escritório,65311.78,2024-04-10,Secretaria de Administração,parceria
+725,Mato Grosso,Primavera do Leste,saúde,Manutenção de hospitais,147403.44,2025-12-03,Posto de Saúde,contrato direto
+726,Mato Grosso,Tangará da Serra,segurança,Viaturas policiais,14336.66,2024-05-18,Guarda Municipal,parceria
+727,Mato Grosso,Sinop,educação,Construção de escolas,16926.31,2025-12-09,Escola Municipal,licitação
+728,Mato Grosso,Água Boa,administração,Material de escritório,11800.86,2025-01-22,RH,licitação
+729,Mato Grosso,Colíder,educação,Transporte estudantil,21597.66,2024-02-29,Escola Municipal,convênio
+730,Mato Grosso,Campo Verde,administração,Material de escritório,38208.47,2024-08-15,Contadoria,contrato direto
+731,Mato Grosso,Lucas do Rio Verde,saúde,Contratação de médicos,75453.76,2025-06-07,Secretaria de Saúde,licitação
+732,Mato Grosso,Tangará da Serra,infraestrutura,Iluminação pública,370960.63,2024-09-01,Energia,contrato direto
+733,Mato Grosso,Peixoto de Azevedo,educação,Construção de escolas,62389.29,2025-09-25,Creche,licitação
+734,Mato Grosso,Juína,segurança,Viaturas policiais,273555.66,2024-05-18,Trânsito,licitação
+735,Mato Grosso,Colíder,saúde,Manutenção de hospitais,392508.05,2025-11-24,Hospital Municipal,contrato direto
+736,Mato Grosso,Peixoto de Azevedo,infraestrutura,Saneamento básico,214151.09,2024-08-26,Saneamento,parceria
+737,Mato Grosso,Primavera do Leste,infraestrutura,Iluminação pública,610237.84,2025-04-08,Secretaria de Obras,parceria
+738,Mato Grosso,Barra do Garças,segurança,Treinamento de agentes,177641.93,2024-12-06,Guarda Municipal,convênio
+739,Mato Grosso,Sorriso,infraestrutura,Construção de pontes,591069.92,2025-12-03,Departamento de Viação,licitação
+740,Mato Grosso,Primavera do Leste,segurança,Equipamentos de segurança,57214.21,2024-02-04,Guarda Municipal,parceria
+741,Mato Grosso,Rondonópolis,infraestrutura,Construção de pontes,482746.75,2024-08-28,Departamento de Viação,convênio
+742,Mato Grosso,Alta Floresta,administração,Serviços de limpeza,40825.47,2024-09-06,Secretaria de Administração,convênio
+743,Mato Grosso,Barra do Garças,saúde,Equipamentos hospitalares,482568.25,2025-10-04,SAMU,licitação
+744,Mato Grosso,Rondonópolis,educação,Salários de professores,85258.98,2025-06-16,Universidade Estadual,parceria
+745,Mato Grosso,Cuiabá,saúde,Compra de medicamentos,489345.28,2025-02-10,Posto de Saúde,parceria
+746,Mato Grosso,Cuiabá,infraestrutura,Asfalto de vias,682834.67,2024-06-27,Saneamento,licitação
+747,Mato Grosso,Água Boa,infraestrutura,Iluminação pública,833558.4,2024-03-02,Secretaria de Obras,contrato direto
+748,Mato Grosso,Peixoto de Azevedo,infraestrutura,Iluminação pública,671698.64,2025-05-20,Departamento de Viação,parceria
+749,Mato Grosso,Cáceres,segurança,Viaturas policiais,762417.0,2025-09-16,Polícia Militar,convênio
+750,Mato Grosso,Água Boa,administração,Material de escritório,41148.71,2024-11-27,Secretaria de Administração,contrato direto
+751,Mato Grosso,Diamantino,educação,Salários de professores,31433.84,2024-07-08,Creche,contrato direto
+752,Mato Grosso,Primavera do Leste,infraestrutura,Construção de pontes,349273.85,2024-06-30,Secretaria de Obras,licitação
+753,Mato Grosso,Colíder,saúde,Compra de medicamentos,42971.7,2025-11-20,SAMU,parceria
+754,Mato Grosso,Cuiabá,educação,Salários de professores,66801.93,2024-07-11,Secretaria de Educação,licitação
+755,Mato Grosso,Nova Mutum,saúde,Equipamentos hospitalares,148780.64,2024-09-03,Secretaria de Saúde,licitação
+756,Mato Grosso,Sorriso,segurança,Viaturas policiais,637168.42,2024-06-12,Trânsito,convênio
+757,Mato Grosso,Diamantino,administração,Material de escritório,84438.02,2024-10-14,RH,convênio
+758,Mato Grosso,Primavera do Leste,infraestrutura,Construção de pontes,279950.44,2025-12-12,Departamento de Viação,parceria
+759,Mato Grosso,Água Boa,infraestrutura,Construção de pontes,860260.34,2024-04-04,Energia,licitação
+760,Mato Grosso,Guarantã do Norte,segurança,Viaturas policiais,654517.77,2024-05-24,Polícia Civil,licitação
+761,Mato Grosso,Sinop,saúde,Contratação de médicos,311100.81,2024-03-02,Secretaria de Saúde,licitação
+762,Mato Grosso,Água Boa,saúde,Equipamentos hospitalares,28076.11,2024-11-26,Posto de Saúde,parceria
+763,Mato Grosso,Barra do Garças,saúde,Compra de medicamentos,92607.19,2024-10-02,SAMU,licitação
+764,Mato Grosso,Peixoto de Azevedo,administração,Consultoria,16356.93,2024-10-07,Contadoria,licitação
+765,Mato Grosso,Sorriso,educação,Transporte estudantil,133645.25,2025-06-24,Escola Municipal,convênio
+766,Mato Grosso,Campo Verde,segurança,Equipamentos de segurança,365561.12,2024-11-16,Guarda Municipal,parceria
+767,Mato Grosso,Várzea Grande,saúde,Equipamentos hospitalares,185520.72,2024-02-18,SAMU,convênio
+768,Mato Grosso,Primavera do Leste,educação,Material escolar,43466.67,2025-12-27,Escola Municipal,parceria
+769,Mato Grosso,Guarantã do Norte,administração,Material de escritório,17193.49,2024-09-29,Contadoria,licitação
+770,Mato Grosso,Alta Floresta,saúde,Manutenção de hospitais,86486.27,2025-01-27,Hospital Municipal,convênio
+771,Mato Grosso,Diamantino,educação,Construção de escolas,106775.63,2024-10-03,Secretaria de Educação,licitação
+772,Mato Grosso,Sinop,infraestrutura,Saneamento básico,194411.23,2025-04-26,Energia,convênio
+773,Mato Grosso,Várzea Grande,saúde,Equipamentos hospitalares,155772.0,2024-08-18,Posto de Saúde,parceria
+774,Mato Grosso,Sinop,educação,Salários de professores,136632.12,2025-12-03,Creche,convênio
+775,Mato Grosso,Sinop,educação,Transporte estudantil,23583.44,2025-07-19,Creche,licitação
+776,Mato Grosso,Pontes e Lacerda,segurança,Viaturas policiais,580052.45,2024-04-03,Guarda Municipal,parceria
+777,Mato Grosso,Nova Mutum,infraestrutura,Saneamento básico,660424.14,2025-11-25,Secretaria de Obras,convênio
+778,Mato Grosso,Guarantã do Norte,administração,Consultoria,62175.96,2024-07-06,RH,licitação
+779,Mato Grosso,Cáceres,administração,Aluguel de imóveis,3395.35,2025-03-02,Secretaria de Administração,contrato direto
+780,Mato Grosso,Lucas do Rio Verde,educação,Construção de escolas,44074.47,2025-12-19,Creche,parceria
+781,Mato Grosso,Água Boa,segurança,Viaturas policiais,665125.24,2024-08-28,Polícia Civil,parceria
+782,Mato Grosso,Juína,segurança,Sistemas de vigilância,741530.62,2024-08-07,Guarda Municipal,contrato direto
+783,Mato Grosso,Primavera do Leste,educação,Material escolar,32819.77,2024-05-18,Creche,convênio
+784,Mato Grosso,Rondonópolis,segurança,Sistemas de vigilância,599246.01,2025-02-22,Guarda Municipal,contrato direto
+785,Mato Grosso,Rondonópolis,saúde,Compra de medicamentos,34197.16,2025-07-27,Secretaria de Saúde,licitação
+786,Mato Grosso,Nova Mutum,administração,Aluguel de imóveis,20124.29,2025-11-29,Contadoria,licitação
+787,Mato Grosso,Peixoto de Azevedo,saúde,Compra de medicamentos,351537.92,2024-07-11,Posto de Saúde,convênio
+788,Mato Grosso,Barra do Garças,administração,Consultoria,70111.76,2025-07-17,Prefeitura,licitação
+789,Mato Grosso,Lucas do Rio Verde,segurança,Treinamento de agentes,31364.81,2025-07-23,Polícia Civil,licitação
+790,Mato Grosso,Pontes e Lacerda,infraestrutura,Saneamento básico,149178.22,2025-10-09,Departamento de Viação,licitação
+791,Mato Grosso,Sorriso,segurança,Viaturas policiais,46206.39,2024-09-27,Guarda Municipal,convênio
+792,Mato Grosso,Nova Mutum,administração,Material de escritório,98459.68,2025-05-12,Prefeitura,parceria
+793,Mato Grosso,Nova Mutum,administração,Material de escritório,65012.99,2025-11-15,Secretaria de Administração,contrato direto
+794,Mato Grosso,Alta Floresta,educação,Transporte estudantil,31692.68,2024-12-10,Escola Municipal,convênio
+795,Mato Grosso,Peixoto de Azevedo,administração,Serviços de limpeza,23574.97,2024-04-07,Contadoria,convênio
+796,Mato Grosso,Juína,saúde,Compra de medicamentos,480272.61,2025-06-30,Hospital Municipal,parceria
+797,Mato Grosso,Lucas do Rio Verde,saúde,Compra de medicamentos,462638.77,2024-05-22,Hospital Municipal,licitação
+798,Mato Grosso,Lucas do Rio Verde,administração,Material de escritório,80859.29,2025-01-27,Prefeitura,licitação
+799,Mato Grosso,Campo Verde,infraestrutura,Construção de pontes,696966.95,2024-01-17,Saneamento,contrato direto
+800,Mato Grosso,Primavera do Leste,administração,Consultoria,5784.06,2025-02-20,RH,licitação
+801,Mato Grosso,Sorriso,saúde,Manutenção de hospitais,297277.77,2024-01-20,Hospital Municipal,parceria
+802,Mato Grosso,Primavera do Leste,infraestrutura,Saneamento básico,306037.34,2024-10-10,Saneamento,convênio
+803,Mato Grosso,Juína,saúde,Compra de medicamentos,178358.3,2024-01-20,Hospital Municipal,contrato direto
+804,Mato Grosso,Alta Floresta,segurança,Viaturas policiais,575848.22,2024-04-12,Polícia Militar,parceria
+805,Mato Grosso,Nova Mutum,saúde,Equipamentos hospitalares,454175.76,2025-09-17,SAMU,convênio
+806,Mato Grosso,Primavera do Leste,segurança,Viaturas policiais,721261.05,2024-06-01,Guarda Municipal,parceria
+807,Mato Grosso,Guarantã do Norte,infraestrutura,Iluminação pública,616455.48,2024-03-11,Saneamento,licitação
+808,Mato Grosso,Alta Floresta,saúde,Contratação de médicos,424831.57,2025-09-08,SAMU,licitação
+809,Mato Grosso,Várzea Grande,segurança,Sistemas de vigilância,382237.85,2024-10-05,Polícia Militar,convênio
+810,Mato Grosso,Colíder,saúde,Compra de medicamentos,198362.05,2024-09-08,SAMU,contrato direto
+811,Mato Grosso,Água Boa,saúde,Manutenção de hospitais,168089.67,2024-11-06,Hospital Municipal,licitação
+812,Mato Grosso,Campo Verde,saúde,Manutenção de hospitais,346684.72,2024-02-25,Secretaria de Saúde,convênio
+813,Mato Grosso,Água Boa,administração,Aluguel de imóveis,92826.89,2025-07-10,Secretaria de Administração,contrato direto
+814,Mato Grosso,Várzea Grande,infraestrutura,Asfalto de vias,266702.34,2024-08-17,Saneamento,contrato direto
+815,Mato Grosso,Campo Verde,educação,Salários de professores,38048.47,2024-03-02,Secretaria de Educação,parceria
+816,Mato Grosso,Cáceres,administração,Aluguel de imóveis,84829.87,2025-11-01,RH,parceria
+817,Mato Grosso,Pontes e Lacerda,segurança,Treinamento de agentes,393493.39,2025-02-01,Guarda Municipal,licitação
+818,Mato Grosso,Rondonópolis,saúde,Compra de medicamentos,22601.72,2024-09-04,Posto de Saúde,parceria
+819,Mato Grosso,Rondonópolis,saúde,Manutenção de hospitais,88064.62,2024-11-05,Hospital Municipal,convênio
+820,Mato Grosso,Diamantino,administração,Aluguel de imóveis,77508.54,2024-02-28,Prefeitura,parceria
+821,Mato Grosso,Pontes e Lacerda,educação,Construção de escolas,189019.78,2024-03-12,Universidade Estadual,parceria
+822,Mato Grosso,Alta Floresta,saúde,Manutenção de hospitais,451783.16,2025-04-05,Posto de Saúde,contrato direto
+823,Mato Grosso,Nova Mutum,infraestrutura,Construção de pontes,61558.65,2025-07-18,Secretaria de Obras,convênio
+824,Mato Grosso,Alta Floresta,educação,Construção de escolas,168172.84,2025-10-27,Escola Municipal,parceria
+825,Mato Grosso,Peixoto de Azevedo,administração,Consultoria,67270.19,2025-06-19,Secretaria de Administração,licitação
+826,Mato Grosso,Tangará da Serra,saúde,Manutenção de hospitais,243834.97,2024-07-13,Secretaria de Saúde,licitação
+827,Mato Grosso,Tangará da Serra,saúde,Compra de medicamentos,337649.11,2025-02-28,SAMU,licitação
+828,Mato Grosso,Alta Floresta,administração,Consultoria,54415.66,2024-03-09,Contadoria,licitação
+829,Mato Grosso,Diamantino,educação,Transporte estudantil,45146.11,2024-07-24,Escola Municipal,licitação
+830,Mato Grosso,Juína,administração,Serviços de limpeza,50117.53,2025-06-25,RH,contrato direto
+831,Mato Grosso,Barra do Garças,administração,Serviços de limpeza,53352.93,2024-05-21,RH,convênio
+832,Mato Grosso,Nova Mutum,infraestrutura,Construção de pontes,938908.44,2025-01-15,Energia,parceria
+833,Mato Grosso,Juína,educação,Construção de escolas,92152.76,2024-08-20,Universidade Estadual,parceria
+834,Mato Grosso,Alta Floresta,segurança,Viaturas policiais,548700.31,2025-01-19,Trânsito,licitação
+835,Mato Grosso,Cáceres,saúde,Manutenção de hospitais,248987.51,2025-07-12,Secretaria de Saúde,convênio
+836,Mato Grosso,Peixoto de Azevedo,educação,Transporte estudantil,18694.62,2024-02-17,Universidade Estadual,parceria
+837,Mato Grosso,Várzea Grande,segurança,Viaturas policiais,618013.4,2024-12-15,Polícia Civil,parceria
+838,Mato Grosso,Cuiabá,infraestrutura,Construção de pontes,696427.86,2025-05-20,Departamento de Viação,parceria
+839,Mato Grosso,Pontes e Lacerda,infraestrutura,Iluminação pública,701541.97,2024-02-29,Secretaria de Obras,contrato direto
+840,Mato Grosso,Peixoto de Azevedo,saúde,Contratação de médicos,462976.32,2025-08-06,Posto de Saúde,parceria
+841,Mato Grosso,Primavera do Leste,educação,Construção de escolas,61019.55,2024-10-12,Creche,parceria
+842,Mato Grosso,Tangará da Serra,segurança,Viaturas policiais,54949.0,2025-09-05,Polícia Militar,parceria
+843,Mato Grosso,Diamantino,educação,Salários de professores,184927.9,2025-05-05,Universidade Estadual,licitação
+844,Mato Grosso,Primavera do Leste,administração,Consultoria,46392.77,2024-03-25,Prefeitura,convênio
+845,Mato Grosso,Barra do Garças,administração,Consultoria,6248.06,2024-03-26,Secretaria de Administração,contrato direto
+846,Mato Grosso,Lucas do Rio Verde,educação,Construção de escolas,98826.78,2024-06-22,Universidade Estadual,parceria
+847,Mato Grosso,Lucas do Rio Verde,saúde,Compra de medicamentos,16041.35,2024-11-17,Hospital Municipal,contrato direto
+848,Mato Grosso,Guarantã do Norte,segurança,Treinamento de agentes,533249.23,2025-02-22,Guarda Municipal,licitação
+849,Mato Grosso,Colíder,saúde,Contratação de médicos,359569.73,2024-04-03,Hospital Municipal,parceria
+850,Mato Grosso,Alta Floresta,segurança,Treinamento de agentes,656321.76,2024-09-26,Trânsito,parceria
+851,Mato Grosso,Barra do Garças,educação,Transporte estudantil,54312.65,2024-01-27,Escola Municipal,parceria
+852,Mato Grosso,Juína,segurança,Treinamento de agentes,736065.52,2025-07-05,Guarda Municipal,convênio
+853,Mato Grosso,Lucas do Rio Verde,educação,Construção de escolas,97957.02,2024-04-17,Universidade Estadual,parceria
+854,Mato Grosso,Água Boa,administração,Serviços de limpeza,87258.91,2024-02-20,Secretaria de Administração,convênio
+855,Mato Grosso,Cáceres,infraestrutura,Iluminação pública,327040.79,2024-02-29,Saneamento,parceria
+856,Mato Grosso,Pontes e Lacerda,educação,Material escolar,153883.34,2025-05-05,Escola Municipal,contrato direto
+857,Mato Grosso,Água Boa,educação,Salários de professores,80921.69,2025-09-27,Universidade Estadual,licitação
+858,Mato Grosso,Tangará da Serra,administração,Serviços de limpeza,30805.45,2024-11-05,Prefeitura,convênio
+859,Mato Grosso,Pontes e Lacerda,educação,Salários de professores,158275.11,2024-07-12,Secretaria de Educação,convênio
+860,Mato Grosso,Água Boa,infraestrutura,Iluminação pública,673379.2,2025-02-21,Energia,licitação
+861,Mato Grosso,Colíder,educação,Salários de professores,150014.16,2024-06-08,Universidade Estadual,parceria
+862,Mato Grosso,Água Boa,saúde,Contratação de médicos,281553.35,2024-12-22,SAMU,licitação
+863,Mato Grosso,Barra do Garças,segurança,Viaturas policiais,264227.75,2025-08-10,Guarda Municipal,contrato direto
+864,Mato Grosso,Peixoto de Azevedo,segurança,Treinamento de agentes,481922.59,2024-08-01,Polícia Civil,licitação
+865,Mato Grosso,Água Boa,educação,Transporte estudantil,176882.55,2024-03-26,Creche,contrato direto
+866,Mato Grosso,Campo Verde,educação,Construção de escolas,51188.68,2024-03-26,Secretaria de Educação,licitação
+867,Mato Grosso,Peixoto de Azevedo,saúde,Contratação de médicos,135246.97,2024-02-07,Secretaria de Saúde,contrato direto
+868,Mato Grosso,Tangará da Serra,infraestrutura,Iluminação pública,314105.13,2025-11-23,Energia,licitação
+869,Mato Grosso,Rondonópolis,segurança,Viaturas policiais,71959.77,2024-09-01,Trânsito,parceria
+870,Mato Grosso,Várzea Grande,saúde,Manutenção de hospitais,339623.6,2025-05-30,Posto de Saúde,convênio
+871,Mato Grosso,Água Boa,saúde,Contratação de médicos,405313.27,2024-05-13,Hospital Municipal,parceria
+872,Mato Grosso,Várzea Grande,segurança,Viaturas policiais,215244.2,2025-08-18,Polícia Civil,convênio
+873,Mato Grosso,Sinop,segurança,Treinamento de agentes,455681.14,2025-04-22,Guarda Municipal,licitação
+874,Mato Grosso,Cuiabá,saúde,Manutenção de hospitais,164335.18,2025-12-19,SAMU,parceria
+875,Mato Grosso,Sorriso,segurança,Treinamento de agentes,296607.06,2024-03-13,Guarda Municipal,contrato direto
+876,Mato Grosso,Cuiabá,segurança,Viaturas policiais,715047.87,2024-09-09,Guarda Municipal,contrato direto
+877,Mato Grosso,Cuiabá,administração,Material de escritório,32006.14,2024-10-21,Prefeitura,licitação
+878,Mato Grosso,Guarantã do Norte,infraestrutura,Construção de pontes,449128.33,2024-10-23,Energia,convênio
+879,Mato Grosso,Sinop,saúde,Compra de medicamentos,277743.75,2024-04-15,Secretaria de Saúde,licitação
+880,Mato Grosso,Colíder,segurança,Sistemas de vigilância,65873.75,2025-09-27,Polícia Civil,parceria
+881,Mato Grosso,Nova Mutum,segurança,Sistemas de vigilância,450731.33,2025-07-24,Polícia Civil,parceria
+882,Mato Grosso,Colíder,educação,Transporte estudantil,55244.59,2024-04-08,Creche,convênio
+883,Mato Grosso,Várzea Grande,saúde,Manutenção de hospitais,32885.47,2024-01-24,Posto de Saúde,licitação
+884,Mato Grosso,Cáceres,saúde,Compra de medicamentos,302207.16,2024-02-12,SAMU,licitação
+885,Mato Grosso,Alta Floresta,segurança,Treinamento de agentes,458115.06,2025-01-19,Polícia Civil,convênio
+886,Mato Grosso,Guarantã do Norte,administração,Aluguel de imóveis,18443.22,2025-04-06,Prefeitura,licitação
+887,Mato Grosso,Barra do Garças,segurança,Viaturas policiais,398062.45,2026-01-06,Trânsito,contrato direto
+888,Mato Grosso,Peixoto de Azevedo,educação,Salários de professores,134436.81,2024-07-08,Escola Municipal,parceria
+889,Mato Grosso,Rondonópolis,infraestrutura,Construção de pontes,800612.51,2025-07-05,Secretaria de Obras,contrato direto
+890,Mato Grosso,Diamantino,educação,Transporte estudantil,35017.94,2025-04-15,Universidade Estadual,convênio
+891,Mato Grosso,Cáceres,administração,Aluguel de imóveis,40344.85,2024-09-30,Prefeitura,convênio
+892,Mato Grosso,Pontes e Lacerda,saúde,Equipamentos hospitalares,273283.06,2025-10-29,Posto de Saúde,parceria
+893,Mato Grosso,Nova Mutum,segurança,Sistemas de vigilância,566167.02,2024-01-08,Polícia Militar,convênio
+894,Mato Grosso,Cuiabá,saúde,Compra de medicamentos,421081.59,2026-01-01,Hospital Municipal,contrato direto
+895,Mato Grosso,Água Boa,infraestrutura,Construção de pontes,205028.37,2024-05-07,Departamento de Viação,licitação
+896,Mato Grosso,Alta Floresta,administração,Material de escritório,61944.89,2024-12-31,Prefeitura,convênio
+897,Mato Grosso,Juína,segurança,Treinamento de agentes,579081.25,2025-05-04,Polícia Civil,licitação
+898,Mato Grosso,Cuiabá,infraestrutura,Construção de pontes,469194.59,2024-04-25,Departamento de Viação,parceria
+899,Mato Grosso,Pontes e Lacerda,saúde,Manutenção de hospitais,117003.01,2025-06-21,SAMU,parceria
+900,Mato Grosso,Barra do Garças,administração,Aluguel de imóveis,61073.61,2024-06-17,Prefeitura,licitação
+901,Mato Grosso,Rondonópolis,infraestrutura,Asfalto de vias,582202.17,2025-09-08,Secretaria de Obras,convênio
+902,Mato Grosso,Nova Mutum,educação,Salários de professores,136952.57,2024-05-24,Creche,convênio
+903,Mato Grosso,Diamantino,educação,Material escolar,185585.89,2025-06-30,Creche,parceria
+904,Mato Grosso,Rondonópolis,infraestrutura,Saneamento básico,698332.88,2024-09-02,Secretaria de Obras,parceria
+905,Mato Grosso,Cuiabá,segurança,Sistemas de vigilância,494475.68,2025-11-22,Polícia Civil,licitação
+906,Mato Grosso,Primavera do Leste,saúde,Contratação de médicos,75280.41,2025-06-17,Secretaria de Saúde,parceria
+907,Mato Grosso,Cáceres,segurança,Viaturas policiais,761894.72,2024-07-02,Trânsito,contrato direto
+908,Mato Grosso,Alta Floresta,saúde,Contratação de médicos,179517.54,2025-09-10,Hospital Municipal,parceria
+909,Mato Grosso,Primavera do Leste,saúde,Compra de medicamentos,155550.98,2024-05-03,Secretaria de Saúde,convênio
+910,Mato Grosso,Barra do Garças,infraestrutura,Saneamento básico,729540.42,2025-02-19,Secretaria de Obras,licitação
+911,Mato Grosso,Lucas do Rio Verde,segurança,Equipamentos de segurança,700636.7,2024-12-19,Polícia Civil,contrato direto
+912,Mato Grosso,Várzea Grande,infraestrutura,Construção de pontes,567225.3,2024-06-04,Departamento de Viação,parceria
+913,Mato Grosso,Juína,segurança,Equipamentos de segurança,83101.39,2024-04-09,Polícia Militar,parceria
+914,Mato Grosso,Várzea Grande,saúde,Equipamentos hospitalares,195465.18,2024-02-08,SAMU,contrato direto
+915,Mato Grosso,Lucas do Rio Verde,segurança,Treinamento de agentes,99158.83,2024-01-20,Polícia Militar,contrato direto
+916,Mato Grosso,Colíder,administração,Material de escritório,28175.27,2025-06-16,RH,parceria
+917,Mato Grosso,Campo Verde,administração,Aluguel de imóveis,64756.86,2025-06-25,Contadoria,contrato direto
+918,Mato Grosso,Lucas do Rio Verde,administração,Consultoria,62744.25,2025-10-08,RH,licitação
+919,Mato Grosso,Juína,infraestrutura,Asfalto de vias,45596.83,2024-04-14,Departamento de Viação,licitação
+920,Mato Grosso,Nova Mutum,segurança,Sistemas de vigilância,208179.03,2025-12-02,Trânsito,contrato direto
+921,Mato Grosso,Lucas do Rio Verde,saúde,Compra de medicamentos,51257.35,2024-08-05,SAMU,licitação
+922,Mato Grosso,Juína,segurança,Viaturas policiais,598638.68,2025-06-16,Polícia Militar,contrato direto
+923,Mato Grosso,Guarantã do Norte,saúde,Compra de medicamentos,421363.36,2024-11-17,SAMU,convênio
+924,Mato Grosso,Juína,segurança,Equipamentos de segurança,572533.76,2024-09-17,Guarda Municipal,convênio
+925,Mato Grosso,Diamantino,administração,Material de escritório,74725.31,2024-10-14,Prefeitura,convênio
+926,Mato Grosso,Rondonópolis,saúde,Manutenção de hospitais,276394.04,2024-07-29,SAMU,licitação
+927,Mato Grosso,Pontes e Lacerda,segurança,Viaturas policiais,421822.4,2024-10-07,Polícia Militar,licitação
+928,Mato Grosso,Pontes e Lacerda,segurança,Sistemas de vigilância,528899.83,2024-10-25,Polícia Civil,contrato direto
+929,Mato Grosso,Lucas do Rio Verde,administração,Consultoria,23265.2,2024-10-20,RH,licitação
+930,Mato Grosso,Cáceres,educação,Construção de escolas,152230.9,2025-07-17,Creche,licitação
+931,Mato Grosso,Nova Mutum,educação,Material escolar,31047.13,2024-12-13,Secretaria de Educação,contrato direto
+932,Mato Grosso,Juína,administração,Aluguel de imóveis,89993.61,2025-07-04,Contadoria,licitação
+933,Mato Grosso,Rondonópolis,educação,Salários de professores,178866.53,2025-10-28,Universidade Estadual,contrato direto
+934,Mato Grosso,Peixoto de Azevedo,saúde,Contratação de médicos,432503.7,2024-01-25,Posto de Saúde,parceria
+935,Mato Grosso,Cáceres,segurança,Equipamentos de segurança,76669.76,2024-11-08,Trânsito,contrato direto
+936,Mato Grosso,Campo Verde,infraestrutura,Construção de pontes,520095.14,2024-10-06,Energia,contrato direto
+937,Mato Grosso,Barra do Garças,educação,Construção de escolas,184030.92,2024-11-26,Secretaria de Educação,parceria
+938,Mato Grosso,Água Boa,saúde,Equipamentos hospitalares,447681.95,2025-10-16,Hospital Municipal,parceria
+939,Mato Grosso,Juína,educação,Salários de professores,157686.29,2025-11-05,Creche,licitação
+940,Mato Grosso,Pontes e Lacerda,educação,Construção de escolas,84139.63,2024-05-22,Secretaria de Educação,licitação
+941,Mato Grosso,Diamantino,saúde,Equipamentos hospitalares,485329.41,2025-06-29,Secretaria de Saúde,parceria
+942,Mato Grosso,Tangará da Serra,educação,Construção de escolas,109965.02,2024-09-19,Creche,licitação
+943,Mato Grosso,Sorriso,educação,Transporte estudantil,31973.0,2025-04-19,Creche,contrato direto
+944,Mato Grosso,Peixoto de Azevedo,infraestrutura,Asfalto de vias,147850.46,2024-10-20,Departamento de Viação,contrato direto
+945,Mato Grosso,Barra do Garças,educação,Salários de professores,163988.98,2024-05-13,Secretaria de Educação,licitação
+946,Mato Grosso,Campo Verde,infraestrutura,Asfalto de vias,437187.41,2025-08-21,Departamento de Viação,licitação
+947,Mato Grosso,Pontes e Lacerda,saúde,Equipamentos hospitalares,211879.49,2025-11-16,Posto de Saúde,licitação
+948,Mato Grosso,Diamantino,infraestrutura,Asfalto de vias,953904.16,2024-03-10,Departamento de Viação,contrato direto
+949,Mato Grosso,Guarantã do Norte,educação,Material escolar,161702.68,2025-03-08,Escola Municipal,licitação
+950,Mato Grosso,Diamantino,saúde,Equipamentos hospitalares,349394.86,2024-05-30,SAMU,contrato direto
+951,Mato Grosso,Juína,infraestrutura,Asfalto de vias,930004.17,2024-04-16,Saneamento,licitação
+952,Mato Grosso,Lucas do Rio Verde,infraestrutura,Construção de pontes,279875.4,2025-03-21,Saneamento,licitação
+953,Mato Grosso,Alta Floresta,infraestrutura,Construção de pontes,339560.34,2025-12-13,Secretaria de Obras,contrato direto
+954,Mato Grosso,Pontes e Lacerda,infraestrutura,Saneamento básico,842123.9,2025-09-23,Departamento de Viação,parceria
+955,Mato Grosso,Sinop,segurança,Equipamentos de segurança,197147.83,2025-01-23,Trânsito,contrato direto
+956,Mato Grosso,Lucas do Rio Verde,educação,Transporte estudantil,73322.36,2025-09-21,Secretaria de Educação,convênio
+957,Mato Grosso,Pontes e Lacerda,segurança,Treinamento de agentes,438765.03,2024-01-13,Polícia Civil,licitação
+958,Mato Grosso,Juína,administração,Aluguel de imóveis,26845.34,2024-08-01,Contadoria,contrato direto
+959,Mato Grosso,Juína,infraestrutura,Construção de pontes,864780.96,2024-06-03,Secretaria de Obras,contrato direto
+960,Mato Grosso,Nova Mutum,segurança,Sistemas de vigilância,393793.38,2024-10-19,Trânsito,convênio
+961,Mato Grosso,Barra do Garças,infraestrutura,Saneamento básico,876858.82,2024-02-12,Energia,licitação
+962,Mato Grosso,Cuiabá,segurança,Viaturas policiais,599675.77,2024-05-11,Trânsito,contrato direto
+963,Mato Grosso,Guarantã do Norte,administração,Aluguel de imóveis,36488.95,2025-08-28,Prefeitura,contrato direto
+964,Mato Grosso,Colíder,administração,Material de escritório,36275.64,2025-12-02,RH,contrato direto
+965,Mato Grosso,Cáceres,administração,Aluguel de imóveis,83280.46,2025-07-26,Prefeitura,parceria
+966,Mato Grosso,Peixoto de Azevedo,administração,Consultoria,60415.25,2024-08-13,Prefeitura,licitação
+967,Mato Grosso,Lucas do Rio Verde,infraestrutura,Asfalto de vias,945924.44,2024-03-27,Saneamento,convênio
+968,Mato Grosso,Peixoto de Azevedo,segurança,Treinamento de agentes,8434.86,2025-06-21,Polícia Civil,convênio
+969,Mato Grosso,Cáceres,infraestrutura,Construção de pontes,567306.15,2025-12-27,Secretaria de Obras,licitação
+970,Mato Grosso,Campo Verde,saúde,Contratação de médicos,138143.34,2025-03-22,SAMU,licitação
+971,Mato Grosso,Guarantã do Norte,educação,Material escolar,193911.26,2025-11-21,Escola Municipal,licitação
+972,Mato Grosso,Rondonópolis,infraestrutura,Construção de pontes,554677.51,2024-05-03,Departamento de Viação,parceria
+973,Mato Grosso,Tangará da Serra,saúde,Manutenção de hospitais,260574.07,2024-08-22,SAMU,licitação
+974,Mato Grosso,Primavera do Leste,segurança,Treinamento de agentes,285253.91,2024-06-04,Polícia Militar,licitação
+975,Mato Grosso,Lucas do Rio Verde,administração,Material de escritório,69190.18,2025-02-19,Contadoria,contrato direto
+976,Mato Grosso,Guarantã do Norte,administração,Material de escritório,43744.98,2024-12-01,RH,licitação
+977,Mato Grosso,Água Boa,administração,Serviços de limpeza,36051.81,2025-08-08,Secretaria de Administração,licitação
+978,Mato Grosso,Juína,educação,Material escolar,28454.99,2024-03-03,Secretaria de Educação,parceria
+979,Mato Grosso,Cuiabá,educação,Salários de professores,18647.44,2024-05-22,Universidade Estadual,licitação
+980,Mato Grosso,Alta Floresta,administração,Aluguel de imóveis,28921.37,2024-10-11,Prefeitura,licitação
+981,Mato Grosso,Campo Verde,infraestrutura,Iluminação pública,450368.66,2024-02-11,Energia,convênio
+982,Mato Grosso,Pontes e Lacerda,saúde,Equipamentos hospitalares,256206.6,2024-08-22,Secretaria de Saúde,parceria
+983,Mato Grosso,Diamantino,administração,Consultoria,65958.26,2024-04-13,Prefeitura,convênio
+984,Mato Grosso,Barra do Garças,saúde,Equipamentos hospitalares,55868.92,2024-02-07,Hospital Municipal,convênio
+985,Mato Grosso,Cuiabá,segurança,Treinamento de agentes,629418.08,2024-03-01,Polícia Civil,licitação
+986,Mato Grosso,Nova Mutum,educação,Construção de escolas,80064.89,2024-11-25,Universidade Estadual,convênio
+987,Mato Grosso,Lucas do Rio Verde,infraestrutura,Construção de pontes,459946.79,2025-10-17,Departamento de Viação,licitação
+988,Mato Grosso,Lucas do Rio Verde,infraestrutura,Saneamento básico,357903.28,2024-06-09,Saneamento,convênio
+989,Mato Grosso,Pontes e Lacerda,segurança,Viaturas policiais,53013.03,2024-12-19,Guarda Municipal,contrato direto
+990,Mato Grosso,Várzea Grande,infraestrutura,Saneamento básico,553102.63,2024-04-15,Saneamento,contrato direto
+991,Mato Grosso,Rondonópolis,segurança,Sistemas de vigilância,479884.22,2024-04-26,Polícia Militar,parceria
+992,Mato Grosso,Juína,saúde,Manutenção de hospitais,366905.07,2024-09-27,Hospital Municipal,convênio
+993,Mato Grosso,Peixoto de Azevedo,saúde,Contratação de médicos,310342.45,2024-06-24,SAMU,convênio
+994,Mato Grosso,Cáceres,infraestrutura,Saneamento básico,912440.17,2024-05-05,Saneamento,parceria
+995,Mato Grosso,Sinop,segurança,Sistemas de vigilância,289152.67,2024-06-30,Guarda Municipal,licitação
+996,Mato Grosso,Alta Floresta,educação,Construção de escolas,140807.87,2025-12-05,Creche,contrato direto
+997,Mato Grosso,Alta Floresta,saúde,Compra de medicamentos,303382.73,2024-04-16,SAMU,parceria
+998,Mato Grosso,Colíder,educação,Transporte estudantil,53326.48,2025-04-01,Secretaria de Educação,convênio
+999,Mato Grosso,Peixoto de Azevedo,educação,Transporte estudantil,175018.39,2024-07-13,Escola Municipal,contrato direto
+1000,Mato Grosso,Cáceres,educação,Transporte estudantil,55753.92,2024-03-01,Escola Municipal,parceria

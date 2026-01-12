@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transparência Mato Grosso</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .loading { opacity: 0.6; pointer-events: none; }
+        .fade-in { animation: fadeIn 0.5s ease-in; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <div class="min-h-screen">
+        <!-- Header -->
+        <header class="bg-green-600 text-white shadow-lg">
+            <div class="container mx-auto px-6 py-6">
+                <h1 class="text-3xl font-bold">Transparência Mato Grosso</h1>
+                <p class="text-green-100 mt-1">Consulte gastos públicos com inteligência artificial</p>
+            </div>
+        </header>
+
+        <div class="container mx-auto px-6 py-8">
+            <!-- Query Input -->
+            <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+                <h2 class="text-xl font-semibold mb-4">Faça sua pergunta</h2>
+                <div class="flex gap-4">
+                    <input 
+                        type="text" 
+                        id="questionInput"
+                        placeholder="Ex: Quanto foi gasto com saúde em Cuiabá?"
+                        class="flex-1 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent"
+                    />
+                    <button 
+                        onclick="executeQuery()" 
+                        id="queryBtn"
+                        class="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-medium transition-all"
+                    >
+                        Consultar
+                    </button>
+                </div>
+                
+                <!-- Quick Examples -->
+                <div class="mt-4 flex flex-wrap gap-2">
+                    <button onclick="setQuestion('Quanto foi gasto com saúde?')" class="text-sm bg-gray-100 hover:bg-gray-200 px-3 py-1 rounded-full">Gastos com saúde</button>
+                    <button onclick="setQuestion('Maiores gastos de Cuiabá')" class="text-sm bg-gray-100 hover:bg-gray-200 px-3 py-1 rounded-full">Maiores gastos Cuiabá</button>
+                    <button onclick="setQuestion('Total por categoria')" class="text-sm bg-gray-100 hover:bg-gray-200 px-3 py-1 rounded-full">Total por categoria</button>
+                    <button onclick="setQuestion('Gastos com educação')" class="text-sm bg-gray-100 hover:bg-gray-200 px-3 py-1 rounded-full">Educação</button>
+                </div>
+            </div>
+
+            <!-- SQL Display -->
+            <div id="sqlSection" class="bg-gray-800 rounded-lg p-4 mb-6 hidden">
+                <h3 class="text-green-400 font-semibold mb-2">SQL Gerado:</h3>
+                <code id="sqlCode" class="text-green-300 text-sm"></code>
+            </div>
+
+            <!-- Results Dashboard - Dynamic Layout -->
+            <div id="resultsSection" class="hidden fade-in">
+                <!-- Dynamic Content Container -->
+                <div id="dynamicContent" class="space-y-6">
+                    <!-- Content will be dynamically generated based on query results -->
+                </div>
+            </div>
+
+            <!-- Error Display -->
+            <div id="errorSection" class="bg-red-50 border border-red-200 rounded-lg p-4 hidden">
+                <h4 class="text-red-800 font-semibold">Erro</h4>
+                <p id="errorMessage" class="text-red-700"></p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function setQuestion(question) {
+            document.getElementById('questionInput').value = question;
+        }
+
+        async function executeQuery() {
+            const question = document.getElementById('questionInput').value.trim();
+            if (!question) return;
+
+            // Show loading state
+            document.getElementById('queryBtn').textContent = 'Processando...';
+            document.getElementById('queryBtn').disabled = true;
+            hideAllSections();
+
+            try {
+                const response = await axios.post('/query', { question });
+                const data = response.data;
+
+                // Show SQL
+                document.getElementById('sqlCode').textContent = data.sql;
+                document.getElementById('sqlSection').classList.remove('hidden');
+
+                // Show results
+                displayResults(data.results);
+                
+            } catch (error) {
+                showError(error.response?.data?.error || 'Erro ao processar consulta');
+            } finally {
+                document.getElementById('queryBtn').textContent = 'Consultar';
+                document.getElementById('queryBtn').disabled = false;
+            }
+        }
+
+        function displayResults(results) {
+            if (!results || results.length === 0) {
+                showError('Nenhum resultado encontrado');
+                return;
+            }
+
+            // Clear previous content
+            const dynamicContent = document.getElementById('dynamicContent');
+            dynamicContent.innerHTML = '';
+
+            // Analyze the data structure to determine best visualization
+            const dataStructure = analyzeDataStructure(results);
+            
+            // Build dynamic layout based on data
+            buildDynamicLayout(results, dataStructure, dynamicContent);
+
+            // Show results section
+            document.getElementById('resultsSection').classList.remove('hidden');
+        }
+
+        function analyzeDataStructure(results) {
+            const structure = {
+                hasAmounts: false,
+                hasCategories: false,
+                hasDates: false,
+                hasMunicipalities: false,
+                isAggregated: false,
+                isSingleValue: false,
+                recordCount: results.length
+            };
+
+            if (results.length === 0) return structure;
+
+            const firstRow = results[0];
+            const columns = Object.keys(firstRow);
+
+            // Check for different data types
+            structure.hasAmounts = columns.some(col => col.includes('amount') || col === 'total');
+            structure.hasCategories = columns.includes('cost_category');
+            structure.hasDates = columns.includes('date');
+            structure.hasMunicipalities = columns.includes('municipality');
+            
+            // Check if it's aggregated data (like GROUP BY results)
+            structure.isAggregated = columns.includes('total') && results.length < 20;
+            
+            // Check if it's a single value result
+            structure.isSingleValue = results.length === 1 && columns.length <= 2;
+
+            return structure;
+        }
+
+        function buildDynamicLayout(results, structure, container) {
+            // Always show key metrics first
+            const metricsSection = createMetricsSection(results, structure);
+            container.appendChild(metricsSection);
+
+            // Add visualization based on data type - only pie/doughnut charts
+            if (structure.isAggregated && structure.hasCategories) {
+                // Category aggregation - show pie chart
+                const chartSection = createCategoryChart(results);
+                container.appendChild(chartSection);
+            } else if (structure.hasCategories && results.length > 1) {
+                // Multiple records with categories - show pie chart
+                const chartSection = createCategoryChart(results);
+                container.appendChild(chartSection);
+            }
+
+            // Show raw data as simple list
+            const rawDataSection = createRawDataDisplay(results);
+            container.appendChild(rawDataSection);
+        }
+
+        function createMetricsSection(results, structure) {
+            const section = document.createElement('div');
+            section.className = 'grid grid-cols-2 md:grid-cols-4 gap-4';
+
+            const metrics = calculateMetrics(results, structure);
+            
+            metrics.forEach(metric => {
+                const card = document.createElement('div');
+                card.className = 'bg-white rounded-lg shadow p-4';
+                card.innerHTML = `
+                    <h4 class="text-gray-600 text-sm">${metric.label}</h4>
+                    <p class="text-2xl font-bold ${metric.color}">${metric.value}</p>
+                `;
+                section.appendChild(card);
+            });
+
+            return section;
+        }
+
+        function calculateMetrics(results, structure) {
+            const metrics = [];
+            
+            // Always show record count
+            metrics.push({
+                label: 'Total de Registros',
+                value: results.length.toLocaleString(),
+                color: 'text-blue-600'
+            });
+
+            if (structure.hasAmounts) {
+                let totalValue = 0;
+                let maxValue = 0;
+                let validAmounts = 0;
+
+                results.forEach(row => {
+                    const amount = parseFloat(row.amount || row.total || 0);
+                    if (amount > 0) {
+                        totalValue += amount;
+                        maxValue = Math.max(maxValue, amount);
+                        validAmounts++;
+                    }
+                });
+
+                if (validAmounts > 0) {
+                    metrics.push({
+                        label: 'Valor Total',
+                        value: formatCurrency(totalValue),
+                        color: 'text-green-600'
+                    });
+
+                    if (validAmounts > 1) {
+                        metrics.push({
+                            label: 'Valor Médio',
+                            value: formatCurrency(totalValue / validAmounts),
+                            color: 'text-purple-600'
+                        });
+
+                        metrics.push({
+                            label: 'Maior Valor',
+                            value: formatCurrency(maxValue),
+                            color: 'text-red-600'
+                        });
+                    }
+                }
+            }
+
+            // Add specific metrics based on data
+            if (structure.hasMunicipalities) {
+                const uniqueMunicipalities = new Set(results.map(r => r.municipality)).size;
+                metrics.push({
+                    label: 'Municípios',
+                    value: uniqueMunicipalities.toString(),
+                    color: 'text-indigo-600'
+                });
+            }
+
+            return metrics.slice(0, 4); // Limit to 4 metrics to maintain layout
+        }
+
+        function createCategoryChart(results) {
+            const section = document.createElement('div');
+            section.className = 'bg-white rounded-lg shadow p-4';
+            
+            const title = document.createElement('h4');
+            title.className = 'font-semibold mb-4';
+            title.textContent = 'Distribuição por Categoria';
+            section.appendChild(title);
+
+            // Create container for proper sizing
+            const chartContainer = document.createElement('div');
+            chartContainer.className = 'relative';
+            chartContainer.style.height = '400px';
+            chartContainer.style.width = '100%';
+            
+            const canvas = document.createElement('canvas');
+            chartContainer.appendChild(canvas);
+            section.appendChild(chartContainer);
+
+            // Process category data
+            const categoryData = {};
+            results.forEach(row => {
+                const category = row.cost_category || 'Outros';
+                const amount = parseFloat(row.amount || row.total || 0);
+                categoryData[category] = (categoryData[category] || 0) + amount;
+            });
+
+            // Create chart with proper configuration
+            new Chart(canvas.getContext('2d'), {
+                type: 'doughnut',
+                data: {
+                    labels: Object.keys(categoryData),
+                    datasets: [{
+                        label: 'Gastos por Categoria',
+                        data: Object.values(categoryData),
+                        backgroundColor: [
+                            '#10B981', // Green
+                            '#3B82F6', // Blue  
+                            '#8B5CF6', // Purple
+                            '#F59E0B', // Orange
+                            '#EF4444', // Red
+                            '#6B7280', // Gray
+                            '#EC4899', // Pink
+                            '#14B8A6'  // Teal
+                        ],
+                        borderColor: '#ffffff',
+                        borderWidth: 2,
+                        hoverOffset: 6
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                padding: 20,
+                                usePointStyle: true,
+                                font: {
+                                    size: 12
+                                }
+                            }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    const label = context.label || '';
+                                    const value = formatCurrency(context.parsed);
+                                    const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                                    const percentage = ((context.parsed / total) * 100).toFixed(1);
+                                    return `${label}: ${value} (${percentage}%)`;
+                                }
+                            }
+                        }
+                    },
+                    cutout: '60%', // Makes it a proper doughnut
+                    radius: '90%'  // Controls overall size
+                }
+            });
+
+            return section;
+        }
+
+        function createRawDataDisplay(results) {
+            const section = document.createElement('div');
+            section.className = 'bg-white rounded-lg shadow p-4';
+            
+            const header = document.createElement('div');
+            header.className = 'mb-4';
+            header.innerHTML = '<h4 class="font-semibold">Dados Brutos</h4>';
+            section.appendChild(header);
+
+            const dataContainer = document.createElement('div');
+            dataContainer.className = 'space-y-3 max-h-96 overflow-y-auto';
+            
+            // Show first 20 records as cards
+            results.slice(0, 20).forEach((row, index) => {
+                const card = document.createElement('div');
+                card.className = 'bg-gray-50 rounded-lg p-3 border';
+                
+                let cardContent = `<div class="text-sm font-medium text-gray-900 mb-2">Registro ${index + 1}</div>`;
+                
+                Object.keys(row).forEach(key => {
+                    let value = row[key];
+                    if ((key.includes('amount') || key === 'total') && value) {
+                        value = formatCurrency(parseFloat(value));
+                    } else if (value === null || value === undefined) {
+                        value = '-';
+                    }
+                    
+                    const label = key.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase());
+                    cardContent += `<div class="text-xs text-gray-600"><span class="font-medium">${label}:</span> ${value}</div>`;
+                });
+                
+                card.innerHTML = cardContent;
+                dataContainer.appendChild(card);
+            });
+
+            if (results.length > 20) {
+                const moreInfo = document.createElement('div');
+                moreInfo.className = 'text-center text-sm text-gray-500 mt-4';
+                moreInfo.textContent = `... e mais ${results.length - 20} registros`;
+                dataContainer.appendChild(moreInfo);
+            }
+            
+            section.appendChild(dataContainer);
+            return section;
+        }
+
+        function formatCurrency(value) {
+            return new Intl.NumberFormat('pt-BR', {
+                style: 'currency',
+                currency: 'BRL'
+            }).format(value);
+        }
+
+        function showError(message) {
+            document.getElementById('errorMessage').textContent = message;
+            document.getElementById('errorSection').classList.remove('hidden');
+        }
+
+        function hideAllSections() {
+            document.getElementById('sqlSection').classList.add('hidden');
+            document.getElementById('resultsSection').classList.add('hidden');
+            document.getElementById('errorSection').classList.add('hidden');
+        }
+
+        // Enter key support
+        document.getElementById('questionInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                executeQuery();
+            }
+        });
+    </script>
+</body>
+</html>
